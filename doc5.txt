@@ -1,0 +1,1440 @@
+URL: www.muhlenberg.edu/gateways/current-students/index.php
+Relative links: 127
+Absolute links: 31
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Student Hub | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="Student Hub">
+	<meta property="og:type" content="website">
+	
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+  
+  
+   
+  <!------------------------------------------>
+  <!-- Additions for Muhlenberg -->
+  <!--------------------------------------->
+ 
+  <!-- JS and CSS for bxSlider 
+    /media/demofastspot/jquery.fitvids.js
+    /media/demofastspot/jquery.bxslider.js
+    /media/demofastspot/jquery.easing.1.3.js
+    /media/demofastspot/jquery.bxslider.css:
+  -->
+  <script type="text/javascript" src="/media/demofastspot/jquery.fitvids.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.bxslider.js"></script>
+  <script type="text/javascript" src="/media/demofastspot/jquery.easing.1.3.js"></script>
+  <link rel="stylesheet" type="text/css"  href="/media/demofastspot/jquery.bxslider.css" />
+
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+  
+  
+   <!-- old css  used by Messageboard on Gateways -->
+   <link rel="stylesheet" type="text/css"  href="/media/demofastspot/oldCss.css" />
+
+  <!----------------------------------------------->
+  <!-- start Animated Collapse
+  Global library to show/hide content; used by Gateways for Commonly Used Web Pages
+    T4 TAG 365103 is animatedcollapse.js
+  -->
+  <script type="text/javascript" src="/media/contentassets/js/it/animatedcollapse.js"></script>
+  
+  
+    <!-- <script type="text/javascript" src="/media/contentassets/js/it/animatedcollapse.js"></script> -->
+  
+   <!-- Custom settings for and placed after animatedcollapse.js specific to content for show/hide -->
+    <script type="text/javascript">
+
+/*Animated Collapsible DIV v2.0- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+***********************************************/
+var toggleStatus="hide";
+ function setToggle () {
+   if (this.toggleStatus == "hide") {
+     animatedcollapse.show('links-more');
+     var sml=document.getElementById('showMoreLess');
+     sml.innerHTML='(Show Less)'
+     this.toggleStatus="show";
+     document.getElementById('toggleArrow').src="images/upArrow.png";
+     return;
+   } 
+   if (this.toggleStatus == "show") {
+     animatedcollapse.hide('links-more');
+     var sml=document.getElementById('showMoreLess');
+     sml.innerHTML='(Show More)'
+     this.toggleStatus="hide";
+     document.getElementById('toggleArrow').src="images/downArrow.png";
+   }
+ }
+animatedcollapse.addDiv('links-more', 'fade=0, hide=1');
+animatedcollapse.addDiv('alerts', 'fade=0, hide=0');
+animatedcollapse.addDiv('announce', 'fade=0, hide=1');
+animatedcollapse.addDiv('nod', 'fade=0, hide=0');
+animatedcollapse.addDiv('inthenews', 'fade=0, hide=0');
+animatedcollapse.addDiv('promos', 'fade=0, hide=0');
+animatedcollapse.addDiv('postings', 'fade=0, hide=0');
+animatedcollapse.addDiv('general', 'fade=0, hide=0');
+      
+
+animatedcollapse.ontoggle=function($, divobj, state){ //fires each time a DIV is expanded/contracted
+        //$: Access to jQuery
+        //divobj: DOM reference to DIV being expanded/ collapsed. Use "divobj.id" to get its ID
+        //state: "block" or "none", depending on state
+}
+animatedcollapse.init();
+</script>
+<!-- end animated collapse -->
+  <!-- start calendarEvents.css for calendar event listing used on Gateways -->
+   <link rel="stylesheet" type="text/css"  href="/media/styleassets/css/dynamiccustomcode/calendarEvents.css" />
+<!-- end calendarEvents.css  -->
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper" >
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Contact</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    
+    <div class="page_header">
+			<div class="js-background page_header_background" "" 
+         data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+      
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/webapps/">Webapps</a></li><li class="linkitem"><a href="/webapps/dynamic/">Dynamic</a></li><li class="linkitem"><a href="/gateways/index.php">Gateways</a></li><li class="linkitem"><a href="/gateways/current-students/index.php">Student Hub</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+         
+						<div class="page_header_content">
+							<h1 class="page_title">Student Hub</h1>
+							<p class="page_intro">Online information center for Current Students</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/current-students-gateway/Muhlenberg-October2018-813.jpg","500px":"/media/contentassets/images/current-students-gateway/Muhlenberg-October2018-259.jpg","740px":"/media/contentassets/images/current-students-gateway/Muhlenberg-October2018-1246.jpg","980px":"/media/contentassets/images/current-students-gateway/2018SpringCampus-8.jpg","1220px":"/media/contentassets/images/current-students-gateway/TrexlerLibraryGalacticTriviaFall2018-5888-2.jpg"}}'></div>
+			<div class="page_header_inner gradient_4">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/webapps/">Webapps</a></li><li class="linkitem"><a href="/webapps/dynamic/">Dynamic</a></li><li class="linkitem"><a href="/gateways/index.php">Gateways</a></li><li class="linkitem"><a href="/gateways/current-students/index.php">Student Hub</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Student Hub</h1>
+							<p class="page_intro">Online information center for Current Students</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Student Hub">
+							<span class="sub_nav_handle_label">Student Hub</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="https://capstone2.muhlenberg.edu/frmss01.html">Capstone</a></li><li class="sub_nav_item"><a href="https://muhlenberg-college.onelogin.com/login" target="_self">Canvas</a></li><li class="sub_nav_item"><a href="https://muhlenberg-college.onelogin.com/login" target="_self">Application Portal</a></li><li class="sub_nav_item"><a href="https://www.muhlenberg.edu/webapps/incidentreporting/">Report A Concern Or Incident</a></li><li class="sub_nav_item"><a href="https://www.muhlenberg.edu/aboutus/mobileapp/">Download iMuhlenberg</a></li><li class="sub_nav_item"><a href="http://www.youtube.com/user/muhlsid">Athletics On YouTube</a></li><li class="sub_nav_item"><a href="http://www.muhlenberg.edu/wmuh">Listen to WMUH</a></li><li class="sub_nav_item"><a href="http://www.muhlenbergweekly.com/">Read the Muhlenberg Weekly</a></li><li class="sub_nav_item"><a href="https://trexlerworks.muhlenberg.edu/trexler_blog/">Library News &amp; Services</a></li><li class="sub_nav_item"><a href="https://www.muhlenberg.edu/messageboard/bergbulletin/options/">Get the Berg Bulletin</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <!--  HIDE BREADCRUMB FOR DESKTOP
+           <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/webapps/">Webapps</a></li><li class="linkitem"><a href="/webapps/dynamic/">Dynamic</a></li><li class="linkitem"><a href="/gateways/index.php">Gateways</a></li><li class="linkitem"><a href="/gateways/current-students/index.php">Student Hub</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+          -->
+
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+            
+
+
+<link rel="stylesheet" href="/media/styleassets/css/dynamiccustomcode/bootstrap.min.muh.css">
+
+<div id="targetAudience" style='text-align:right;padding-bottom:15px'>
+<span style='font-size:0.7em'>
+<a href='/gateways/setCookie.php?target=target&audience=student'>Make this my Message Board &quot;start&quot; page</a>
+</span>
+</div>
+  <script>
+   var target =this.targetAudience;
+   if (target == 'student' || '' == 'student') {
+        document.getElementById('targetAudience').style.visibility="hidden";
+   }
+</script>
+<!-- Content Template Start: Expandable Columns-3 -->
+<!-- 
+REQUIRED LIBRARIES:
+ <script type="text/javascript" src="/media/contentassets/js/it/animatedcollapse.js"></script>
+ <script type="text/javascript" src="animatedCollapseConfig.js"></script>
+-->
+<style>
+.commonLinks {
+}
+.commonLinks a {
+   color:#A41D36;
+}
+
+</style>
+</style>
+
+<div class="row commonLinks" style='margin-left:35px;background-color:#333333;padding-bottom:0px;margin-bottom:-10px;width:73%'>
+
+<div class="col-sm-12 col-xs-12 col-lg-12 col-md-12" >
+ <h3 style='color:#FFFFFF'>Commonly Used Campus Web Pages &nbsp;&nbsp; 
+<span style='font-size:0.8em;font-weight:normal'><a id="showMoreLess" href="javascript: setToggle()" style='font-size:0.8em;color:#FFFFFF'  >(Show More)</a></span>
+
+</div>
+</div>
+
+<div id="container"  style=';margin-left:35px;width:75%;padding-top:15px'>
+<div id="previewLinks" class="row commonLinks" >
+
+<div class="col-sm-12 col-xs-12 col-lg-4 col-md-4">
+ <p><strong>Get Academic</strong></p>
+<ul>
+<li><a href="/newsevents/calendar/">Academic Calendar</a></li>
+<li><a href="https://capstone2.muhlenberg.edu/frmss03.html">Course Schedule</a></li>
+<li><a href="/main/aboutus/registrar/exam_schedule.html/">Final Exam Schedule</a></li>
+</ul>
+</div>
+
+<div class="col-sm-12 col-xs-12 col-lg-4 col-md-4">
+<p><strong>Get Services</strong></p>
+<ul>
+<li><a href="/offices/">College Offices</a></li>
+<li><a href="/main/campuslife/resserv/">Housing/Residential Life</a></li>
+<li><span style="color: #0000ee;"><span style="text-decoration: underline;"><a href="/offices/deanst/shuttleservice/">Shuttle Service</a></span></span></li>
+</ul>
+</div>
+<div class="col-sm-12 col-xs-12 col-lg-4 col-md-4">
+<p><strong>Get Involved</strong></p>
+<ul>
+<li><a href="/main/aboutus/careercenter/">Career Center</a></li>
+<li><a href="/main/campuslife/activities/studentorganizations/listoforganizations/">Student&nbsp;Organizations</a></li>
+<li><a href="https://webapps.muhlenberg.edu:442/StudentTools">Student Tools Login</a></li>
+</ul>
+</div>
+</div>
+
+<!-- Toggle links -->
+<!-- Expanded Columns -->
+<div id="links-more" class="row commonLinks" >
+<hr/>
+<div class="col-sm-12 col-xs-12 col-lg-4 col-md-4">
+ <ul style="line-height: 1.4;">
+<li><a href="https://webapps.muhlenberg.edu:442/internships/index.php" target="_blank">ABEF Internship</a></li>
+<li><a href="/main/aboutus/dean-academic/integrity/">Academic Integrity Code</a></li>
+<li><a href="/main/admissions/applyingtoacooperativeprogram/">Cooperative Program</a></li>
+<li><a href="http://catalog.muhlenberg.edu/">Academic Catalog</a></li>
+<li><a href="/main/aboutus/arc/">Academic Resource Center</a></li>
+<li><a href="/main/aboutus/dean-academic/awards/">Awards &amp; Grants</a></li>
+<li><a href="/commencement/">Commencement</a></li>
+<li><a href="/main/aboutus/registrar/courses/lviaccross-registration/">Connect with Other Colleges</a></li>
+<li><a href="/main/newsevents/calendar/">Academic Calendar</a></li>
+<li><a href="/main/aboutus/dean-academic/">Dean of Academic Life</a></li>
+<li><a href="/main/academics/global-education/">Education Abroad</a></li>
+<li><a href="/main/academics/majorsandprograms.html">Majors, Minors &amp; Programs</a></li>
+<li><a href="/main/aboutus/dean-academic/awards/nationalandinternational/informationaboutawards/">Prestigious Awards Initiative</a></li>
+<li><a href="/main/aboutus/registrar/policyandprocedures/">Policies &amp; Procedures Manual</a></li>
+<li><a href="/main/academics/research/">Research</a></li>
+<li><a href="/main/campuslife/community-engagement/">Service Learning</a></li>
+<li><a href="http://trexler.muhlenberg.edu/">Trexler Library</a></li>
+<li><a href="/main/academics/global-education/approvedprogramsoff-campus/washingtonsemester/">Washington Semester</a><br><br></li>
+</ul>
+</div>
+<div class="col-sm-12 col-xs-12 col-lg-4 col-md-4">
+<ul>
+<li><a href="http://bergbookshop.com/home.aspx">'Berg Bookshop</a></li>
+<li><a href="/main/aboutus/campus-safety/">Campus Safety</a></li>
+<li><a href="https://capstone2.muhlenberg.edu/frmss01.html">CapStone Student Information System</a></li>
+<li><a href="/main/aboutus/careercenter/">Career Center</a></li>
+<li><a href="/main/aboutus/collegeoffices.html">College Offices</a></li>
+<li><a href="/main/aboutus/counseling/">Counseling Services</a></li>
+<li><a href="/main/aboutus/deanst/">Dean of Students</a></li>
+<li><a href="http://dining.muhlenberg.edu/">Dining Services</a></li>
+<li><a href="/main/aboutus/disabilities/">Disability Services</a></li>
+<li><a href="/main/aboutus/finaid/">Financial Aid</a></li>
+<li><a href="/main/aboutus/health/">Health Center</a></li>
+<li><a href="/main/aboutus/oit/">Information Technology</a></li>
+<li><a href="/main/aboutus/deanst/summaryofoffices/judicialaffairs/">Judicial Affairs</a></li>
+<li><a href="/main/aboutus/oit/studentcomputing/laptopsecurity/">Laptop Security</a></li>
+<li><a href="/main/campuslife/lgbt/">LGBT</a></li>
+<li><a href="http://muhlenbergsports.com/sports/2014/12/12/LSC.aspx?path=facilities_">Life Sports Center</a></li>
+<li><a href="/campusonly/collegegraphics/">Official College Graphics</a></li>
+<li><a href="/main/aboutus/plantops/">Plant Operations</a>
+<ul>
+<li><a href="/main/aboutus/plantops/workorderoncampus/">Submit Work Order</a></li>
+</ul>
+</li>
+<li><a href="/campusonly/policiesprocedures/">Policies &amp; Procedures</a></li>
+<li><a href="/main/aboutus/president/">President's Office</a></li>
+<li><a href="/main/aboutus/registrar/">Registrar</a></li>
+<li><a href="/main/campuslife/resserv/">Residential Services</a></li>
+<li><a href="/main/aboutus/deanst/shuttleservice/">Shuttle Service<br></a></li>
+<li><a href="/media/contentassets/pdf/about/deanst/studentguide/socialcode.pdf">Student Code of Conduct</a></li>
+<li><a href="/offices/oit/studentcomputing/">Student Computing</a>&nbsp;(Help Desk, X3375)</li>
+<li><a href="/main/aboutus/deanst/services/student_guide.html">Student Policy and Resource Guide</a></li>
+<li><a href="/main/aboutus/union/">Student Union</a></li>
+<li><a href="/main/aboutus/hr/weather.html">Weather Policy</a></li>
+<li><a href="/main/academics/writing/center/">Writing Center</a></li>
+</ul>
+<p><br><br></p>
+</div>
+<div class="col-sm-12 col-xs-12 col-lg-4 col-md-4">
+ <ul>
+<li><a href="http://www.muhlenbergconnect.com/">Alumni Relations</a></li>
+<li><a href="http://muhlenbergsports.com/">Athletics</a></li>
+<li><a href="/main/campuslife/sustainability/">Campus Sustainability</a></li>
+<li><a href="/main/campuslife/community-engagement/">Community Service</a></li>
+<li><a href="/family-weekend/">Family Weekend</a></li>
+<li><a href="/main/campuslife/greek/">Greek Life</a></li>
+<li><a href="/main/aboutus/gallery/">Martin Art Gallery</a></li>
+<li><a href="/main/campuslife/activities/activitiescouncilmac/">Muhlenberg Activities Council</a></li>
+<li><a href="/main/campuslife/multicultural/">Multicultural Life</a></li>
+<li><a href="/main/academics/theatre-dance/">Performing Arts</a></li>
+<li><a href="/main/campuslife/religiouslife/">Religious Life</a></li>
+<li><a href="/strategicplan/">Strategic Planning</a></li>
+<li><a href="/studorgs/council/">Student Government Association</a></li>
+<li><a href="/main/campuslife/activities/studentorganizations/">Student Organizations</a></li>
+</ul>
+<p><br><br></p>
+</div>
+</div>
+</div>
+
+<!-- end --><!-- start:  add row with 2 columns 2/6/19 -->
+
+<div class="fs-row" id="mb_cal"  style='margin-left:15px;'>
+
+  
+<!-- start 1st column ************************************************************* -->  
+<div class="fs-cell fs-lg-6" id="mb" >
+
+
+  
+  
+  
+<!-- start Message Board *************************************************************   -->
+<div class="container">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-12" style='border:thin solid black'>
+                      <div class="cl_plan" style='padding-top:1px;height:50px'>
+        <div class="cl_copy" style='margin-top:10px;padding-top:0px;line-height:15px;font-size:20px'><span style="font-weight:normal;font-family:Arial">Message Board</span></div>
+      </div>
+<div class="sidebar-links collapsible-accordian">
+  <div class="panel-group prevent-first-opening" id="collapse-accordion" role="tablist" aria-multiselectable="false">
+    <!-- navigation object : Collapsible Accordion Content (2) --> <!-- show no matter what if not postings--> 
+
+<!-- do not show postings if client is not local -->
+ 
+ <!-- show no matter what if not postings--> 
+
+<!-- do not show postings if client is not local -->
+ 
+ <!-- show no matter what if not postings--> 
+
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#general2" 
+     aria-expanded="true"
+     class="collapsed"
+     aria-controls="general2">
+  	<div class="panel-heading"   active       role="tab" 
+       id="general"
+       
+      >
+      <p class="panel-title pull-left"  style='border-bottom:#A41D36 thin solid'>
+          Special Announcements
+      </p>
+      <p class="panel-title pull-right"><span class="fa  fa-flip-vertical fa-minus-square-o"></span></p>
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="general2" 
+       class="panel-collapse collapse in" 
+       role="tabpanel" 
+       aria-labelledby="general"
+       style="";
+       >
+    <div class="panel-body">
+      
+      <h3>All Students</h3><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>My Bus Home - Bus transportation for New England, Long Island, Westchester County and Maryland/DC Students.  <a  style='color:#A41D36' href='https://drive.google.com/open?id=0BxvdWYrD3cLIbVRLeGtVbFFSUjlva2FSWGNQVVVENkRxek53'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>LAST CHANCE PARTICIPATE IN THE SELFIE CHALLENGE! - Send a selfie of you and your friends in front or with your favorite place on campus. Tell us why and your selfie may be published in the 2020 Ciarla yearbook. Send your photos to #ciarlaselfie  <a  style='color:#A41D36' href='https://drive.google.com/open?id=1jqSdLfS1KGL9ZSyZdB08yQC49Tl1hRjN'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Spanish Table in Ettinger 103 on Mon w/ Profa. Qualtere from noon to 12;30 pm; Tues w/ Profa. Buitrago from noon to 12;30 pm and Wed w/ Prof. Diaz-Davalos from 2;30 to 3 pm. Every week until Dec 6.  <a  style='color:#A41D36' href='https://drive.google.com/open?id=0BxvdWYrD3cLIa01YU0VzWWZteGU5NFNVeWhTM2FBRkNUM0tv'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Writing Center Drop-In Schedule & Staff for Fall 2019.  <a  style='color:#A41D36' href='https://drive.google.com/open?id=0BxvdWYrD3cLIR3gwbTAxYXVET0lfYlA2dk83NE9UMmJPWGIw'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Want to Practice French? Join the French Club at the French Language Tables every Mon & Fri at 2 pm in GQ (Seegers)Contact: Jona Lieberman at  jonalieberman@muhlenberg.edu (Sept 20 through Dec 6 except Oct 14 & Nov 29)  <a  style='color:#A41D36' href='https://drive.google.com/open?id=0BxvdWYrD3cLINlVYSmwtT0dnM1ZxOEVPMFJGcmdHQkdNbV9V'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>First Year Experience Group will meet every Wed from 1 to 2 pm in room LSC 200, the Counseling Services Group Room, to discuss adjustment, transition, homesickness and more.  <a  style='color:#A41D36' href='https://drive.google.com/open?id=0BxvdWYrD3cLIX3FSV1lySGU4bGwybFNSYU5KaDBHcTZzbnRn'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>The grey shuttle runs every Fri, Sat & Sun beginning the weekend of Aug 30. See the schedule on line.  <a  style='color:#A41D36' href='https://www.muhlenberg.edu/offices/deanst/shuttleservice/greyshuttle/'>Read More</a></p><h3>Campus-Wide</h3><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>A student in the Wescoe School's  Accelerated Business/Healthcare program is doing a community project --"One Can Make a Difference"-- a food collection drive to benefit the Allentown Rescue Mission which provides over 55,000 meals annually to over 900 men.  <a  style='color:#A41D36' href='https://drive.google.com/open?id=0BxvdWYrD3cLIbzdRcm9xMTVROTNFRjcxLXg0VkJ2WkphQWhJ'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Posadas will take place on Tues, Dec 3, from 7 to 8;30 pm. This Mexican song event will begin at the CA, move to Seegers, the Chaplain's house and then the President's house. Latin holiday treats at the last 2 stops. All students welcome to join.  <a  style='color:#A41D36' href='https://drive.google.com/open?id=0BxvdWYrD3cLIbjRPeU1iWXh6cnFqZHVndWRnRHNlMlBEcld3'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Trexler Meditation - Silent meditation held weekly in Trexler Library's Fulford Room on every Wed during fall semester from 5 to 6 pm. Cushions and chairs available. For information contact ktakahashi@muhlenberg.edu</p><h3>Faculty And Staff</h3><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Canvas Modules - Learn more about this area and collaborate with colleagues regarding the possibilities! This session will be held in Zoom on Thurs, Dec 5 from 12;30 to 1;30 pm. To join, please use this link:  <a  style='color:#A41D36' href='https://muhlenberg.zoom.us/j/501134412'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Introducing New Canvas Gradebook - This ZOOM session will take place on Fri, Dec 6, from 2 to 3 pm. Compare and contrast with the existing gradebook, provide tips and advice, and showcase a number of new features. To join, us this link:  <a  style='color:#A41D36' href='https://muhlenberg.zoom.us/j/499865804'>Read More</a></p><h3>Seniors</h3><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>SENIOR CLASS PORTRAIT sessions continue Mon, Dec. 2 to 6. If you did not yet schedule, please sign up with Prestige by Lifetouch Studios at ouryear.com (school code 19).  <a  style='color:#A41D36' href='http://ouryear.com/'>Read More</a></p>        
+    </div>
+  </div>
+</div>
+
+<!-- do not show postings if client is not local -->
+ 
+ <!-- show no matter what if not postings--> 
+
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#promos2" 
+     aria-expanded="true"
+     class=""
+     aria-controls="promos2">
+  	<div class="panel-heading"          role="tab" 
+       id="promos"
+       
+      >
+      <p class="panel-title pull-left"  style='border-bottom:#A41D36 thin solid'>
+          Promos & Deals
+      </p>
+      <p class="panel-title pull-right"><span class="fa   fa-plus-square-o"></span></p>
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="promos2" 
+       class="panel-collapse collapse " 
+       role="tabpanel" 
+       aria-labelledby="promos"
+       style="height:0px";
+       >
+    <div class="panel-body">
+      
+      <h3>Discount</h3><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>A-Town Self Storage at 2301 W. Liberty Street is pleased to offer a 10% discount to Muhlenberg students, faculty and staff. Please show your 'Berg ID when renting a space.  <a  style='color:#A41D36' href='http://www.atownselfstorage.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Notch Modern Kitchen and Bar is pleased to offer a 10% discount to Muhlenberg students, faculty and staff who present their "Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://notchmknb.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>The Downtown Allentown Market is please to offer a 10% discount to Muhlenberg students, faculty and staff who present their "Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.downtownallentownmarket.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Hummus House at 1502 Chew Street, Allentown, offers a 10% discount to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://thehummushouse.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>The Swain School is pleased to offer an educators' discount to all Muhlenberg faculty and staff. Contact admissions@swain.org for details.  <a  style='color:#A41D36' href='https://drive.google.com/open?id=0BxvdWYrD3cLId2psbUdBYmFjRE5HWXVxTmUweGVSOEt1bWk0'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>WingStop at 1601 W. Liberty Street, Allentown, offers a 10% discount to Muhlenberg students, faculty and staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.wingstop.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Wrappabowls a new vendor in the Allentown Farmers' Market offers a 10% discount to Muhlenberg students, faculty and staff who present their 'Berg ID at time of purchase.</p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>YoFresh Yogurt Caf'e at 4642 Broadway, Allentown, offers a 10% discount to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='http://www.yofreshyogurtcafe.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Tu Nueva Casa at 223 Hamilton Street, Allentown, offers a 10% discount to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.facebook.com/pages/Tu-Nueva-Casa-Restaurant/120879571258564'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>The Udder Bar at 1852 W. Allen Street, Allentown, offers a 15% discount to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.theudderbar.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Union and Finch Restaurant at 1528 W. Union Street, Allentown, offer a 15% discount to Muhlenberg students, faculty and staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='http://www.unionandfinch.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Wally's Deli at 711 N. 17th St, Allentown, offers a 10% discount Sun-Fri and a 15% discount on Sat to Muhlenberg students, faculty and staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='http://wallys-deli.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>South Mountain CrossFit at 2125 28thSt. SW, Ste 500, Allentown, offers a 30% discount off membership to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='http://www.southmountaincrossfit.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Southern Delights in the Allentown Farmers' Market, offers a 10% discount to Muhlenberg students, faculty and staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='http://allentownfarmersmarket.com/southern-delights/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Starbucks Center City at 645 Hamilton Street, Allentown, offers a 10% discount to Muhlenberg students, faculty and staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.facebook.com/StarbucksCityCenterAllentown/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>SUBWAY at 1901 Hamilton Street, Allentown, offers a 10% discount to Muhlenberg students, faculty and staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.subway.com/en-us'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Sumo Sushi Japanese Fusion at 3174 W., Tilghman Street, Allentown, offers a 10% discount to Muhlenberg students, faculty and staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.sumoallentown.com/menu.aspx'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Taqueria Los Amigos at 515 N 7th Street, Allentown, offers a 10% discount to Muhlenberg students, faculty and staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.facebook.com/Taqueria-Los-Amigos-270556696299096/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Truth Beauty Salon at 1850 W Allen Street, Allentown, offers a 20% discount to Muhlenberg students, faculty and staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.facebook.com/TruthBeautySalon/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Ringer's Roost at 1801 W. Liberty Street, Allentown, is offering a 10% discount to Muhlenberg students, faculty and staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='http://www.ringersroost1801.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Salvatore Ruffino's at 1902 W. Allen Street, Allentown, is offering a 15% discount to Muhlenberg students, faculty and staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.grubhub.com/restaurant/salvatore-ruffinos-1902-w-allen-st-allentown/322397'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Sato Salon Organics at 3136 Hamilton Blvd, Allentown, offers a 15% discount to Muhlenberg students, faculty and staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://satosalonorganics.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>The Shanty on 19th at 613 N 19th Street, Allentown, offers a 15% discount to Muhlenberg students, faculty and staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.theshantyon19th.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Silver Sheers Salon at 1821 W. Allen Street, Allentown, offers a 15% discount off cuts and 10% discount off color to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='http://www.silvershearslv.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Parkland Restaurant at 2702 Walbert Avenue, Allentown, offers a 10% discount, Mon - Sat, to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://theparklandrestaurant.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Parma Pizza at 3100 W. Tilghman Street, Allentown, offers a 10% discount to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://parmapizzalv.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Organic Tans & Beauty Bar at 1752 W. Allen Street, Allentown, offers a 15% discount to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase  <a  style='color:#A41D36' href='https://organictanslv.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Penn Pizza Restaurant at 1251 S. Cedar Crest Blvd, Allentown, offers a 15% discount to Muhlenberg students, faculty and staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='http://pennpizzarestaurant.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Pit Stop Tire and Auto Center at 708 N 18th Street, Allentown, offers a 10% discount to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.pitstoptireandautocenter.com/About-Us'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Prime Steak House at 325 Stokes Park Road, Bethlehem, offers a 10% discount to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://primestkhouse.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Nostos Greek Restaurant at 701 N. 19th Street, Allentown, offers a 20% discount to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase  <a  style='color:#A41D36' href='https://www.opentable.com/r/nostos-greek-restaurant-allentown'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Liberty Bell Museum at 622 W. Hamilton St, Allentown, offers a 10% discount to Muhlenberg students, faculty and staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='http://libertybellmuseum.org/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Manhattan Bagel at 3058 W. Tilghman St, Allentown, offers a 10% discount to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://locations.manhattanbagel.com/us/pa/allentown/3058-w-tilghman-st'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Mario's Pizza at 3335 Hamilton Blvd, Allentown, offers a 10% discount to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.mariosallentown.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Maryann Donut Kitchen, Allentown Farmer's Market location only, offers a 10% discount to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='http://allentownfarmersmarket.com/mary-ann-donut-kitchen/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Maza Middle Eastern Cuisine at 2449 Mickley Ave, Whitehall, offers a 10% discount to Muhlenberg students, faculty and staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.mazacuisine.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Mediterranean Caf'e & Grill at 7720 Main Street, Fogelsville, offers a 10% discount to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://medicafegrill.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Minuteman Press at 645 W., Hamilton St, Suite 103, Allentown, offers a 10% discount to Muhlenberg students, faculty and staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='http://mmplv.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Nailplay Studio at 27 N 7th Street, Suite 120, Allentown, offers a 10% discount to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.nailplaystudio.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Grille 3501 at 3501 Broadway, Allentown, offers a 15% discount to Muhlenberg students, faculty & staff who present their "Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.grille3501.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Garden Gate Natural Foods, Inc. at 17 S. 19th Street, Allentown, offers a 10% discount to Muhlenberg students, faculty and staff who present their "Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.facebook.com/pages/Garden-Gate-Natural-Foods/136445696391891'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Gourmet Chinese Buffet at 3317 Hamilton Blvd, Allentown, offers a 10% discount to Muhlenberg students, faculty & staff who present their "Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.facebook.com/gourmetbuffetgrillallentown/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Heffelfingter's Coffee & Tea in the Allentown Farmers' Market offers a 10% discount to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='http://allentownfarmersmarket.com/heffelfingers-coffee/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Kow Thai Take Out at 1201 W. Linden Street, Allentown, offers a 10% discount to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.kowthaitakeoutpa.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Lazeez Fresh Mediterranean Grill at 4666 Broadway, Allentown, offers a 10% discount to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://lazeezgrill.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>European Concepts Salon at 3015 College Heights Blvd, Allentown offers %0% discount off hair cuts to Muhlenberg students, faculty & staff who present their "Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.europeanconceptsalon.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>El Castillo Del Caribe Restaurant at 346 Ridge Ave, Allentown, is offering a 10% discount to Muhlenberg students, faculty & staff who present their "Berg Id at time of purchase.  <a  style='color:#A41D36' href='https://www.bing.com/search?q=el+castillo+del+caribe+allentown+pa&src=IE-SearchBox&FORM=IENTSR'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Elements Massage at 3060 W. Tilghman Street, Allentown, offers a 10% discount to Muhlenberg students, faculty & staff who present their "Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://elementsmassage.com/allentown'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Dunkin' Donuts at 3219 Hamilton Blvd, Allentown, offers a 10% discount to Muhlenberg students, faculty & staff who present their "Berg ID at time of purchase.</p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Fairgrounds Grocery Store in the Allentown Farmers' Market offers a 10% discount to Muhlenberg students, faculty & staff who present their "Berg ID at time of purchase.  <a  style='color:#A41D36' href='http://allentownfarmersmarket.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Fiesta Ole at 1116 Chestnut Street, Emmaus, offers a 15% discount to Muhlenberg students, faculty & staff who present their "Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://fiestaole.com/menu'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Foods of the Mediterranean in the Allentown Farmers' Market offers a 10% discount to Muhlenberg students, faculty & staff who present their "Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.bing.com/search?q=foods+of+the+mediterranean+allentown+pa&src=IE-SearchBox&FORM=IENTSR'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Cut Outs Salon at 950 W. Walnut Street, Allentown, offers a 10% discount to Muhlenberg students, faculty & staff who present their "Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.facebook.com/Cut-Outs-Salon-Spa-140544055991620/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Country Pantry in the Allentown Farmer's Market  offers a 10% discount to Muhlenberg students, faculty & staff who present their "Berg ID at time of purchase.</p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Dave's Vacuum Cleaner Service at 127 S 7th St & the Allentown Farmer's Market offers a 10% discount to Muhlenberg students, faculty & staff who present their "Berg ID at time of purchase.  <a  style='color:#A41D36' href='http://www.davesvac.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>The Dime restaurant at 12 N 7th Street, Allentown, offers a 10% discount to Muhlenberg students, faculty & staff who present their "Berg ID at time of purchase.  <a  style='color:#A41D36' href='http://thedimeallentown.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>assembly88 at 544 Hamilton Street, Allentown, offers a 15% discount to Muhlenberg students, faculty & staff who present their "Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://assembly88.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Bareform fitness studio at 202 W. 4th Street, Bethlehem, offers up to 30% off for Muhlenberg students, faculty & staff who present their "Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.barreform.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Bellissimo Ristorante at 1243 West Tilghman Street, Allentown, offers a 10% discount to Muhlenberg students, faculty & staff who present their "Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://bellissimoristorante.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Biaggio Pizzeria at 1526 N Cedar Crest Boulevard, Allentown, offers a 10% discount to Muhlenberg students, faculty & staff who present their "Berg ID at time of purchase.  <a  style='color:#A41D36' href='http://www.biaggiopizza.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Elephant Stock, a canvas wall art printing company in California, is pleased to offer a 20% discount to Muhlenberg students, faculty & staff. Please visit their website to learn more.  <a  style='color:#A41D36' href='https://www.elephantstock.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Daniels Collision Center, 1327 W. Tilghman Street, is pleased to offer Muhlenberg students, faculty & staff a 10% discount on collision repair services for all makes and models. See website for times and service details.  <a  style='color:#A41D36' href='https://danielscollision.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Educated Wanderer has joined IHeart Muhlenberg and is pleased to offer a 10% discount on travel to Muhlenberg students, faculty & staff. Laura Pezzulich '19 invites you to visit the website to learn more about upcoming trips.  <a  style='color:#A41D36' href='https://educatedwanderer.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Fairfield Inn & Suites in Breinigsville is please to offer a 15% discount to Muhlenberg students, faculty, staff and their families. Please visit their website or call the hotel to arrange for the discount.  <a  style='color:#A41D36' href='https://www.marriott.com/search/findHotels.mi'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Advanced massage Therapy & Wellness at 1125 S. Cedar Crest Blvd is happy to announce a 15% discount for Muhlenberg students, faculty and staff who present their "Berg ID at time of purchase. See their website for a list of services.  <a  style='color:#A41D36' href='https://www.advancedmassagetherapylv.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Trek Bicycle Allentown at 1728 Tilghman Street is please to announce a 10% discount for bikes and accessories to Muhlenberg students, faculty and staff who present their "Berg I.D. Any on line items, including bikes, must be ordered at the Allentown location to receive the discount.  <a  style='color:#A41D36' href='https://www.trekbikes.com/us/en_US/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Queen City BBQ in Allentown is pleased to offer a 20% discount on regular priced food items to Muhlenberg students, faculty and staff who present their ID at time of purchase. Please visit their Facebook page for menu, directions and times.  <a  style='color:#A41D36' href='https://www.facebook.com/QCITYQ/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Employee Discounts - Muhlenberg employees are eligible to receive corporate discounts on things like local and nationwide destinations, events, shows and rental cars. Go to www.PlumBenefits.com and click on "Become a Member". Use company code: ac0627076 when prompted to sign up.  <a  style='color:#A41D36' href='https://www.plumbenefits.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Dunkin' Donuts, at 1928 Hamilton St & 3219 Hamilton Blvd, Allentown, is happy to offer a 10% discount to Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase. ONLY AT THESE 2 LOCATIONS. See poster.  <a  style='color:#A41D36' href='https://drive.google.com/open?id=1D9drZDSPjjszR4lCun3uum7gmFQZUsYZ'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>The Shelby restaurant, located at the Crossings on Krocks Road, is pleased to offer a 10% discount to all Muhlenberg students, faculty and staff who present their ID.  Please visit their website for menu, hours and location.  <a  style='color:#A41D36' href='http://shelbyrestaurant.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>The Allentown Park Hotel at 7471 Keebler Way in Allentown is pleased to offer a 15% discount to friends and family of Muhlenberg students, faculty and staff when they book on line for a visit to Muhlenberg College. Visit website for information.  <a  style='color:#A41D36' href='https://www.choicehotels.com/pennsylvania/allentown/ascend-hotels/pa817/rates?ratePlanCode=LIMUHL'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Nick's Diner is pleased to offer a 10% discount to Muhlenberg students, faculty & staff with a Muhlenberg ID. DISCOUNT APPLIES ONLY TO PERSON WITH ID. Please present your ID at the cash register. Please visit website for menu, location and hours of operation. http://nicksdinerpa.com/</p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Johnny's Fresh Meats in the Allentown Farmers Market is offering a 10% discount to students, faculty and staff with a 'Berg ID. Visit the Farmers Market website for more information. http://www.allentownfarmersmarket.com</p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Altered Images Hair Studio at 507 N 22nd Street offers a discount to Muhlenberg students, faculty & staff who present their "Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.facebook.com/AlteredImagesHairStudio/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Anthony Ashley Salon at 1740 W Allen Street offers 15% off a cut and 10% off color for Muhlenberg students, faculty & staff who present their 'Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://www.anthonyashleyhd.com/'>Read More</a></p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Wrappabowls in the Allentown Farmers' Market is pleased to offer a 10% discount to Muhlenberg students, faculty & staff who present their "Berg ID at time of purchase.  <a  style='color:#A41D36' href='https://drive.google.com/open?id=0BxvdWYrD3cLISUwxSVRDQ3NuVkJyel84MEFTZHJHU3hsWXFZ'>Read More</a></p><h3>Promotional Deal</h3><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>The Hamilton Family Restaurant at 2027 W. Hamilton St, Allentown, is pleased to offer a 10% discount to Muhlenberg students, faculty and staff who present their "Berg ID at time of purchase. "Ham Fam" is only 2 blocks from campus and is open 24 hours.</p><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'>Orangetheory Fitness,a new IHeart Muhlenberg participant, is accepting members at a discount rate, never to be offered again. They open on Mar 29, 2019. After that date all Muhlenberg students, faculty and staff will receive a 10% discount.  <a  style='color:#A41D36' href='https://allentown.orangetheoryfitness.com/'>Read More</a></p>        
+    </div>
+  </div>
+</div>
+
+<!-- do not show postings if client is not local -->
+ 
+ <!-- show no matter what if not postings--> 
+
+<div class="panel panel-default">
+  <a data-toggle="collapse" 
+     data-parent="#collapse-accordion" 
+     href="#inthenews2" 
+     aria-expanded="true"
+     class=""
+     aria-controls="inthenews2">
+  	<div class="panel-heading"          role="tab" 
+       id="inthenews"
+       
+      >
+      <p class="panel-title pull-left"  style='border-bottom:#A41D36 thin solid'>
+          In The Media
+      </p>
+      <p class="panel-title pull-right"><span class="fa   fa-plus-square-o"></span></p>
+      <div class="clearfix"></div>
+  	</div>
+  </a>
+  <div id="inthenews2" 
+       class="panel-collapse collapse " 
+       role="tabpanel" 
+       aria-labelledby="inthenews"
+       style="height:0px";
+       >
+    <div class="panel-body">
+      
+      <h3>Other News</h3><span class='otherNews'>Usa Today</span><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'> 'You can't take any of them for granted': The voters who will sway 2020's swing states | A poll this month by the Muhlenberg College Institute of Public Opinion indicated that Trump is deeply out of favor with women in the state, with 62% disapproving of his job performance, compared to 50% of me  <a  style='color:#A41D36' href='https://www.usatoday.com/story/news/politics/elections/2019/12/02/election-2020-swing-states-will-rely-on-these-key-voters/4298609002/'>Read More</a></p><h3>The Philadelphia Inquirer</h3><p style='border-bottom:thin dashed #CCCCCC;padding-bottom:8px'> 5 questions: Are the health risks of youth football being addressed? | A Q&A with Kathleen Bachynski, assistant professor of public health, on the issues raised in her new book, 'No Game for Boys to Play: The History of Youth Football and the Origins of a Public Health Crisis.'  <a  style='color:#A41D36' href='https://www.inquirer.com/health/youth-football-health-risks-history-20191128.html'>Read More</a></p>        
+    </div>
+  </div>
+</div>
+
+<!-- do not show postings if client is not local -->
+ 
+ <!-- show no matter what if not postings--> 
+
+<!-- do not show postings if client is not local -->
+ 
+  </div>
+  </div>
+</div></div></div>
+  <!-- end Message Board *************************************************************  -->
+  </div> 
+
+
+  <!-- end 1st column *************************************************************   -->
+  
+  <!-- start:  add 2nd column w/calendar -->
+  <div  class="fs-cell fs-lg-6" id="cal" style='padding-top:0px'>
+
+<!-- start Calendar *************************************************************   -->
+    <style>
+.event_item {
+padding-top:5px;
+padding-bottom:5px;
+line-height:15px;
+}
+</style>
+<div class="container" style='padding-top:0px'>
+  <div class="calendar light" style="width:600px;padding:0px;border: thin solid black" >
+    <div class="calendar_plan" >
+
+      <div class="cl_plan" style='padding-top:1px;height:50px'>
+        <div class="cl_copy" style='margin-top:10px;padding-top:0px;line-height:15px;font-size:20px'><span style="font-weight:normal;font-family:Arial">Happening Today</span></div>
+        <!--<div class="cl_title">December 19, 2018</div>^M -->
+      </div>
+
+    </div>
+    <div class="calendar_events" >
+      <!-- Today and Upcoming class="col-sm-6 col-md-4" -->
+
+
+
+<style>
+.event_item {
+padding-top:5px;
+padding-bottom:5px;
+line-height:15px;
+}
+</style>
+
+                         
+
+
+
+
+
+
+
+
+<div class="event_item"><div class="ei_Dot"></div><div class="ei_Title"><a href="http://webapps.muhlenberg.edu:442/Calendar/EventList.aspx?view=EventDetails&eventidn=31748&information_id=95257&type=&syndicate=syndicate">French Table - La Table Francaise</a></div><div class="ei_Copy"> 2:00 PM</div></div><div class="event_item"><div class="ei_Dot"></div><div class="ei_Title"><a href="http://webapps.muhlenberg.edu:442/Calendar/EventList.aspx?view=EventDetails&eventidn=31693&information_id=95006&type=&syndicate=syndicate">Writing Center Schedule - Fall 2019</a></div><div class="ei_Copy"> 3:30 PM</div></div><div class="event_item"><div class="ei_Dot"></div><div class="ei_Title"><a href="http://webapps.muhlenberg.edu:442/Calendar/EventList.aspx?view=EventDetails&eventidn=31792&information_id=95421&type=&syndicate=syndicate">Italian Table - Chiacchiere / La Tavola Italiana</a></div><div class="ei_Copy"> 4:00 PM</div></div><div class="event_item"><div class="ei_Dot"></div><div class="ei_Title"><a href="http://webapps.muhlenberg.edu:442/Calendar/EventList.aspx?view=EventDetails&eventidn=31692&information_id=94944&type=&syndicate=syndicate">Yoga Class</a></div><div class="ei_Copy"> 6:00 PM</div></div><div class="event_item"><div class="ei_Dot"></div><div class="ei_Title"><a href="http://webapps.muhlenberg.edu:442/Calendar/EventList.aspx?view=EventDetails&eventidn=31694&information_id=95070&type=&syndicate=syndicate">Writing Center Schedule - Fall 2019</a></div><div class="ei_Copy"> 7:00 PM</div></div><div class="event_item"><div class="ei_Dot"></div><div class="ei_Title"><a href="http://webapps.muhlenberg.edu:442/Calendar/EventList.aspx?view=EventDetails&eventidn=31677&information_id=94889&type=&syndicate=syndicate">Intramural Soccer</a></div><div class="ei_Copy"> 8:30 PM</div></div><div class="event_item"><div class="ei_Dot"></div><div class="ei_Title"><a href="http://webapps.muhlenberg.edu:442/Calendar/EventList.aspx?view=EventDetails&eventidn=31695&information_id=95122&type=&syndicate=syndicate">Writing Center Schedule - Fall 2019</a></div><div class="ei_Copy"> 9:00 PM</div></div><div class="event_item"><div class="ei_Dot"></div><div class="ei_Title"><a href="http://webapps.muhlenberg.edu:442/Calendar/EventList.aspx?view=EventDetails&eventidn=31749&information_id=95288&type=&syndicate=syndicate">Spanish Table - La Mesa Espanola</a></div><div class="ei_Copy">12:00 PM</div></div><a style="color:#A41D36" href="https://webapps.muhlenberg.edu:442/Calendar"><div class=styl"col-xs-9  event-details"><p align="center" class="details">For future events, dining hours, tours,  or info sessions see the full Calendar<br/><span class="gray time"></span></p></div><div class="clearfix"></div></a>                     
+<!--                     
+ <div class="event_item">
+See full day of events
+   </div> -->
+    </div>
+  </div>
+</div>
+
+            <div style="line-height:30px;text-align:right;padding-top:15px;padding-right:5px"><a style="font-size:0.8em" href="https://www.muhlenberg.edu/calendar/submit.html">Submit an event</div>
+          </div>
+          
+          
+<!-- end calendar feed -->
+    
+    </div>
+  </div>
+</div>
+
+<!-- end Calendar *************************************************************   -->
+</div> 
+
+  <!-- end 2nd column *************************************************************   -->
+</div> 
+
+  <!-- end row *************************************************************   -->
+
+  
+  					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+					
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							<a class="t4Edit-page" href="https://t4.muhlenberg.edu/terminalfour/page/directEdit#edit/11/en/83562">&copy;</a>
+													</span>
+						<span class="footer_credit_label">2019 Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keywordâ¦">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							<li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/leadership/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Leadership &amp; Administration</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College Offices</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+                                                                                                                                  
+                                                                                                                                   
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							<li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/admissions-counselor/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Meet Your Counselor</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingearlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early and Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/main/wescoe/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Continuing Education Students</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/incoming/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Accepted Students</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+                                                                                                                                  
+                                                                                                                                   
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							<li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/main/wescoe/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Continuing Education Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/centers/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Centers and Institutes</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/newsevents/calendar/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Calendar</span>
+</a>
+</li>                                                                                                                                  
+                                                                                                                                   
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							<li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+                                                                                                                                  
+                                                                                                                                   
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							<li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+                                                                                                                                  
+                                                                                                                                   
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Contact</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							
+                          
+                            <a class='utility_nav_link' target='_blank' href='https://www.muhlenbergconnect.com/s/1570/start.aspx?gid=2&amp;pgid=61'>
+								<span class='utility_nav_link_label'>Alumni</span>
+							</a>
+                          
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://webapps.muhlenberg.edu:442/Calendar '>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+<!-- old bootstrap  used by Messageboard 
+ /media/kdmedia/js/bootstrap.min.js"></script>
+-->
+<script type="text/javascript" src="/media/kdmedia/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

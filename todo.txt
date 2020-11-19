@@ -1,0 +1,30 @@
+double check preprocess 
+  for punctuation and etc
+  if character not ASCII, remove?
+
+
+finsih program to create inverted index
+  think about rewriting to same file
+  think about separating our crawling and querying
+
+Work on document and writing up about each step
+
+
+END GOAL:
+ask user for query and make a vector from it
+  do tf idf calc and cosine similarity
+  compare against docs
+  display best results
+
+build loop to loop through each query defined
+    calculate the precision and recall for each query
+      cut list to about 50 or so?
+      dont use whole entire list of results
+    average out at the end
+    do for all 4 variations of preprocessing
+      re index each time
+
+true pos = got it and it is in the results
+false negative - in the results, but we didn't find it in our search
+false pos - got it, and it is not in the list
+      

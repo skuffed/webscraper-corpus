@@ -1,0 +1,1154 @@
+URL: give.muhlenberg.edu/
+Relative links: 0
+Absolute links: 1
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Muhlenberg College Giving">
+        <meta name="author" content="">
+        <link rel="icon" href="/assets/images/favicon.ico">
+        <meta name="format-detection" content="telephone=no">
+
+		<meta property="og:image" content="" />
+		<meta property="og:title" content="Muhlenberg College | Giving" />
+		<meta property="og:description" content="Muhlenberg College Giving" />
+		<meta property="og:url" content="https://give.muhlenberg.edu/" />
+		<meta property="fb:app_id" content="" />
+
+		<title>Muhlenberg College | Giving</title>
+        <!-- Bootstrap core CSS -->
+        <link href="/assets/css/bootstrap/bootstrap.min.css" rel="stylesheet">
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+		<link rel="stylesheet" href="/assets/css/muhl-kdg.css" >
+<link rel="stylesheet" href="/assets/css/giving-form.css" >
+<link rel="stylesheet" href="/assets/css/plugins/content-slider.css" >
+        
+		<script type="text/javascript" src="/assets/js/jquery/jquery-2.0.0.min.js"></script>
+    </head>
+    <body>
+		<p id="jsDisabled"><span class="fa fa-ban"></span> &nbsp;You currently have Javascript disabled. Please activate it in your browser settings.</p>
+		<script>
+			document.write("<style>#jsDisabled { display: none; }</style>");
+			(function(d, s, id){
+			 var js, fjs = d.getElementsByTagName(s)[0];
+			 if (d.getElementById(id)) {return;}
+			 js = d.createElement(s); js.id = id;
+			 js.src = "//connect.facebook.net/en_US/sdk.js";
+			 fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-93807720-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~ OLD BROWSER MODAL
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<div class="modal old-browser" >
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h2 class="modal-title">Sorry, but your browser is out of date.</h2>
+			</div>
+			<div class="modal-body">
+				<p>This website was developed using the latest technology available, and therefore requires a newer, safer browser than the one you are currently running. Use the links below to download the most up to date version of your browser and try again!</p>
+				<a class="browser-block" href="http://www.google.com/chrome" target="_blank"><img src="/assets/images/old-browser/chrome.png" alt="Chrome" /></a><!--
+				--><a class="browser-block" href="http://www.mozilla.org/firefox/new/" target="_blank"><img src="/assets/images/old-browser/firefox.png" alt="Firefox" /></a><!--
+				--><a class="browser-block" href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" target="_blank"><img src="/assets/images/old-browser/internet-explorer.png" alt="Internet Explorer" /></a><!--
+				--><a class="browser-block" href="http://support.apple.com/downloads/#safari" target="_blank"><img src="/assets/images/old-browser/safari.png" alt="Safari" /></a><!--
+				--><a class="browser-block" href="http://www.opera.com/download" target="_blank"><img src="/assets/images/old-browser/opera.png" alt="Opera" /></a>
+			</div>
+		</div><!-- /.modal-content -->
+	</div><!-- /.modal-dialog -->
+	<div class="modal-backdrop fade in"></div>
+</div><!-- /.modal -->
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~ DONATE FORM AND HEADER
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<div id="give-form-wrapper">
+   <nav class="navbar" id="top">
+      <div class="container">
+          <div class="row">
+
+  			<div class="col-xs-12 col-sm-6">
+              <a href="http://muhlenberg.edu/"><img src="/assets/images/header-logo.png"></a>
+  				<a data-toggle="collapse" href="#mobile-nav" aria-expanded="false" aria-controls="mobile-nav" class="mobile-menu hidden-lg hidden-md hidden-sm"><span class="fa fa-bars"></span></a>
+  			</div>
+  			<div class="col-xs-12 col-sm-6 hidden-xs">
+          		<div class="header-right">
+  					<div class="search ">
+                     <!-- <form action="http://muhlenberg.edu/search/results.html" method="get" name="SearchForm" id="SearchForm">
+                			<input name="q" type="text" size="0" id="q" value="" placeholder="search">
+
+                			<button type="Submit" class="btn btn-search"><span class="fa fa-search"></span></button>
+  						</form>-->
+              			<a target="_child" href="http://twitter.com/muhlenberg"><span class="fa fa-twitter"></span></a>
+              			<a target="_child" href="http://www.facebook.com/MuhlenbergCollege"><span class="fa fa-facebook"></span></a>
+  					</div>
+
+  				</div>
+  			</div>
+  		</div><!--row-->
+    </div>
+  </nav>
+
+  <div id="mobile-nav" class="collapse hidden-sm hidden-md hidden-lg">
+    <div class="search ">
+                     <!-- <form action="http://muhlenberg.edu/search/results.html" method="get" name="SearchForm" id="SearchForm">
+                			<input name="q" type="text" size="0" id="q" value="" placeholder="search">
+
+
+        <button type="Submit" class="btn btn-search"><span class="fa fa-search"></span></button>
+    </form>-->
+    </div>
+
+
+    <!-- navigation object : Main Menu KD --><ul><li><a href="http://muhlenberg.edu/main/aboutus/">About Us</a></li><li><a href="http://muhlenberg.edu/main/admissions/">Admissions</a></li><li><a href="http://muhlenberg.edu/academics/">Academics</a></li><li><a href="http://muhlenberg.edu/student-life/">Student Life</a></li><li><a href="http://muhlenbergsports.com/" target="_blank">Athletics</a></li><li><a href="http://muhlenberg.edu/news-and-events/index.php">News &amp; Events</a></li><li><a href="http://muhlenberg.edu/main/wescoe/">Adult Learning</a></li></ul>
+
+    <a target="_child" href="http://www.facebook.com/MuhlenbergCollege"><span class="fa fa-facebook"></span></a>
+    <a target="_child" href="http://twitter.com/muhlenberg"><span class="fa fa-twitter"></span></a>
+    <a href="http://muhlenberg.edu/alumni/give" class="btn primary-btn">Give</a>
+  </div>
+    <div id="section-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-7 col-lg-6" id="base-form-wrapper" style="position:static;">
+                                            <form data-form-validate id="donate-form" data-show-errors="custom" action="/site/addDonation" method="post">
+	<div id="form-step-1" data-form-steps data-show-errors="within">
+		<h1>Give to Muhlenberg</h1>
+
+		<!-- DESIGNATION RADIO OPTIONS -->
+		<div class="form-group click-box-container" id="designation-group" data-desig-radio>
+			<label for="">I'd like to help:</label>
+			<div class="radio col-sm-6"><input name="Donations[Designation]" id="101" value="101" type="radio" checked="1"/><label for="101" class="click-box">The Muhlenberg Fund</label></div><div class="radio col-sm-6"><input name="Donations[Designation]" id="102" value="102" type="radio"/><label for="102" class="click-box">Financial Aid</label></div><div class="radio col-sm-6"><input name="Donations[Designation]" id="103" value="103" type="radio"/><label for="103" class="click-box">The Wescoe School</label></div><div class="radio col-sm-6"><input name="Donations[Designation]" id="100" value="100" type="radio"/><label for="100" class="click-box">Other Designation(s)</label></div>		</div>
+
+		<!-- AMOUT RADIO OPTIONS -->
+		<div class="form-group click-box-container" id="amount-group" data-amount-group>
+			<label for="">I'd like to give:</label>
+			<div class="radio col-sm-3 col-xs-6">
+				<input name="Donations[Amount]" id="option-a" value="25" type="radio" hidden="1"/>				<label for="option-a" class="click-box">
+					$25
+				</label>
+			</div>
+			<div class="radio col-sm-3 col-xs-6">
+				<input name="Donations[Amount]" id="option-b" value="50" type="radio" hidden="1" checked="1"/>				<label for="option-b" class="click-box">
+					$50
+				</label>
+			</div>
+			<div class="radio col-sm-3 col-xs-6">
+				<input name="Donations[Amount]" id="option-c" value="100" type="radio" hidden="1"/>				<label for="option-c" class="click-box">
+					$100
+				</label>
+			</div>
+			<div class="radio col-sm-3 col-xs-6">
+				<input name="Donations[Amount]" id="option-d" value="250" type="radio" hidden="1"/>				<label for="option-d" class="click-box">
+					$250
+				</label>
+			</div>
+			<div class="radio col-sm-3 col-xs-6">
+				<input name="Donations[Amount]" id="option-e" value="500" type="radio" hidden="1"/>				<label for="option-e" class="click-box">
+					$500
+				</label>
+			</div>
+			<div class="radio col-sm-3 col-xs-6">
+				<input name="Donations[Amount]" id="option-f" value="1500" type="radio" hidden="1"/>				<label for="option-f" class="click-box">
+					$1,500
+				</label>
+			</div>
+			<div class="radio col-sm-6">
+				<input name="Donations[Amount]" id="option-g" value="0" type="radio" hidden="1"/>				<label for="option-g" class="click-box">
+					Other
+				</label>
+				<div id="custom-amount-wrapper">
+					<div class="dollar-append">$</div>
+					<input name="Donations[CustomAmount]" id="custom-amount" value="" type="number" data-validate="false" data-input-error="Gifts of less than $10 must be set up as recurring." data-min-amount="10" placeholder="0.00"/>				</div>
+			</div>
+		</div>
+		<!-- OTHER DESIGNATION OPTIONS -->
+		<div class="form-group" id="designation-group-other" data-other-designations hidden>
+			<label for="other-designation">Other Designation(s)</label>
+			<style>
+				[data-designation-template] [data-remove-designation] {display:none;}
+			</style>
+			<div data-designation-template data-designation-option id="custom-designation" class="custom-designation-wrapper">
+				<div class="col-sm-8">
+					<input name="Donations[OtherDesignations][]" id="Donations_OtherDesignations" value="" type="text" data-validate="false" data-input-error="Please at least one Designation for Other." placeholder="Designation" class="designation-textbox"/>				</div>
+				<div class="col-sm-4">
+					<div id="custom-amount-wrapper" class="custom-amount-wrapper-other">
+						<div class="dollar-append">$</div>
+						<input name="Donations[OtherDesignationAmounts][]" id="Donations_OtherDesignationAmounts" value="" type="number" data-validate="false" data-input-error="Please enter an amount." placeholder="0.00" class="custom-amount-other"/>					</div>
+				</div>
+				<span class="fa fa-close" data-remove-designation></span>
+				<div class="clearfix"></div>
+			</div>
+			<div data-designation-append></div>
+			<div class="col-sm-12">
+				<div id="add-designation-link" data-add-designation>
+					<span class="fa fa-plus"></span> Add Another Designation
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+
+		<style>
+			#recurring-message .input-error {max-height:none;}
+		</style>
+		<div class="form-group error-field" id="recurring-message" hidden>
+			<div class="col-sm-12">
+				<div class="input-error">Note: Gifts of less than $10 must be set up as recurring.</div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+
+		<!-- RECURRING CHECKBOX -->
+		<div class="form-group pull-right checkbox" id="recurring-gift-wrapper">
+			<input name="RecurringDonations[Recurring]" id="recurring-gift" value="1" type="checkbox"/>			<label class="checkbox-inline" for="recurring-gift">Recurring Gift</label>
+		</div>
+		<div class="form-group pull-right" id="recurring-dropdown-wrapper" hidden data-recurring-frequency>
+			<select name="RecurringDonations[RecurringGiftFrequency]" id="recurring-dropdown"><option value="2628288 seconds">Monthly</option><option value="7884000 seconds">Quarterly</option><option value="31536000 seconds">Yearly</option></select>		</div>
+		<div class="clearfix"></div>
+		<!-- SUBMIT BUTTON -->
+		<div class="form-group" id="donation-message">
+			I’m making a difference by <span data-joining-hmms hidden>joining HMMS and </span>donating <span data-total-amount>$50</span> to <span><span data-chosen-desig>The Muhlenberg Fund</span></span>.
+			<button class="submit" data-form-submit>
+				<h3>Make a Gift</h3>
+			</button>
+		</div>
+		<!-- EXTERNAL LINKS -->
+		<div class="gift-links">
+			<a href="http://www.muhlenbergconnect.com/s/1570/index.aspx?sid=1570&gid=2&pgid=636" target="_blank">How Else Can I Give?</a>
+			<br class="visible-xs">
+			<a href="http://www.muhlenbergconnect.com/s/1570/index.aspx?sid=1570&gid=2&pgid=685" target="_blank">Gift Recognition Levels</a>
+		</div>
+	</div>
+	<div id="form-step-2-donor-information" data-show-errors="within" class="slide-step" data-form-steps>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+					<div class="form-slide-bg">
+						<div class="form-slide-header">
+							<h5>Step 2</h5>
+							<h4>Donor Information</h4>
+						</div>
+						<div class="form-slide-steps">
+							<div class="form-slide-steps-progress-bar"></div>
+							<div class="step-progress complete step-1-progress" id="" data-step-indicator="0">
+								<span class="fa fa-check"></span>
+							</div>
+							<div class="step-progress current step-2-progress" id="" data-step-indicator="1">
+								2
+							</div>
+							<div class="step-progress step-3-progress" id="" data-step-indicator="2">
+								3
+							</div>
+							<div class="step-progress step-4-progress" id="" data-step-indicator="3">
+								4
+							</div>
+						</div>
+						<div class="form-slide-content">
+
+							<div class="error-box">
+								There was one or more errors on the form.<br>
+								Please fix the error below.
+							</div>
+
+							<!-- FULL NAME -->
+							<div class="form-group first-last required">
+								<label for="first-name">Full Name<span class="required-star">*</span></label>
+								<div class="col-sm-6">
+									<input name="Donors[FirstName]" id="first-name" value="" type="text" data-validate="1" data-input-error="Please enter your first name." placeholder="First Name"/>								</div>
+								<div class="col-sm-6">
+									<input name="Donors[LastName]" id="last-name" value="" type="text" data-validate="1" data-input-error="Please enter your last name." placeholder="Last Name"/>								</div>
+
+							</div>
+
+							<!-- ANONYMOUS CHECKBOX -->
+							<div class="form-group checkbox">
+								<input name="Donors[Anonymous]" id="anonymous-donation" value="1" type="checkbox"/>								<label class="checkbox-inline" for="anonymous-donation">This is an anonymous gift</label>
+							</div>
+
+							<!-- EMAIL ADDRESS -->
+							<div class="form-group required">
+								<label for="email-address">Email Address<span class="required-star">*</span></label>
+								<div class="col-sm-12">
+									<input name="Donors[Email]" id="email-address" value="" type="email" data-validate="1" data-input-error="Sorry, this is not a valid email address." placeholder="Ex: name@email.com"/>								</div>
+							</div>
+
+							<!-- AFFILIATION CHECKBOXES -->
+							<div class="form-group click-box-container required" id="affiliation-group">
+								<label for="affiliation">Affiliation<span class="required-star">*</span></label>
+								<div class="col-sm-4">
+									<input name="Donors[Affiliation][]" id="alumni" value="Alumni" type="checkbox" data-validate="1" data-input-error="Please select at least one affiliation."/>									<label for="alumni" class="click-box">Alumni</label>
+								</div>
+								<div class="col-sm-4">
+									<input name="Donors[Affiliation][]" id="student" value="Student" type="checkbox"/>									<label for="student" class="click-box">Student</label>
+								</div>
+								<div class="col-sm-4">
+									<input name="Donors[Affiliation][]" id="parent" value="Parent" type="checkbox"/>									<label for="parent" class="click-box">Parent</label>
+								</div>
+								<div class="col-sm-4 col-sm-offset-2">
+									<input name="Donors[Affiliation][]" id="faculty-staff" value="Faculty/Staff" type="checkbox"/>									<label for="faculty-staff" class="click-box">Faculty & Staff</label>
+								</div>
+								<div class="col-sm-4">
+									<input name="Donors[Affiliation][]" id="friend" value="Friend" type="checkbox"/>									<label for="friend" class="click-box">Friend</label>
+								</div>
+							</div>
+							<!-- HIDDEN ALUMNI GRAD YEAR BOX -->
+							<div hidden class="form-group">
+								<label for="alumni-grad">Alumna/us Class Year</label>
+								<div class="col-sm-6">
+									<select name="Donors[GraduationYears][]" id="alumni-grad" disabled="1"><option value="" selected="selected">---</option><option value="2019">2019 </option><option value="2018">2018 </option><option value="2017">2017 </option><option value="2016">2016 </option><option value="2015">2015 </option><option value="2014">2014 </option><option value="2013">2013 </option><option value="2012">2012 </option><option value="2011">2011 </option><option value="2010">2010 </option><option value="2009">2009 </option><option value="2008">2008 </option><option value="2007">2007 </option><option value="2006">2006 </option><option value="2005">2005 </option><option value="2004">2004 </option><option value="2003">2003 </option><option value="2002">2002 </option><option value="2001">2001 </option><option value="2000">2000 </option><option value="1999">1999 </option><option value="1998">1998 </option><option value="1997">1997 </option><option value="1996">1996 </option><option value="1995">1995 </option><option value="1994">1994 </option><option value="1993">1993 </option><option value="1992">1992 </option><option value="1991">1991 </option><option value="1990">1990 </option><option value="1989">1989 </option><option value="1988">1988 </option><option value="1987">1987 </option><option value="1986">1986 </option><option value="1985">1985 </option><option value="1984">1984 </option><option value="1983">1983 </option><option value="1982">1982 </option><option value="1981">1981 </option><option value="1980">1980 </option><option value="1979">1979 </option><option value="1978">1978 </option><option value="1977">1977 </option><option value="1976">1976 </option><option value="1975">1975 </option><option value="1974">1974 </option><option value="1973">1973 </option><option value="1972">1972 </option><option value="1971">1971 </option><option value="1970">1970 </option><option value="1969">1969 </option><option value="1968">1968 </option><option value="1967">1967 </option><option value="1966">1966 </option><option value="1965">1965 </option><option value="1964">1964 </option><option value="1963">1963 </option><option value="1962">1962 </option><option value="1961">1961 </option><option value="1960">1960 </option><option value="1959">1959 </option><option value="1958">1958 </option><option value="1957">1957 </option><option value="1956">1956 </option><option value="1955">1955 </option><option value="1954">1954 </option><option value="1953">1953 </option><option value="1952">1952 </option><option value="1951">1951 </option><option value="1950">1950 </option><option value="1949">1949 </option><option value="1948">1948 </option><option value="1947">1947 </option><option value="1946">1946 </option><option value="1945">1945 </option><option value="1944">1944 </option><option value="1943">1943 </option><option value="1942">1942 </option><option value="1941">1941 </option><option value="1940">1940 </option><option value="1939">1939 </option><option value="1938">1938 </option><option value="1937">1937 </option><option value="1936">1936 </option><option value="1935">1935 </option><option value="1934">1934 </option><option value="1933">1933 </option><option value="1932">1932 </option><option value="1931">1931 </option><option value="1930">1930 </option><option value="1929">1929 </option><option value="1928">1928 </option><option value="1927">1927 </option></select>								</div>
+							</div>
+							<div hidden class="form-group">
+								<label for="student-grad">Student Class Year</label>
+								<div class="col-sm-6">
+									<select name="Donors[GraduationYears][]" id="student-grad" disabled="1"><option value="" selected="selected">---</option><option value="2023">2023 </option><option value="2022">2022 </option><option value="2021">2021 </option><option value="2020">2020 </option><option value="2019">2019 </option></select>								</div>
+							</div>
+							<div hidden class="form-group">
+								<label for="parent-grad">Parent Year</label>
+								<div class="col-sm-6">
+									<select name="Donors[GraduationYears][]" id="parent-grad" disabled="1"><option value="" selected="selected">---</option><option value="2023">2023 </option><option value="2022">2022 </option><option value="2021">2021 </option><option value="2020">2020 </option><option value="2019">2019 </option><option value="2018">2018 </option><option value="2017">2017 </option><option value="2016">2016 </option><option value="2015">2015 </option><option value="2014">2014 </option><option value="2013">2013 </option><option value="2012">2012 </option><option value="2011">2011 </option><option value="2010">2010 </option><option value="2009">2009 </option><option value="2008">2008 </option><option value="2007">2007 </option><option value="2006">2006 </option><option value="2005">2005 </option><option value="2004">2004 </option><option value="2003">2003 </option><option value="2002">2002 </option><option value="2001">2001 </option><option value="2000">2000 </option><option value="1999">1999 </option><option value="1998">1998 </option><option value="1997">1997 </option><option value="1996">1996 </option><option value="1995">1995 </option><option value="1994">1994 </option><option value="1993">1993 </option><option value="1992">1992 </option><option value="1991">1991 </option><option value="1990">1990 </option><option value="1989">1989 </option><option value="1988">1988 </option><option value="1987">1987 </option><option value="1986">1986 </option><option value="1985">1985 </option><option value="1984">1984 </option><option value="1983">1983 </option><option value="1982">1982 </option><option value="1981">1981 </option><option value="1980">1980 </option><option value="1979">1979 </option><option value="1978">1978 </option><option value="1977">1977 </option><option value="1976">1976 </option><option value="1975">1975 </option><option value="1974">1974 </option><option value="1973">1973 </option><option value="1972">1972 </option><option value="1971">1971 </option><option value="1970">1970 </option><option value="1969">1969 </option><option value="1968">1968 </option><option value="1967">1967 </option><option value="1966">1966 </option><option value="1965">1965 </option><option value="1964">1964 </option><option value="1963">1963 </option><option value="1962">1962 </option><option value="1961">1961 </option><option value="1960">1960 </option><option value="1959">1959 </option><option value="1958">1958 </option><option value="1957">1957 </option><option value="1956">1956 </option><option value="1955">1955 </option><option value="1954">1954 </option><option value="1953">1953 </option><option value="1952">1952 </option><option value="1951">1951 </option><option value="1950">1950 </option><option value="1949">1949 </option><option value="1948">1948 </option><option value="1947">1947 </option><option value="1946">1946 </option><option value="1945">1945 </option><option value="1944">1944 </option><option value="1943">1943 </option><option value="1942">1942 </option><option value="1941">1941 </option><option value="1940">1940 </option><option value="1939">1939 </option><option value="1938">1938 </option><option value="1937">1937 </option><option value="1936">1936 </option><option value="1935">1935 </option><option value="1934">1934 </option><option value="1933">1933 </option><option value="1932">1932 </option><option value="1931">1931 </option><option value="1930">1930 </option><option value="1929">1929 </option><option value="1928">1928 </option><option value="1927">1927 </option><option value="1926">1926 </option><option value="1925">1925 </option><option value="1924">1924 </option><option value="1923">1923 </option><option value="1922">1922 </option><option value="1921">1921 </option></select>								</div>
+							</div>
+							<!-- SUBMIT BUTTON -->
+							<div class="form-group button-progression-wrapper">
+								<div class="col-xs-12">
+									<button class="submit" data-form-submit>
+										<h3>
+											Continue
+										</h3>
+										<div class="cs-loader">
+											<div class="cs-loader-inner">
+												<label>	●</label>
+												<label>	●</label>
+												<label>	●</label>
+												<label>	●</label>
+												<label>	●</label>
+												<label>	●</label>
+											</div>
+										</div>
+									</button>
+									<div class="assistance-phone">Need help? <a href="tel: (800) 859-2243"> (800) 859-2243</a></div>
+								</div>
+							</div>
+
+							<div class="clearfix"></div>
+
+							<div class="back-link">
+								<a href="" data-form-regress>
+									<span class="fa fa-angle-left"></span> Back
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="form-step-3-gift-information" class="slide-step" data-show-errors="within" data-form-steps>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+					<div class="form-slide-bg">
+						<div class="form-slide-header">
+							<h5>Step 3</h5>
+							<h4>Gift Information</h4>
+						</div>
+						<div class="form-slide-steps">
+							<div class="form-slide-steps-progress-bar"></div>
+							<div class="step-progress complete step-1-progress" id="" data-step-indicator="0">
+								<span class="fa fa-check"></span>
+							</div>
+							<div class="step-progress complete step-2-progress" id="" data-step-indicator="1">
+								<span class="fa fa-check"></span>
+							</div>
+							<div class="step-progress current step-3-progress" id="" data-step-indicator="2">
+								3
+							</div>
+							<div class="step-progress step-4-progress" id="" data-step-indicator="3">
+								4
+							</div>
+						</div>
+						<div class="form-slide-content">
+
+							<div class="error-box">
+								There was one or more errors on the form.<br>
+								Please fix the error below.
+							</div>
+
+							<!-- MATCHING DONATION CHECKBOX -->
+							<div class="form-group checkbox">
+								<label for="">Matching Donation</label>
+								<input name="Donors[MatchingDonation]" id="matching-donation" value="1" type="checkbox" show-extra-fields="[data-company-fields]"/>								<label class="checkbox-inline" for="matching-donation">
+									This gift will be matched
+								</label>
+								<span><a href="http://www1.matchinggifts.com/muhlenberg/" target="_blank">Click here to see whether your company has a matching gifts program.</a></span>
+							</div>
+
+							<!-- MATCHING DONATION HIDDEN FIELDS -->
+							<div id="matching-donation-information" class="hidden-fields-display-box" data-company-fields hidden>
+								<div class="form-group">
+									<label for="company-name">Company Name<span class="required-star">*</span></label>
+									<div class="col-sm-12">
+										<input name="CompanyMatches[CompanyName]" id="company-name" value="" type="text" data-validate="false" data-input-error="Please enter a company name." placeholder="Name"/>									</div>
+								</div>
+							</div>
+
+							<!-- SPECIAL GIFT RECOGNITION -->
+							<div class="form-group click-box-container" id="recognition-group">
+								<label for="special-gift-recognition">
+									Special Gift Recognition
+									<span class="sub-label">(Select All That Apply)</span>
+								</label>
+								<div class="col-sm-4">
+									<input name="Honors[Status]" id="honor" value="1" type="checkbox" show-extra-fields="[data-honor-recog]"/>									<label for="honor" class="click-box">Honor</label>
+								</div>
+								<div class="col-sm-4">
+									<input name="Memories[Status]" id="memory" value="1" type="checkbox" show-extra-fields="[data-memory-recog]"/>									<label for="memory" class="click-box">Memory</label>
+								</div>
+							</div>
+
+							<!-- SPECIAL RECOGNITION: HONOR HIDDEN FIELDS -->
+							<div id="recognition-honor-information" class="hidden-fields-display-box" data-honor-recog hidden>
+								<div class="form-group required">
+									<label for="honor-name">Honor Name <span class="required-star">*</span></label>
+									<div class="col-sm-12">
+										<input name="Honors[HonorName]" id="honor-name" value="" type="text" placeholder="Honor Name" data-validate="false" data-input-error="Please provide an honor name."/>									</div>
+								</div>
+								<span class="main-label">Please send notification of this gift to:</span>
+								<div class="form-group">
+									<label for="honor-name-2">Name</label>
+									<div class="col-sm-12">
+										<input name="Honors[NameOfHonor]" id="honor-name-2" value="" type="text" placeholder="Name"/>									</div>
+								</div>
+								<div class="form-group address-lines">
+									<label for="honor-address">Address</label>
+									<div class="col-sm-12">
+										<input name="Honors[HonorAddress]" id="honor-address" value="" type="text" placeholder="Address Line 1"/>									</div>
+									<div class="col-sm-12">
+										<input name="Honors[HonorAddress2]" id="Honors_HonorAddress2" value="" type="text" placeholder="Address Line 2"/>									</div>
+								</div>
+								<div class="form-group city-state">
+									<div class="col-sm-8">
+										<div class="row">
+											<div class="col-sm-12">
+												<label for="honor-city">City</label>
+												<input name="Honors[HonorCity]" id="honor-city" value="" type="text" placeholder="City"/>											</div>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="row">
+											<div class="col-sm-12">
+												<label for="honor-state">State</label>
+												<select name="Honors[HonorState]" id="honor-state"><option value="" selected="selected">----</option><option value="AA">AA</option><option value="AE">AE</option><option value="AP">AP</option><option value="Alabama">AL</option><option value="Alaska">AK</option><option value="Arizona">AZ</option><option value="Arkansas">AR</option><option value="California">CA</option><option value="Colorado">CO</option><option value="Connecticut">CT</option><option value="Delaware">DE</option><option value="Florida">FL</option><option value="Georgia">GA</option><option value="Hawaii">HI</option><option value="Idaho">ID</option><option value="Illinois">IL</option><option value="Indiana">IN</option><option value="Iowa">IA</option><option value="Kansas">KS</option><option value="Kentucky">KY</option><option value="Louisiana">LA</option><option value="Maine">ME</option><option value="Maryland">MD</option><option value="Massachusetts">MA</option><option value="Michigan">MI</option><option value="Minnesota">MN</option><option value="Mississippi">MS</option><option value="Missouri">MO</option><option value="Montana">MT</option><option value="Nebraska">NE</option><option value="Nevada">NV</option><option value="New Hampshire">NH</option><option value="New Jersey">NJ</option><option value="New Mexico">NM</option><option value="New York">NY</option><option value="North Carolina">NC</option><option value="North Dakota">ND</option><option value="Ohio">OH</option><option value="Oklahoma">OK</option><option value="Oregon">OR</option><option value="Pennsylvania">PA</option><option value="Rhode Island">RI</option><option value="South Carolina">SC</option><option value="South Dakota">SD</option><option value="Tennessee">TN</option><option value="Texas">TX</option><option value="Utah">UT</option><option value="Vermont">VT</option><option value="Virginia">VA</option><option value="Washington">WA</option><option value="West Virginia">WV</option><option value="Wisconsin">WI</option><option value="Wyoming">WY</option><option value="Washington D.C.">DC</option></select>											</div>
+										</div>
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="honor-zip">Zip Code</label>
+									<div class="col-sm-12">
+										<input name="Honors[HonorZip]" id="honor-zip" value="" type="text" placeholder="Zip Code"/>									</div>
+								</div>
+								<div class="form-group">
+									<label for="honor-country">Country</label>
+									<div class="col-sm-12">
+										<select name="Honors[HonorCountry]" id="honor-state"><option value="United States">United States</option><option value="Afghanistan">Afghanistan</option><option value="Aland Islands">Aland Islands</option><option value="Albania">Albania</option><option value="Algeria">Algeria</option><option value="American Samoa">American Samoa</option><option value="Andorra">Andorra</option><option value="Angola">Angola</option><option value="Anguilla">Anguilla</option><option value="Antarctica">Antarctica</option><option value="Antigua And Barbuda">Antigua And Barbuda</option><option value="Argentina">Argentina</option><option value="Armenia">Armenia</option><option value="Aruba">Aruba</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Azerbaijan">Azerbaijan</option><option value="Bahamas">Bahamas</option><option value="Bahrain">Bahrain</option><option value="Bangladesh">Bangladesh</option><option value="Barbados">Barbados</option><option value="Belarus">Belarus</option><option value="Belgium">Belgium</option><option value="Belize">Belize</option><option value="Benin">Benin</option><option value="Bermuda">Bermuda</option><option value="Bhutan">Bhutan</option><option value="Bolivia">Bolivia</option><option value="Bosnia And Herzegovina">Bosnia And Herzegovina</option><option value="Botswana">Botswana</option><option value="Bouvet Island">Bouvet Island</option><option value="Brazil">Brazil</option><option value="British Indian Ocean Territory">British Indian Ocean Territory</option><option value="Brunei Darussalam">Brunei Darussalam</option><option value="Bulgaria">Bulgaria</option><option value="Burkina Faso">Burkina Faso</option><option value="Burundi">Burundi</option><option value="Cambodia">Cambodia</option><option value="Cameroon">Cameroon</option><option value="Canada">Canada</option><option value="Cape Verde">Cape Verde</option><option value="Cayman Islands">Cayman Islands</option><option value="Central African Republic">Central African Republic</option><option value="Chad">Chad</option><option value="Chile">Chile</option><option value="China">China</option><option value="Christmas Island">Christmas Island</option><option value="Cocos (Keeling) Islands">Cocos (Keeling) Islands</option><option value="Colombia">Colombia</option><option value="Comoros">Comoros</option><option value="Congo">Congo</option><option value="Congo, Democratic Republic">Congo Democratic Republic</option><option value="Cook Islands">Cook Islands</option><option value="Costa Rica">Costa Rica</option><option value="Cote D'Ivoire">Cote D'Ivoire</option><option value="Croatia">Croatia</option><option value="Cuba">Cuba</option><option value="Cyprus">Cyprus</option><option value="Czech Republic">Czech Republic</option><option value="Denmark">Denmark</option><option value="Djibouti">Djibouti</option><option value="Dominica">Dominica</option><option value="Dominican Republic">Dominican Republic</option><option value="Ecuador">Ecuador</option><option value="Egypt">Egypt</option><option value="El Salvador">El Salvador</option><option value="Equatorial Guinea">Equatorial Guinea</option><option value="Eritrea">Eritrea</option><option value="Estonia">Estonia</option><option value="Ethiopia">Ethiopia</option><option value="Falkland Islands (Malvinas)">Falkland Islands (Malvinas)</option><option value="Faroe Islands">Faroe Islands</option><option value="Fiji">Fiji</option><option value="Finland">Finland</option><option value="France">France</option><option value="French Guiana">French Guiana</option><option value="French Polynesia">French Polynesia</option><option value="French Southern Territories">French Southern Territories</option><option value="Gabon">Gabon</option><option value="Gambia">Gambia</option><option value="Georgia">Georgia</option><option value="Germany">Germany</option><option value="Ghana">Ghana</option><option value="Gibraltar">Gibraltar</option><option value="Greece">Greece</option><option value="Greenland">Greenland</option><option value="Grenada">Grenada</option><option value="Guadeloupe">Guadeloupe</option><option value="Guam">Guam</option><option value="Guatemala">Guatemala</option><option value="Guernsey">Guernsey</option><option value="Guinea">Guinea</option><option value="Guinea-Bissau">Guinea-Bissau</option><option value="Guyana">Guyana</option><option value="Haiti">Haiti</option><option value="Heard Island & Mcdonald Islands">Heard Island & Mcdonald Islands</option><option value="Holy See (Vatican City State)">Holy See (Vatican City State)</option><option value="Honduras">Honduras</option><option value="Hong Kong">Hong Kong</option><option value="Hungary">Hungary</option><option value="Iceland">Iceland</option><option value="India">India</option><option value="Indonesia">Indonesia</option><option value="Iran, Islamic Republic Of">Iran Islamic Republic Of</option><option value="Iraq">Iraq</option><option value="Ireland">Ireland</option><option value="Isle Of Man">Isle Of Man</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Jamaica">Jamaica</option><option value="Japan">Japan</option><option value="Jersey">Jersey</option><option value="Jordan">Jordan</option><option value="Kazakhstan">Kazakhstan</option><option value="Kenya">Kenya</option><option value="Kiribati">Kiribati</option><option value="Korea">Korea</option><option value="Kuwait">Kuwait</option><option value="Kyrgyzstan">Kyrgyzstan</option><option value="Lao People's Democratic Republic">Lao People's Democratic Republic</option><option value="Latvia">Latvia</option><option value="Lebanon">Lebanon</option><option value="Lesotho">Lesotho</option><option value="Liberia">Liberia</option><option value="Libyan Arab Jamahiriya">Libyan Arab Jamahiriya</option><option value="Liechtenstein">Liechtenstein</option><option value="Lithuania">Lithuania</option><option value="Luxembourg">Luxembourg</option><option value="Macao">Macao</option><option value="Macedonia">Macedonia</option><option value="Madagascar">Madagascar</option><option value="Malawi">Malawi</option><option value="Malaysia">Malaysia</option><option value="Maldives">Maldives</option><option value="Mali">Mali</option><option value="Malta">Malta</option><option value="Marshall Islands">Marshall Islands</option><option value="Martinique">Martinique</option><option value="Mauritania">Mauritania</option><option value="Mauritius">Mauritius</option><option value="Mayotte">Mayotte</option><option value="Mexico">Mexico</option><option value="Micronesia, Federated States Of">Micronesia Federated States Of</option><option value="Moldova">Moldova</option><option value="Monaco">Monaco</option><option value="Mongolia">Mongolia</option><option value="Montenegro">Montenegro</option><option value="Montserrat">Montserrat</option><option value="Morocco">Morocco</option><option value="Mozambique">Mozambique</option><option value="Myanmar">Myanmar</option><option value="Namibia">Namibia</option><option value="Nauru">Nauru</option><option value="Nepal">Nepal</option><option value="Netherlands">Netherlands</option><option value="Netherlands Antilles">Netherlands Antilles</option><option value="New Caledonia">New Caledonia</option><option value="New Zealand">New Zealand</option><option value="Nicaragua">Nicaragua</option><option value="Niger">Niger</option><option value="Nigeria">Nigeria</option><option value="Niue">Niue</option><option value="Norfolk Island">Norfolk Island</option><option value="Northern Mariana Islands">Northern Mariana Islands</option><option value="Norway">Norway</option><option value="Oman">Oman</option><option value="Pakistan">Pakistan</option><option value="Palau">Palau</option><option value="Palestinian Territory, Occupied">Palestinian Territory Occupied</option><option value="Panama">Panama</option><option value="Papua New Guinea">Papua New Guinea</option><option value="Paraguay">Paraguay</option><option value="Peru">Peru</option><option value="Philippines">Philippines</option><option value="Pitcairn">Pitcairn</option><option value="Poland">Poland</option><option value="Portugal">Portugal</option><option value="Puerto Rico">Puerto Rico</option><option value="Qatar">Qatar</option><option value="Reunion">Reunion</option><option value="Romania">Romania</option><option value="Russian Federation">Russian Federation</option><option value="Rwanda">Rwanda</option><option value="Saint Barthelemy">Saint Barthelemy</option><option value="Saint Helena">Saint Helena</option><option value="Saint Kitts And Nevis">Saint Kitts And Nevis</option><option value="Saint Lucia">Saint Lucia</option><option value="Saint Martin">Saint Martin</option><option value="Saint Pierre And Miquelon">Saint Pierre And Miquelon</option><option value="Saint Vincent And Grenadines">Saint Vincent And Grenadines</option><option value="Samoa">Samoa</option><option value="San Marino">San Marino</option><option value="Sao Tome And Principe">Sao Tome And Principe</option><option value="Saudi Arabia">Saudi Arabia</option><option value="Senegal">Senegal</option><option value="Serbia">Serbia</option><option value="Seychelles">Seychelles</option><option value="Sierra Leone">Sierra Leone</option><option value="Singapore">Singapore</option><option value="Slovakia">Slovakia</option><option value="Slovenia">Slovenia</option><option value="Solomon Islands">Solomon Islands</option><option value="Somalia">Somalia</option><option value="South Africa">South Africa</option><option value="South Georgia And Sandwich Isl.">South Georgia And Sandwich Isl.</option><option value="Spain">Spain</option><option value="Sri Lanka">Sri Lanka</option><option value="Sudan">Sudan</option><option value="Suriname">Suriname</option><option value="Svalbard And Jan Mayen">Svalbard And Jan Mayen</option><option value="Swaziland">Swaziland</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Syrian Arab Republic">Syrian Arab Republic</option><option value="Taiwan">Taiwan</option><option value="Tajikistan">Tajikistan</option><option value="Tanzania">Tanzania</option><option value="Thailand">Thailand</option><option value="Timor-Leste">Timor-Leste</option><option value="Togo">Togo</option><option value="Tokelau">Tokelau</option><option value="Tonga">Tonga</option><option value="Trinidad And Tobago">Trinidad And Tobago</option><option value="Tunisia">Tunisia</option><option value="Turkey">Turkey</option><option value="Turkmenistan">Turkmenistan</option><option value="Turks And Caicos Islands">Turks And Caicos Islands</option><option value="Tuvalu">Tuvalu</option><option value="Uganda">Uganda</option><option value="Ukraine">Ukraine</option><option value="United Arab Emirates">United Arab Emirates</option><option value="United Kingdom">United Kingdom</option><option value="United States Outlying Islands">United States Outlying Islands</option><option value="Uruguay">Uruguay</option><option value="Uzbekistan">Uzbekistan</option><option value="Vanuatu">Vanuatu</option><option value="Venezuela">Venezuela</option><option value="Viet Nam">Viet Nam</option><option value="Virgin Islands, British">Virgin Islands British</option><option value="Virgin Islands, U.S.">Virgin Islands U.S.</option><option value="Wallis And Futuna">Wallis And Futuna</option><option value="Western Sahara">Western Sahara</option><option value="Yemen">Yemen</option><option value="Zambia">Zambia</option><option value="Zimbabwe">Zimbabwe</option></select>									</div>
+								</div>
+								<div class="form-group">
+									<label for="honor-additional-information">Additional Information</label>
+									<div class="col-sm-12">
+										<textarea name="Honors[HonorAdditionalInfo]" id="honor-additional-information" placeholder="Additional Information" rows="4"></textarea>									</div>
+								</div>
+							</div>
+
+							<!-- SPECIAL RECOGNITION: MEMORY HIDDEN FIELDS -->
+							<div id="recognition-memory-information" class="hidden-fields-display-box" data-memory-recog hidden>
+								<div class="form-group required">
+									<label for="memory-name">Memory Name <span class="required-star">*</span></label>
+									<div class="col-sm-12">
+										<input name="Memories[MemoryName]" id="honor-name" value="" type="text" placeholder="Memory Name" data-validate="false" data-input-error="Please provide a memory name."/>									</div>
+								</div>
+								<span class="main-label">Please send notification of this gift to:</span>
+								<div class="form-group">
+									<label for="memory-name-2">Name</label>
+									<div class="col-sm-12">
+										<input name="Memories[NameOfMemory]" id="memory-name-2" value="" type="text" placeholder="Name"/>									</div>
+								</div>
+								<div class="form-group address-lines">
+									<label for="memory-address">Address</label>
+									<div class="col-sm-12">
+										<input name="Memories[MemoryAddress]" id="memory-address" value="" type="text" placeholder="Address Line 1"/>									</div>
+									<div class="col-sm-12">
+										<input name="Memories[MemoryAddress2]" id="Memories_MemoryAddress2" value="" type="text" placeholder="Address Line 2"/>									</div>
+								</div>
+								<div class="form-group city-state">
+									<div class="col-sm-8">
+										<div class="row">
+											<div class="col-sm-12">
+												<label for="memory-city">City</label>
+												<input name="Memories[MemoryCity]" id="memory-city" value="" type="text" placeholder="City"/>											</div>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="row">
+											<div class="col-sm-12">
+												<label for="memory-state">State</label>
+												<select name="Memories[MemoryState]" id="memory-state"><option value="" selected="selected">----</option><option value="AA">AA</option><option value="AE">AE</option><option value="AP">AP</option><option value="Alabama">AL</option><option value="Alaska">AK</option><option value="Arizona">AZ</option><option value="Arkansas">AR</option><option value="California">CA</option><option value="Colorado">CO</option><option value="Connecticut">CT</option><option value="Delaware">DE</option><option value="Florida">FL</option><option value="Georgia">GA</option><option value="Hawaii">HI</option><option value="Idaho">ID</option><option value="Illinois">IL</option><option value="Indiana">IN</option><option value="Iowa">IA</option><option value="Kansas">KS</option><option value="Kentucky">KY</option><option value="Louisiana">LA</option><option value="Maine">ME</option><option value="Maryland">MD</option><option value="Massachusetts">MA</option><option value="Michigan">MI</option><option value="Minnesota">MN</option><option value="Mississippi">MS</option><option value="Missouri">MO</option><option value="Montana">MT</option><option value="Nebraska">NE</option><option value="Nevada">NV</option><option value="New Hampshire">NH</option><option value="New Jersey">NJ</option><option value="New Mexico">NM</option><option value="New York">NY</option><option value="North Carolina">NC</option><option value="North Dakota">ND</option><option value="Ohio">OH</option><option value="Oklahoma">OK</option><option value="Oregon">OR</option><option value="Pennsylvania">PA</option><option value="Rhode Island">RI</option><option value="South Carolina">SC</option><option value="South Dakota">SD</option><option value="Tennessee">TN</option><option value="Texas">TX</option><option value="Utah">UT</option><option value="Vermont">VT</option><option value="Virginia">VA</option><option value="Washington">WA</option><option value="West Virginia">WV</option><option value="Wisconsin">WI</option><option value="Wyoming">WY</option><option value="Washington D.C.">DC</option></select>											</div>
+										</div>
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="memory-zip">Zip Code</label>
+									<div class="col-sm-12">
+										<input name="Memories[MemoryZip]" id="memory-zip" value="" type="text" placeholder="Zip Code"/>									</div>
+								</div>
+								<div class="form-group">
+									<label for="memory-country">Country</label>
+									<div class="col-sm-12">
+										<select name="Memories[MemoryCountry]" id="memory-state"><option value="United States">United States</option><option value="Afghanistan">Afghanistan</option><option value="Aland Islands">Aland Islands</option><option value="Albania">Albania</option><option value="Algeria">Algeria</option><option value="American Samoa">American Samoa</option><option value="Andorra">Andorra</option><option value="Angola">Angola</option><option value="Anguilla">Anguilla</option><option value="Antarctica">Antarctica</option><option value="Antigua And Barbuda">Antigua And Barbuda</option><option value="Argentina">Argentina</option><option value="Armenia">Armenia</option><option value="Aruba">Aruba</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Azerbaijan">Azerbaijan</option><option value="Bahamas">Bahamas</option><option value="Bahrain">Bahrain</option><option value="Bangladesh">Bangladesh</option><option value="Barbados">Barbados</option><option value="Belarus">Belarus</option><option value="Belgium">Belgium</option><option value="Belize">Belize</option><option value="Benin">Benin</option><option value="Bermuda">Bermuda</option><option value="Bhutan">Bhutan</option><option value="Bolivia">Bolivia</option><option value="Bosnia And Herzegovina">Bosnia And Herzegovina</option><option value="Botswana">Botswana</option><option value="Bouvet Island">Bouvet Island</option><option value="Brazil">Brazil</option><option value="British Indian Ocean Territory">British Indian Ocean Territory</option><option value="Brunei Darussalam">Brunei Darussalam</option><option value="Bulgaria">Bulgaria</option><option value="Burkina Faso">Burkina Faso</option><option value="Burundi">Burundi</option><option value="Cambodia">Cambodia</option><option value="Cameroon">Cameroon</option><option value="Canada">Canada</option><option value="Cape Verde">Cape Verde</option><option value="Cayman Islands">Cayman Islands</option><option value="Central African Republic">Central African Republic</option><option value="Chad">Chad</option><option value="Chile">Chile</option><option value="China">China</option><option value="Christmas Island">Christmas Island</option><option value="Cocos (Keeling) Islands">Cocos (Keeling) Islands</option><option value="Colombia">Colombia</option><option value="Comoros">Comoros</option><option value="Congo">Congo</option><option value="Congo, Democratic Republic">Congo Democratic Republic</option><option value="Cook Islands">Cook Islands</option><option value="Costa Rica">Costa Rica</option><option value="Cote D'Ivoire">Cote D'Ivoire</option><option value="Croatia">Croatia</option><option value="Cuba">Cuba</option><option value="Cyprus">Cyprus</option><option value="Czech Republic">Czech Republic</option><option value="Denmark">Denmark</option><option value="Djibouti">Djibouti</option><option value="Dominica">Dominica</option><option value="Dominican Republic">Dominican Republic</option><option value="Ecuador">Ecuador</option><option value="Egypt">Egypt</option><option value="El Salvador">El Salvador</option><option value="Equatorial Guinea">Equatorial Guinea</option><option value="Eritrea">Eritrea</option><option value="Estonia">Estonia</option><option value="Ethiopia">Ethiopia</option><option value="Falkland Islands (Malvinas)">Falkland Islands (Malvinas)</option><option value="Faroe Islands">Faroe Islands</option><option value="Fiji">Fiji</option><option value="Finland">Finland</option><option value="France">France</option><option value="French Guiana">French Guiana</option><option value="French Polynesia">French Polynesia</option><option value="French Southern Territories">French Southern Territories</option><option value="Gabon">Gabon</option><option value="Gambia">Gambia</option><option value="Georgia">Georgia</option><option value="Germany">Germany</option><option value="Ghana">Ghana</option><option value="Gibraltar">Gibraltar</option><option value="Greece">Greece</option><option value="Greenland">Greenland</option><option value="Grenada">Grenada</option><option value="Guadeloupe">Guadeloupe</option><option value="Guam">Guam</option><option value="Guatemala">Guatemala</option><option value="Guernsey">Guernsey</option><option value="Guinea">Guinea</option><option value="Guinea-Bissau">Guinea-Bissau</option><option value="Guyana">Guyana</option><option value="Haiti">Haiti</option><option value="Heard Island & Mcdonald Islands">Heard Island & Mcdonald Islands</option><option value="Holy See (Vatican City State)">Holy See (Vatican City State)</option><option value="Honduras">Honduras</option><option value="Hong Kong">Hong Kong</option><option value="Hungary">Hungary</option><option value="Iceland">Iceland</option><option value="India">India</option><option value="Indonesia">Indonesia</option><option value="Iran, Islamic Republic Of">Iran Islamic Republic Of</option><option value="Iraq">Iraq</option><option value="Ireland">Ireland</option><option value="Isle Of Man">Isle Of Man</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Jamaica">Jamaica</option><option value="Japan">Japan</option><option value="Jersey">Jersey</option><option value="Jordan">Jordan</option><option value="Kazakhstan">Kazakhstan</option><option value="Kenya">Kenya</option><option value="Kiribati">Kiribati</option><option value="Korea">Korea</option><option value="Kuwait">Kuwait</option><option value="Kyrgyzstan">Kyrgyzstan</option><option value="Lao People's Democratic Republic">Lao People's Democratic Republic</option><option value="Latvia">Latvia</option><option value="Lebanon">Lebanon</option><option value="Lesotho">Lesotho</option><option value="Liberia">Liberia</option><option value="Libyan Arab Jamahiriya">Libyan Arab Jamahiriya</option><option value="Liechtenstein">Liechtenstein</option><option value="Lithuania">Lithuania</option><option value="Luxembourg">Luxembourg</option><option value="Macao">Macao</option><option value="Macedonia">Macedonia</option><option value="Madagascar">Madagascar</option><option value="Malawi">Malawi</option><option value="Malaysia">Malaysia</option><option value="Maldives">Maldives</option><option value="Mali">Mali</option><option value="Malta">Malta</option><option value="Marshall Islands">Marshall Islands</option><option value="Martinique">Martinique</option><option value="Mauritania">Mauritania</option><option value="Mauritius">Mauritius</option><option value="Mayotte">Mayotte</option><option value="Mexico">Mexico</option><option value="Micronesia, Federated States Of">Micronesia Federated States Of</option><option value="Moldova">Moldova</option><option value="Monaco">Monaco</option><option value="Mongolia">Mongolia</option><option value="Montenegro">Montenegro</option><option value="Montserrat">Montserrat</option><option value="Morocco">Morocco</option><option value="Mozambique">Mozambique</option><option value="Myanmar">Myanmar</option><option value="Namibia">Namibia</option><option value="Nauru">Nauru</option><option value="Nepal">Nepal</option><option value="Netherlands">Netherlands</option><option value="Netherlands Antilles">Netherlands Antilles</option><option value="New Caledonia">New Caledonia</option><option value="New Zealand">New Zealand</option><option value="Nicaragua">Nicaragua</option><option value="Niger">Niger</option><option value="Nigeria">Nigeria</option><option value="Niue">Niue</option><option value="Norfolk Island">Norfolk Island</option><option value="Northern Mariana Islands">Northern Mariana Islands</option><option value="Norway">Norway</option><option value="Oman">Oman</option><option value="Pakistan">Pakistan</option><option value="Palau">Palau</option><option value="Palestinian Territory, Occupied">Palestinian Territory Occupied</option><option value="Panama">Panama</option><option value="Papua New Guinea">Papua New Guinea</option><option value="Paraguay">Paraguay</option><option value="Peru">Peru</option><option value="Philippines">Philippines</option><option value="Pitcairn">Pitcairn</option><option value="Poland">Poland</option><option value="Portugal">Portugal</option><option value="Puerto Rico">Puerto Rico</option><option value="Qatar">Qatar</option><option value="Reunion">Reunion</option><option value="Romania">Romania</option><option value="Russian Federation">Russian Federation</option><option value="Rwanda">Rwanda</option><option value="Saint Barthelemy">Saint Barthelemy</option><option value="Saint Helena">Saint Helena</option><option value="Saint Kitts And Nevis">Saint Kitts And Nevis</option><option value="Saint Lucia">Saint Lucia</option><option value="Saint Martin">Saint Martin</option><option value="Saint Pierre And Miquelon">Saint Pierre And Miquelon</option><option value="Saint Vincent And Grenadines">Saint Vincent And Grenadines</option><option value="Samoa">Samoa</option><option value="San Marino">San Marino</option><option value="Sao Tome And Principe">Sao Tome And Principe</option><option value="Saudi Arabia">Saudi Arabia</option><option value="Senegal">Senegal</option><option value="Serbia">Serbia</option><option value="Seychelles">Seychelles</option><option value="Sierra Leone">Sierra Leone</option><option value="Singapore">Singapore</option><option value="Slovakia">Slovakia</option><option value="Slovenia">Slovenia</option><option value="Solomon Islands">Solomon Islands</option><option value="Somalia">Somalia</option><option value="South Africa">South Africa</option><option value="South Georgia And Sandwich Isl.">South Georgia And Sandwich Isl.</option><option value="Spain">Spain</option><option value="Sri Lanka">Sri Lanka</option><option value="Sudan">Sudan</option><option value="Suriname">Suriname</option><option value="Svalbard And Jan Mayen">Svalbard And Jan Mayen</option><option value="Swaziland">Swaziland</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Syrian Arab Republic">Syrian Arab Republic</option><option value="Taiwan">Taiwan</option><option value="Tajikistan">Tajikistan</option><option value="Tanzania">Tanzania</option><option value="Thailand">Thailand</option><option value="Timor-Leste">Timor-Leste</option><option value="Togo">Togo</option><option value="Tokelau">Tokelau</option><option value="Tonga">Tonga</option><option value="Trinidad And Tobago">Trinidad And Tobago</option><option value="Tunisia">Tunisia</option><option value="Turkey">Turkey</option><option value="Turkmenistan">Turkmenistan</option><option value="Turks And Caicos Islands">Turks And Caicos Islands</option><option value="Tuvalu">Tuvalu</option><option value="Uganda">Uganda</option><option value="Ukraine">Ukraine</option><option value="United Arab Emirates">United Arab Emirates</option><option value="United Kingdom">United Kingdom</option><option value="United States Outlying Islands">United States Outlying Islands</option><option value="Uruguay">Uruguay</option><option value="Uzbekistan">Uzbekistan</option><option value="Vanuatu">Vanuatu</option><option value="Venezuela">Venezuela</option><option value="Viet Nam">Viet Nam</option><option value="Virgin Islands, British">Virgin Islands British</option><option value="Virgin Islands, U.S.">Virgin Islands U.S.</option><option value="Wallis And Futuna">Wallis And Futuna</option><option value="Western Sahara">Western Sahara</option><option value="Yemen">Yemen</option><option value="Zambia">Zambia</option><option value="Zimbabwe">Zimbabwe</option></select>									</div>
+								</div>
+								<div class="form-group">
+									<label for="memory-additional-information">Additional Information</label>
+									<div class="col-sm-12">
+										<textarea name="Memories[MemoryAdditionalInfo]" id="memory-additional-information" placeholder="Additional Information" rows="4"></textarea>									</div>
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="donor-additional-information">Comments</label>
+								<div class="col-sm-12">
+									<textarea name="Donors[DonorAdditionalInfo]" id="donor-additional-information" placeholder="I Support Muhlenberg Because..." rows="4"></textarea>									<span class="small">Unless you indicate in the comment box above that you prefer individual credit, you and your spouse/partner will receive joint credit for this gift.</span>
+								</div>
+							</div>
+							<!-- SUBMIT BUTTON -->
+							<div class="form-group button-progression-wrapper">
+								<div class="col-xs-12">
+									<button class="submit" data-form-submit>
+										<h3>Continue</h3>
+										<div class="cs-loader">
+											<div class="cs-loader-inner">
+												<label>	●</label>
+												<label>	●</label>
+												<label>	●</label>
+												<label>	●</label>
+												<label>	●</label>
+												<label>	●</label>
+											</div>
+										</div>
+									</button>
+									<div class="assistance-phone">Need help? <a href="tel: (800) 859-2243"> (800) 859-2243</a></div>
+								</div>
+							</div>
+
+							<div class="clearfix"></div>
+
+							<div class="back-link">
+								<a href="" data-form-regress>
+									<span class="fa fa-angle-left"></span> Back
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="form-step-4-payment-information" class="slide-step" data-show-errors="within" data-form-steps data-payment-form>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+					<div class="form-slide-bg">
+						<div class="form-slide-header">
+							<h5>Step 4</h5>
+							<h4>Payment Information</h4>
+						</div>
+						<div class="form-slide-steps">
+							<div class="form-slide-steps-progress-bar"></div>
+							<div class="step-progress complete step-1-progress" id="" data-step-indicator="0">
+								<span class="fa fa-check"></span>
+							</div>
+							<div class="step-progress complete step-2-progress" id="" data-step-indicator="1">
+								<span class="fa fa-check"></span>
+							</div>
+							<div class="step-progress current step-3-progress" id="" data-step-indicator="2">
+								<span class="fa fa-check"></span>
+							</div>
+							<div class="step-progress step-4-progress" id="" data-step-indicator="3">
+								4
+							</div>
+						</div>
+						<div class="form-slide-content">
+
+							<div class="error-box">
+								There was one or more errors on the form.<br>
+								Please fix the error below.
+							</div>
+
+							<div id="card-information-container">
+
+								<span class="main-label">Card Information</span>
+
+								<!-- CARDHOLDER NAME -->
+								<div class="form-group">
+									<label for="cardholder-name">Cardholder Name <span class="required-star">*</span></label>
+									<div class="col-sm-12">
+										<input name="CreditCardForm[Name]" id="CreditCardForm_Name" value="" data-validate="1" data-payment-name="1" data-input-error="Please enter a cardholder name." type="text" placeholder="Card holder name" tabindex="-1" disabled="1"/>									</div>
+								</div>
+
+								<!-- CARD INFORMATION -->
+								<div class="form-group">
+									<label for="card-number">Card Number <span class="required-star">*</span></label>
+									<div class="col-sm-12">
+										<input name="CreditCardForm[Number]" id="CreditCardForm_Number" value="" data-validate="1" data-payment-card="1" data-input-error="Please enter a valid card number." type="number" placeholder="15/16 Digit Number" inputmode="numeric" tabindex="-1" disabled="1"/><input name="CreditCardForm[AuthorizeDotNetToken]" id="CreditCardForm_AuthorizeDotNetToken" value="" type="hidden" data-payment-token="1" readonly="1" tabindex="-1"/>									</div>
+								</div>
+
+								<!-- CARD EXPIRATION -->
+								<div class="form-group expiration-options">
+									<label for="expiration-month">Expiration Date <span class="required-star">*</span></label>
+									<div class="col-sm-6">
+										<select name="CreditCardForm[ExpireMonth]" id="CreditCardForm_ExpireMonth" data-validate="1" data-payment-month="1" data-input-error="Please enter a valid exp. month." tabindex="-1" disabled="1"><option value="" selected="selected">----</option><option value="1">01 </option><option value="2">02 </option><option value="3">03 </option><option value="4">04 </option><option value="5">05 </option><option value="6">06 </option><option value="7">07 </option><option value="8">08 </option><option value="9">09 </option><option value="10">10 </option><option value="11">11 </option><option value="12">12 </option></select>									</div>
+									<div class="col-sm-6">
+										<select name="CreditCardForm[ExpireYear]" id="CreditCardForm_ExpireYear" data-validate="1" data-payment-year="1" data-input-error="Please enter a valid exp. year." tabindex="-1" disabled="1"><option value="" selected="selected">----</option><option value="2019">2019 </option><option value="2020">2020 </option><option value="2021">2021 </option><option value="2022">2022 </option><option value="2023">2023 </option><option value="2024">2024 </option><option value="2025">2025 </option><option value="2026">2026 </option><option value="2027">2027 </option><option value="2028">2028 </option><option value="2029">2029 </option><option value="2030">2030 </option><option value="2031">2031 </option><option value="2032">2032 </option><option value="2033">2033 </option><option value="2034">2034 </option><option value="2035">2035 </option><option value="2036">2036 </option><option value="2037">2037 </option><option value="2038">2038 </option><option value="2039">2039 </option></select>									</div>
+								</div>
+
+								<!-- SECURITY CODE -->
+								<div class="form-group">
+									<label for="security-code">CVV <span class="required-star">*</span></label>
+									<div class="col-sm-6 col-xs-11">
+										<input name="CreditCardForm[CVC]" id="CreditCardForm_CVC" value="" data-validate="1" data-payment-cvc="1" data-input-error="Please enter a valid CVV number." type="number" placeholder="***" inputmode="numeric" data-max-length="4" tabindex="-1" disabled="1"/>									</div>
+									<div id="security-code-tooltip"><span class="fa fa-question-circle" data-toggle="tooltip" title="The CVV is a 3 or 4 digit code embossed or imprinted on the signature panel on the reverse side of Visa, MasterCard and Discover cards and on the front of American Express cards."></span></div>
+								</div>
+							</div>
+
+							<div id="billing-address-container">
+
+								<span class="main-label">Billing Information</span>
+
+								<!-- BILLING STREET ADDRESS -->
+								<div class="form-group address-lines">
+									<label for="billing-address-1">Address <span class="required-star">*</span></label>
+									<div class="col-sm-12">
+										<input name="Donations[BillingAddress]" id="billing-address-1" value="" type="text" placeholder="Address Line 1" data-validate="1" data-input-error="Billing address is required."/>									</div>
+									<div class="col-sm-12">
+										<input name="Donations[BillingAddress2]" id="Donations_BillingAddress2" value="" type="text" placeholder="Address Line 2"/>									</div>
+								</div>
+
+								<!-- BILLING CITY STATE -->
+
+								<div class="form-group city-state">
+									<div class="col-sm-8">
+										<div class="row">
+											<div class="col-sm-12">
+												<label for="billing-city">City <span class="required-star">*</span></label>
+												<input name="Donations[BillingCity]" id="billing-city" value="" type="text" placeholder="City" data-validate="1" data-input-error="City is required."/>											</div>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="row">
+											<div class="col-sm-12">
+												<label for="billing-state">State <span class="required-star">*</span></label>
+												<select name="Donations[BillingState]" id="billing-state" type="text" placeholder="State" data-validate="1" data-input-error="State is required."><option value="" selected="selected">----</option><option value="AA">AA</option><option value="AE">AE</option><option value="AP">AP</option><option value="Alabama">AL</option><option value="Alaska">AK</option><option value="Arizona">AZ</option><option value="Arkansas">AR</option><option value="California">CA</option><option value="Colorado">CO</option><option value="Connecticut">CT</option><option value="Delaware">DE</option><option value="Florida">FL</option><option value="Georgia">GA</option><option value="Hawaii">HI</option><option value="Idaho">ID</option><option value="Illinois">IL</option><option value="Indiana">IN</option><option value="Iowa">IA</option><option value="Kansas">KS</option><option value="Kentucky">KY</option><option value="Louisiana">LA</option><option value="Maine">ME</option><option value="Maryland">MD</option><option value="Massachusetts">MA</option><option value="Michigan">MI</option><option value="Minnesota">MN</option><option value="Mississippi">MS</option><option value="Missouri">MO</option><option value="Montana">MT</option><option value="Nebraska">NE</option><option value="Nevada">NV</option><option value="New Hampshire">NH</option><option value="New Jersey">NJ</option><option value="New Mexico">NM</option><option value="New York">NY</option><option value="North Carolina">NC</option><option value="North Dakota">ND</option><option value="Ohio">OH</option><option value="Oklahoma">OK</option><option value="Oregon">OR</option><option value="Pennsylvania">PA</option><option value="Rhode Island">RI</option><option value="South Carolina">SC</option><option value="South Dakota">SD</option><option value="Tennessee">TN</option><option value="Texas">TX</option><option value="Utah">UT</option><option value="Vermont">VT</option><option value="Virginia">VA</option><option value="Washington">WA</option><option value="West Virginia">WV</option><option value="Wisconsin">WI</option><option value="Wyoming">WY</option><option value="Washington D.C.">DC</option></select>											</div>
+										</div>
+									</div>
+								</div>
+
+								<!-- BILLING ZIP -->
+								<div class="form-group">
+									<label for="billing-zip">Zip or Postal Code <span class="required-star">*</span></label>
+									<div class="col-sm-6">
+										<input name="Donations[BillingZip]" id="billing-zip" value="" type="text" placeholder="Zip" data-validate="1" data-input-error="Zip is required."/>									</div>
+								</div>
+
+								<!-- BILLING COUNTRY -->
+								<div class="form-group">
+									<label for="billing-country">Country <span class="required-star">*</span></label>
+									<div class="col-sm-12">
+										<select name="Donations[BillingCountry]" id="billing-country" type="text" data-validate="1" data-input-error="Country is required."><option value="United States">United States</option><option value="Afghanistan">Afghanistan</option><option value="Aland Islands">Aland Islands</option><option value="Albania">Albania</option><option value="Algeria">Algeria</option><option value="American Samoa">American Samoa</option><option value="Andorra">Andorra</option><option value="Angola">Angola</option><option value="Anguilla">Anguilla</option><option value="Antarctica">Antarctica</option><option value="Antigua And Barbuda">Antigua And Barbuda</option><option value="Argentina">Argentina</option><option value="Armenia">Armenia</option><option value="Aruba">Aruba</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Azerbaijan">Azerbaijan</option><option value="Bahamas">Bahamas</option><option value="Bahrain">Bahrain</option><option value="Bangladesh">Bangladesh</option><option value="Barbados">Barbados</option><option value="Belarus">Belarus</option><option value="Belgium">Belgium</option><option value="Belize">Belize</option><option value="Benin">Benin</option><option value="Bermuda">Bermuda</option><option value="Bhutan">Bhutan</option><option value="Bolivia">Bolivia</option><option value="Bosnia And Herzegovina">Bosnia And Herzegovina</option><option value="Botswana">Botswana</option><option value="Bouvet Island">Bouvet Island</option><option value="Brazil">Brazil</option><option value="British Indian Ocean Territory">British Indian Ocean Territory</option><option value="Brunei Darussalam">Brunei Darussalam</option><option value="Bulgaria">Bulgaria</option><option value="Burkina Faso">Burkina Faso</option><option value="Burundi">Burundi</option><option value="Cambodia">Cambodia</option><option value="Cameroon">Cameroon</option><option value="Canada">Canada</option><option value="Cape Verde">Cape Verde</option><option value="Cayman Islands">Cayman Islands</option><option value="Central African Republic">Central African Republic</option><option value="Chad">Chad</option><option value="Chile">Chile</option><option value="China">China</option><option value="Christmas Island">Christmas Island</option><option value="Cocos (Keeling) Islands">Cocos (Keeling) Islands</option><option value="Colombia">Colombia</option><option value="Comoros">Comoros</option><option value="Congo">Congo</option><option value="Congo, Democratic Republic">Congo Democratic Republic</option><option value="Cook Islands">Cook Islands</option><option value="Costa Rica">Costa Rica</option><option value="Cote D'Ivoire">Cote D'Ivoire</option><option value="Croatia">Croatia</option><option value="Cuba">Cuba</option><option value="Cyprus">Cyprus</option><option value="Czech Republic">Czech Republic</option><option value="Denmark">Denmark</option><option value="Djibouti">Djibouti</option><option value="Dominica">Dominica</option><option value="Dominican Republic">Dominican Republic</option><option value="Ecuador">Ecuador</option><option value="Egypt">Egypt</option><option value="El Salvador">El Salvador</option><option value="Equatorial Guinea">Equatorial Guinea</option><option value="Eritrea">Eritrea</option><option value="Estonia">Estonia</option><option value="Ethiopia">Ethiopia</option><option value="Falkland Islands (Malvinas)">Falkland Islands (Malvinas)</option><option value="Faroe Islands">Faroe Islands</option><option value="Fiji">Fiji</option><option value="Finland">Finland</option><option value="France">France</option><option value="French Guiana">French Guiana</option><option value="French Polynesia">French Polynesia</option><option value="French Southern Territories">French Southern Territories</option><option value="Gabon">Gabon</option><option value="Gambia">Gambia</option><option value="Georgia">Georgia</option><option value="Germany">Germany</option><option value="Ghana">Ghana</option><option value="Gibraltar">Gibraltar</option><option value="Greece">Greece</option><option value="Greenland">Greenland</option><option value="Grenada">Grenada</option><option value="Guadeloupe">Guadeloupe</option><option value="Guam">Guam</option><option value="Guatemala">Guatemala</option><option value="Guernsey">Guernsey</option><option value="Guinea">Guinea</option><option value="Guinea-Bissau">Guinea-Bissau</option><option value="Guyana">Guyana</option><option value="Haiti">Haiti</option><option value="Heard Island & Mcdonald Islands">Heard Island & Mcdonald Islands</option><option value="Holy See (Vatican City State)">Holy See (Vatican City State)</option><option value="Honduras">Honduras</option><option value="Hong Kong">Hong Kong</option><option value="Hungary">Hungary</option><option value="Iceland">Iceland</option><option value="India">India</option><option value="Indonesia">Indonesia</option><option value="Iran, Islamic Republic Of">Iran Islamic Republic Of</option><option value="Iraq">Iraq</option><option value="Ireland">Ireland</option><option value="Isle Of Man">Isle Of Man</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Jamaica">Jamaica</option><option value="Japan">Japan</option><option value="Jersey">Jersey</option><option value="Jordan">Jordan</option><option value="Kazakhstan">Kazakhstan</option><option value="Kenya">Kenya</option><option value="Kiribati">Kiribati</option><option value="Korea">Korea</option><option value="Kuwait">Kuwait</option><option value="Kyrgyzstan">Kyrgyzstan</option><option value="Lao People's Democratic Republic">Lao People's Democratic Republic</option><option value="Latvia">Latvia</option><option value="Lebanon">Lebanon</option><option value="Lesotho">Lesotho</option><option value="Liberia">Liberia</option><option value="Libyan Arab Jamahiriya">Libyan Arab Jamahiriya</option><option value="Liechtenstein">Liechtenstein</option><option value="Lithuania">Lithuania</option><option value="Luxembourg">Luxembourg</option><option value="Macao">Macao</option><option value="Macedonia">Macedonia</option><option value="Madagascar">Madagascar</option><option value="Malawi">Malawi</option><option value="Malaysia">Malaysia</option><option value="Maldives">Maldives</option><option value="Mali">Mali</option><option value="Malta">Malta</option><option value="Marshall Islands">Marshall Islands</option><option value="Martinique">Martinique</option><option value="Mauritania">Mauritania</option><option value="Mauritius">Mauritius</option><option value="Mayotte">Mayotte</option><option value="Mexico">Mexico</option><option value="Micronesia, Federated States Of">Micronesia Federated States Of</option><option value="Moldova">Moldova</option><option value="Monaco">Monaco</option><option value="Mongolia">Mongolia</option><option value="Montenegro">Montenegro</option><option value="Montserrat">Montserrat</option><option value="Morocco">Morocco</option><option value="Mozambique">Mozambique</option><option value="Myanmar">Myanmar</option><option value="Namibia">Namibia</option><option value="Nauru">Nauru</option><option value="Nepal">Nepal</option><option value="Netherlands">Netherlands</option><option value="Netherlands Antilles">Netherlands Antilles</option><option value="New Caledonia">New Caledonia</option><option value="New Zealand">New Zealand</option><option value="Nicaragua">Nicaragua</option><option value="Niger">Niger</option><option value="Nigeria">Nigeria</option><option value="Niue">Niue</option><option value="Norfolk Island">Norfolk Island</option><option value="Northern Mariana Islands">Northern Mariana Islands</option><option value="Norway">Norway</option><option value="Oman">Oman</option><option value="Pakistan">Pakistan</option><option value="Palau">Palau</option><option value="Palestinian Territory, Occupied">Palestinian Territory Occupied</option><option value="Panama">Panama</option><option value="Papua New Guinea">Papua New Guinea</option><option value="Paraguay">Paraguay</option><option value="Peru">Peru</option><option value="Philippines">Philippines</option><option value="Pitcairn">Pitcairn</option><option value="Poland">Poland</option><option value="Portugal">Portugal</option><option value="Puerto Rico">Puerto Rico</option><option value="Qatar">Qatar</option><option value="Reunion">Reunion</option><option value="Romania">Romania</option><option value="Russian Federation">Russian Federation</option><option value="Rwanda">Rwanda</option><option value="Saint Barthelemy">Saint Barthelemy</option><option value="Saint Helena">Saint Helena</option><option value="Saint Kitts And Nevis">Saint Kitts And Nevis</option><option value="Saint Lucia">Saint Lucia</option><option value="Saint Martin">Saint Martin</option><option value="Saint Pierre And Miquelon">Saint Pierre And Miquelon</option><option value="Saint Vincent And Grenadines">Saint Vincent And Grenadines</option><option value="Samoa">Samoa</option><option value="San Marino">San Marino</option><option value="Sao Tome And Principe">Sao Tome And Principe</option><option value="Saudi Arabia">Saudi Arabia</option><option value="Senegal">Senegal</option><option value="Serbia">Serbia</option><option value="Seychelles">Seychelles</option><option value="Sierra Leone">Sierra Leone</option><option value="Singapore">Singapore</option><option value="Slovakia">Slovakia</option><option value="Slovenia">Slovenia</option><option value="Solomon Islands">Solomon Islands</option><option value="Somalia">Somalia</option><option value="South Africa">South Africa</option><option value="South Georgia And Sandwich Isl.">South Georgia And Sandwich Isl.</option><option value="Spain">Spain</option><option value="Sri Lanka">Sri Lanka</option><option value="Sudan">Sudan</option><option value="Suriname">Suriname</option><option value="Svalbard And Jan Mayen">Svalbard And Jan Mayen</option><option value="Swaziland">Swaziland</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Syrian Arab Republic">Syrian Arab Republic</option><option value="Taiwan">Taiwan</option><option value="Tajikistan">Tajikistan</option><option value="Tanzania">Tanzania</option><option value="Thailand">Thailand</option><option value="Timor-Leste">Timor-Leste</option><option value="Togo">Togo</option><option value="Tokelau">Tokelau</option><option value="Tonga">Tonga</option><option value="Trinidad And Tobago">Trinidad And Tobago</option><option value="Tunisia">Tunisia</option><option value="Turkey">Turkey</option><option value="Turkmenistan">Turkmenistan</option><option value="Turks And Caicos Islands">Turks And Caicos Islands</option><option value="Tuvalu">Tuvalu</option><option value="Uganda">Uganda</option><option value="Ukraine">Ukraine</option><option value="United Arab Emirates">United Arab Emirates</option><option value="United Kingdom">United Kingdom</option><option value="United States Outlying Islands">United States Outlying Islands</option><option value="Uruguay">Uruguay</option><option value="Uzbekistan">Uzbekistan</option><option value="Vanuatu">Vanuatu</option><option value="Venezuela">Venezuela</option><option value="Viet Nam">Viet Nam</option><option value="Virgin Islands, British">Virgin Islands British</option><option value="Virgin Islands, U.S.">Virgin Islands U.S.</option><option value="Wallis And Futuna">Wallis And Futuna</option><option value="Western Sahara">Western Sahara</option><option value="Yemen">Yemen</option><option value="Zambia">Zambia</option><option value="Zimbabwe">Zimbabwe</option></select>									</div>
+								</div>
+
+								<!-- HOME ADDRESS RADIO OPTION -->
+								<div class="form-group" id="home-business-option-1">
+									<div class="radio col-sm-6">
+										<input name="Donations[BillingAddressType]" id="home-1" value="Home" type="radio" checked="1"/>										<label for="home-1">
+											Home
+										</label>
+									</div>
+									<div class="radio col-sm-6">
+										<input name="Donations[BillingAddressType]" id="business-1" value="Business" type="radio"/>										<label for="business-1">
+											Business
+										</label>
+									</div>
+								</div>
+
+							</div>
+
+							<!-- PREFERRED MAILING ADDRESS CHECKBOX -->
+							<div class="form-group checkbox">
+								<input name="Donations[PreferredMailingAddress]" id="preferred-mailing" value="1" type="checkbox" checked="1" show-extra-fields="[data-preferred-mailing],false"/>								<label class="checkbox-inline" for="preferred-mailing">This is my preferred mailing address</label>
+							</div>
+							<div id="mailing-address-container" class="hidden-fields-display-box" data-preferred-mailing hidden>
+								<span class="main-label">Mailing Information</span>
+								<!-- MAILING STREET ADDRESS -->
+								<div class="form-group address-lines">
+									<label for="mailing-address-1">Address <span class="required-star">*</span></label>
+									<div class="col-sm-12">
+										<input name="Donors[PreferredAddress]" id="mailing-address-1" value="" type="text" placeholder="Address Line 1" data-validate="false" data-input-error="Mailing address is required."/>									</div>
+									<div class="col-sm-12">
+										<input name="Donors[PreferredAddress2]" id="Donors_PreferredAddress2" value="" type="text" placeholder="Address Line 2"/>									</div>
+								</div>
+
+								<!-- MAILING CITY STATE -->
+								<div class="form-group city-state">
+									<div class="col-sm-8">
+										<div class="row">
+											<div class="col-sm-12">
+												<label for="mailing-city">City <span class="required-star">*</span></label>
+												<input name="Donors[PreferredCity]" id="mailing-city" value="" type="text" placeholder="City" data-validate="false" data-input-error="City is required."/>											</div>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="row">
+											<div class="col-sm-12">
+												<label for="mailing-state">State <span class="required-star">*</span></label>
+												<select name="Donors[PreferredState]" id="mailing-state" type="text" placeholder="State" data-validate="false" data-input-error="State is required."><option value="" selected="selected">----</option><option value="AA">AA</option><option value="AE">AE</option><option value="AP">AP</option><option value="Alabama">AL</option><option value="Alaska">AK</option><option value="Arizona">AZ</option><option value="Arkansas">AR</option><option value="California">CA</option><option value="Colorado">CO</option><option value="Connecticut">CT</option><option value="Delaware">DE</option><option value="Florida">FL</option><option value="Georgia">GA</option><option value="Hawaii">HI</option><option value="Idaho">ID</option><option value="Illinois">IL</option><option value="Indiana">IN</option><option value="Iowa">IA</option><option value="Kansas">KS</option><option value="Kentucky">KY</option><option value="Louisiana">LA</option><option value="Maine">ME</option><option value="Maryland">MD</option><option value="Massachusetts">MA</option><option value="Michigan">MI</option><option value="Minnesota">MN</option><option value="Mississippi">MS</option><option value="Missouri">MO</option><option value="Montana">MT</option><option value="Nebraska">NE</option><option value="Nevada">NV</option><option value="New Hampshire">NH</option><option value="New Jersey">NJ</option><option value="New Mexico">NM</option><option value="New York">NY</option><option value="North Carolina">NC</option><option value="North Dakota">ND</option><option value="Ohio">OH</option><option value="Oklahoma">OK</option><option value="Oregon">OR</option><option value="Pennsylvania">PA</option><option value="Rhode Island">RI</option><option value="South Carolina">SC</option><option value="South Dakota">SD</option><option value="Tennessee">TN</option><option value="Texas">TX</option><option value="Utah">UT</option><option value="Vermont">VT</option><option value="Virginia">VA</option><option value="Washington">WA</option><option value="West Virginia">WV</option><option value="Wisconsin">WI</option><option value="Wyoming">WY</option><option value="Washington D.C.">DC</option></select>											</div>
+										</div>
+									</div>
+								</div>
+
+								<!-- MAILING ZIP -->
+								<div class="form-group">
+									<label for="mailing-zip">Zip or Postal Code <span class="required-star">*</span></label>
+									<div class="col-sm-6">
+										<input name="Donors[PreferredZip]" id="mailing-zip" value="" type="text" placeholder="Zip" data-validate="false" data-input-error="Zip is required."/>									</div>
+								</div>
+
+								<!-- MAILING COUNTRY -->
+								<div class="form-group">
+									<label for="mailing-country">Country <span class="required-star">*</span></label>
+									<div class="col-sm-12">
+										<select name="Donors[PreferredCountry]" id="mailing-country" type="text" data-validate="false" data-input-error="Country is required."><option value="United States">United States</option><option value="Afghanistan">Afghanistan</option><option value="Aland Islands">Aland Islands</option><option value="Albania">Albania</option><option value="Algeria">Algeria</option><option value="American Samoa">American Samoa</option><option value="Andorra">Andorra</option><option value="Angola">Angola</option><option value="Anguilla">Anguilla</option><option value="Antarctica">Antarctica</option><option value="Antigua And Barbuda">Antigua And Barbuda</option><option value="Argentina">Argentina</option><option value="Armenia">Armenia</option><option value="Aruba">Aruba</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Azerbaijan">Azerbaijan</option><option value="Bahamas">Bahamas</option><option value="Bahrain">Bahrain</option><option value="Bangladesh">Bangladesh</option><option value="Barbados">Barbados</option><option value="Belarus">Belarus</option><option value="Belgium">Belgium</option><option value="Belize">Belize</option><option value="Benin">Benin</option><option value="Bermuda">Bermuda</option><option value="Bhutan">Bhutan</option><option value="Bolivia">Bolivia</option><option value="Bosnia And Herzegovina">Bosnia And Herzegovina</option><option value="Botswana">Botswana</option><option value="Bouvet Island">Bouvet Island</option><option value="Brazil">Brazil</option><option value="British Indian Ocean Territory">British Indian Ocean Territory</option><option value="Brunei Darussalam">Brunei Darussalam</option><option value="Bulgaria">Bulgaria</option><option value="Burkina Faso">Burkina Faso</option><option value="Burundi">Burundi</option><option value="Cambodia">Cambodia</option><option value="Cameroon">Cameroon</option><option value="Canada">Canada</option><option value="Cape Verde">Cape Verde</option><option value="Cayman Islands">Cayman Islands</option><option value="Central African Republic">Central African Republic</option><option value="Chad">Chad</option><option value="Chile">Chile</option><option value="China">China</option><option value="Christmas Island">Christmas Island</option><option value="Cocos (Keeling) Islands">Cocos (Keeling) Islands</option><option value="Colombia">Colombia</option><option value="Comoros">Comoros</option><option value="Congo">Congo</option><option value="Congo, Democratic Republic">Congo Democratic Republic</option><option value="Cook Islands">Cook Islands</option><option value="Costa Rica">Costa Rica</option><option value="Cote D'Ivoire">Cote D'Ivoire</option><option value="Croatia">Croatia</option><option value="Cuba">Cuba</option><option value="Cyprus">Cyprus</option><option value="Czech Republic">Czech Republic</option><option value="Denmark">Denmark</option><option value="Djibouti">Djibouti</option><option value="Dominica">Dominica</option><option value="Dominican Republic">Dominican Republic</option><option value="Ecuador">Ecuador</option><option value="Egypt">Egypt</option><option value="El Salvador">El Salvador</option><option value="Equatorial Guinea">Equatorial Guinea</option><option value="Eritrea">Eritrea</option><option value="Estonia">Estonia</option><option value="Ethiopia">Ethiopia</option><option value="Falkland Islands (Malvinas)">Falkland Islands (Malvinas)</option><option value="Faroe Islands">Faroe Islands</option><option value="Fiji">Fiji</option><option value="Finland">Finland</option><option value="France">France</option><option value="French Guiana">French Guiana</option><option value="French Polynesia">French Polynesia</option><option value="French Southern Territories">French Southern Territories</option><option value="Gabon">Gabon</option><option value="Gambia">Gambia</option><option value="Georgia">Georgia</option><option value="Germany">Germany</option><option value="Ghana">Ghana</option><option value="Gibraltar">Gibraltar</option><option value="Greece">Greece</option><option value="Greenland">Greenland</option><option value="Grenada">Grenada</option><option value="Guadeloupe">Guadeloupe</option><option value="Guam">Guam</option><option value="Guatemala">Guatemala</option><option value="Guernsey">Guernsey</option><option value="Guinea">Guinea</option><option value="Guinea-Bissau">Guinea-Bissau</option><option value="Guyana">Guyana</option><option value="Haiti">Haiti</option><option value="Heard Island & Mcdonald Islands">Heard Island & Mcdonald Islands</option><option value="Holy See (Vatican City State)">Holy See (Vatican City State)</option><option value="Honduras">Honduras</option><option value="Hong Kong">Hong Kong</option><option value="Hungary">Hungary</option><option value="Iceland">Iceland</option><option value="India">India</option><option value="Indonesia">Indonesia</option><option value="Iran, Islamic Republic Of">Iran Islamic Republic Of</option><option value="Iraq">Iraq</option><option value="Ireland">Ireland</option><option value="Isle Of Man">Isle Of Man</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Jamaica">Jamaica</option><option value="Japan">Japan</option><option value="Jersey">Jersey</option><option value="Jordan">Jordan</option><option value="Kazakhstan">Kazakhstan</option><option value="Kenya">Kenya</option><option value="Kiribati">Kiribati</option><option value="Korea">Korea</option><option value="Kuwait">Kuwait</option><option value="Kyrgyzstan">Kyrgyzstan</option><option value="Lao People's Democratic Republic">Lao People's Democratic Republic</option><option value="Latvia">Latvia</option><option value="Lebanon">Lebanon</option><option value="Lesotho">Lesotho</option><option value="Liberia">Liberia</option><option value="Libyan Arab Jamahiriya">Libyan Arab Jamahiriya</option><option value="Liechtenstein">Liechtenstein</option><option value="Lithuania">Lithuania</option><option value="Luxembourg">Luxembourg</option><option value="Macao">Macao</option><option value="Macedonia">Macedonia</option><option value="Madagascar">Madagascar</option><option value="Malawi">Malawi</option><option value="Malaysia">Malaysia</option><option value="Maldives">Maldives</option><option value="Mali">Mali</option><option value="Malta">Malta</option><option value="Marshall Islands">Marshall Islands</option><option value="Martinique">Martinique</option><option value="Mauritania">Mauritania</option><option value="Mauritius">Mauritius</option><option value="Mayotte">Mayotte</option><option value="Mexico">Mexico</option><option value="Micronesia, Federated States Of">Micronesia Federated States Of</option><option value="Moldova">Moldova</option><option value="Monaco">Monaco</option><option value="Mongolia">Mongolia</option><option value="Montenegro">Montenegro</option><option value="Montserrat">Montserrat</option><option value="Morocco">Morocco</option><option value="Mozambique">Mozambique</option><option value="Myanmar">Myanmar</option><option value="Namibia">Namibia</option><option value="Nauru">Nauru</option><option value="Nepal">Nepal</option><option value="Netherlands">Netherlands</option><option value="Netherlands Antilles">Netherlands Antilles</option><option value="New Caledonia">New Caledonia</option><option value="New Zealand">New Zealand</option><option value="Nicaragua">Nicaragua</option><option value="Niger">Niger</option><option value="Nigeria">Nigeria</option><option value="Niue">Niue</option><option value="Norfolk Island">Norfolk Island</option><option value="Northern Mariana Islands">Northern Mariana Islands</option><option value="Norway">Norway</option><option value="Oman">Oman</option><option value="Pakistan">Pakistan</option><option value="Palau">Palau</option><option value="Palestinian Territory, Occupied">Palestinian Territory Occupied</option><option value="Panama">Panama</option><option value="Papua New Guinea">Papua New Guinea</option><option value="Paraguay">Paraguay</option><option value="Peru">Peru</option><option value="Philippines">Philippines</option><option value="Pitcairn">Pitcairn</option><option value="Poland">Poland</option><option value="Portugal">Portugal</option><option value="Puerto Rico">Puerto Rico</option><option value="Qatar">Qatar</option><option value="Reunion">Reunion</option><option value="Romania">Romania</option><option value="Russian Federation">Russian Federation</option><option value="Rwanda">Rwanda</option><option value="Saint Barthelemy">Saint Barthelemy</option><option value="Saint Helena">Saint Helena</option><option value="Saint Kitts And Nevis">Saint Kitts And Nevis</option><option value="Saint Lucia">Saint Lucia</option><option value="Saint Martin">Saint Martin</option><option value="Saint Pierre And Miquelon">Saint Pierre And Miquelon</option><option value="Saint Vincent And Grenadines">Saint Vincent And Grenadines</option><option value="Samoa">Samoa</option><option value="San Marino">San Marino</option><option value="Sao Tome And Principe">Sao Tome And Principe</option><option value="Saudi Arabia">Saudi Arabia</option><option value="Senegal">Senegal</option><option value="Serbia">Serbia</option><option value="Seychelles">Seychelles</option><option value="Sierra Leone">Sierra Leone</option><option value="Singapore">Singapore</option><option value="Slovakia">Slovakia</option><option value="Slovenia">Slovenia</option><option value="Solomon Islands">Solomon Islands</option><option value="Somalia">Somalia</option><option value="South Africa">South Africa</option><option value="South Georgia And Sandwich Isl.">South Georgia And Sandwich Isl.</option><option value="Spain">Spain</option><option value="Sri Lanka">Sri Lanka</option><option value="Sudan">Sudan</option><option value="Suriname">Suriname</option><option value="Svalbard And Jan Mayen">Svalbard And Jan Mayen</option><option value="Swaziland">Swaziland</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Syrian Arab Republic">Syrian Arab Republic</option><option value="Taiwan">Taiwan</option><option value="Tajikistan">Tajikistan</option><option value="Tanzania">Tanzania</option><option value="Thailand">Thailand</option><option value="Timor-Leste">Timor-Leste</option><option value="Togo">Togo</option><option value="Tokelau">Tokelau</option><option value="Tonga">Tonga</option><option value="Trinidad And Tobago">Trinidad And Tobago</option><option value="Tunisia">Tunisia</option><option value="Turkey">Turkey</option><option value="Turkmenistan">Turkmenistan</option><option value="Turks And Caicos Islands">Turks And Caicos Islands</option><option value="Tuvalu">Tuvalu</option><option value="Uganda">Uganda</option><option value="Ukraine">Ukraine</option><option value="United Arab Emirates">United Arab Emirates</option><option value="United Kingdom">United Kingdom</option><option value="United States Outlying Islands">United States Outlying Islands</option><option value="Uruguay">Uruguay</option><option value="Uzbekistan">Uzbekistan</option><option value="Vanuatu">Vanuatu</option><option value="Venezuela">Venezuela</option><option value="Viet Nam">Viet Nam</option><option value="Virgin Islands, British">Virgin Islands British</option><option value="Virgin Islands, U.S.">Virgin Islands U.S.</option><option value="Wallis And Futuna">Wallis And Futuna</option><option value="Western Sahara">Western Sahara</option><option value="Yemen">Yemen</option><option value="Zambia">Zambia</option><option value="Zimbabwe">Zimbabwe</option></select>									</div>
+								</div>
+
+								<!-- HOME ADDRESS RADIO OPTION -->
+								<div class="form-group" id="home-business-option-2">
+									<div class="radio col-sm-6">
+										<input name="Donors[PreferredAddressType]" id="home-2" value="Home" type="radio" checked="1"/>										<label for="home-2">
+											Home
+										</label>
+									</div>
+									<div class="radio col-sm-6">
+										<input name="Donors[PreferredAddressType]" id="business-2" value="Business" type="radio"/>										<label for="business-2">
+											Business
+										</label>
+									</div>
+								</div>
+
+							</div>
+
+							<!-- SUBMIT BUTTON -->
+							<div class="form-group button-progression-wrapper">
+								<div class="col-xs-12">
+									<button class="submit" data-form-submit>
+										<h3>Continue</h3>
+										<div class="cs-loader">
+											<div class="cs-loader-inner">
+												<label>	●</label>
+												<label>	●</label>
+												<label>	●</label>
+												<label>	●</label>
+												<label>	●</label>
+												<label>	●</label>
+											</div>
+										</div>
+									</button>
+                                    <div class="assistance-phone">Need help? <a href="tel: (800) 859-2243"> (800) 859-2243</a></div>
+								</div>
+							</div>
+
+							<div class="clearfix"></div>
+
+							<div class="back-link">
+								<a href="" data-form-regress>
+									<span class="fa fa-angle-left"></span> Back
+								</a>
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="form-step-5-receipt" class="slide-step" data-form-steps data-form-step-final>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+					<div class="form-slide-bg">
+						<div class="form-slide-header">
+							<h5></h5>
+							<h4>Please Review Your Gift</h4>
+						</div>
+						<div class="form-slide-steps">
+							<div class="form-slide-steps-progress-bar"></div>
+							<div class="step-progress complete step-1-progress" id="" data-step-indicator="0">
+								<span class="fa fa-check"></span>
+							</div>
+							<div class="step-progress complete step-2-progress" id="" data-step-indicator="1">
+								<span class="fa fa-check"></span>
+							</div>
+							<div class="step-progress complete step-3-progress" id="" data-step-indicator="2">
+								<span class="fa fa-check"></span>
+							</div>
+							<div class="step-progress current step-4-progress" id="" data-step-indicator="3">
+								<span class="fa fa-check"></span>
+							</div>
+						</div>
+
+						<div class="form-slide-content">
+							<div data-custom-error-target></div>
+							<div id="receipt-donation-donor-information-container" data-donor-info>
+								<a class="main-label" data-toggle="collapse" href="#donation-donor-information">
+									Donation/Donor Information
+									<div class="plus-minus">
+										<div class="vertical"></div>
+										<div class="horizontal"></div>
+									</div>
+								</a>
+								<ul id="donation-donor-information" class="collapse in"></ul>
+							</div>
+							<div id="receipt-gift-information-container" data-gift-info>
+								<a class="main-label collapsed" data-toggle="collapse" href="#gift-information">
+									Gift Information
+									<div class="plus-minus">
+										<div class="vertical"></div>
+										<div class="horizontal"></div>
+									</div>
+								</a>
+								<ul id="gift-information" class="collapse"></ul>
+							</div>
+							<div id="receipt-payment-information-container" data-payment-info>
+								<a class="main-label collapsed" data-toggle="collapse" href="#payment-information">
+									Payment Information
+									<div class="plus-minus">
+										<div class="vertical"></div>
+										<div class="horizontal"></div>
+									</div>
+								</a>
+								<ul id="payment-information" class="collapse"></ul>
+							</div>
+							<!-- SUBMIT BUTTON -->
+							<div class="form-group button-progression-wrapper">
+								<div class="col-xs-12">
+									<button class="submit" data-form-submit>
+										<h3>Complete My Gift</h3>
+										<div class="cs-loader">
+											<div class="cs-loader-inner">
+												<label>	●</label>
+												<label>	●</label>
+												<label>	●</label>
+												<label>	●</label>
+												<label>	●</label>
+												<label>	●</label>
+											</div>
+										</div>
+									</button>
+                                    <div class="assistance-phone">Need help? <a href="tel: (800) 859-2243"> (800) 859-2243</a></div>
+								</div>
+							</div>
+							<div class="clearfix"></div>
+							<div class="back-link">
+								<a href="" data-form-regress>
+									<span class="fa fa-angle-left"></span> Back
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="form-step-6-success" class="slide-step" data-form-steps>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+					<div class="form-slide-success-bubble">
+						<span class="fa fa-check"></span>
+					</div>
+					<div class="form-slide-bg">
+						<div class="form-slide-header">
+							<h5></h5>
+							<h4>
+								Thank you for your gift!
+								<span class="fa fa-close" data-form-reset-steps></span>
+							</h4>
+						</div>
+						<div class="form-slide-steps">
+							<div class="form-slide-steps-progress-bar"></div>
+						</div>
+						<div class="form-slide-content">
+
+							<div data-recurring-feature id="success-recurring-box">
+								<span class="fa fa-close"></span>
+								<p class="bold">
+									Make it meaningful. Make it manageable. Make it monthly.
+								</p>
+								<p class="small">
+									One of the easiest ways to make a big impact on the Muhlenberg experience is through a recurring gift.
+								</p>
+								<div class="form-group click-box-container required error-field" id="recurring-group">
+																			<div class="radio col-sm-4">
+											<input name="RecurringDonations[MakeRecurringFrequency]" id="0" value="2628288 seconds" checked="1" type="radio" hidden="1"/>											<label for="0" class="click-box">Monthly</label>
+										</div>
+																			<div class="radio col-sm-4">
+											<input name="RecurringDonations[MakeRecurringFrequency]" id="1" value="7884000 seconds" checked="1" type="radio" hidden="1"/>											<label for="1" class="click-box">Quarterly</label>
+										</div>
+																			<div class="radio col-sm-4">
+											<input name="RecurringDonations[MakeRecurringFrequency]" id="2" value="31536000 seconds" checked="1" type="radio" hidden="1"/>											<label for="2" class="click-box">Yearly</label>
+										</div>
+																		<div class="clearfix"></div>
+								</div>
+								<button data-make-recurring class="submit">
+									Make this a recurring gift
+								</button>
+								<div hidden data-form-errors class="alert alert-danger"></div>
+							</div>
+							<div hidden data-recurring-thankyou>
+								<p class="bold">Thank you for making your donation recurring!</p>
+								<p class="small">You're making a continuing impact on the future of Muhlenberg.</p>
+							</div>
+
+							<p class="bold">
+								You’ve made a difference!
+							</p>
+							<p class="small">
+								Your giving is a tangible manifestation of the many ways in which Muhlenberg College opens doors for our students. Your support of Muhlenberg is a sound investment that will pay dividends for many years. Thank you for your gift.
+							</p>
+							<input id="referral-input" type="text" readonly value="https://give.muhlenberg.edu/?r=fe89">
+							<div id="share-links">
+								<div class="share-caret"></div>
+								<h5>Share That You've Made a Gift</h5>
+								<a class="twitter-btn" data-twitter-text="I just gave to Muhlenberg College. Now it's your turn! ">
+									<span class="fa fa-twitter"></span>
+								</a>
+								<a class="facebook-btn" data-facebook-text="I just gave to Muhlenberg College. Now it's your turn! ">
+									<span class="fa fa-facebook"></span>
+								</a>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</form>
+                                    </div>
+                <!-- THIS HELPS TO SET IT AT THE BOTTOM OF ITS PARENT -->
+<div class="designation-slider-wrapper">
+	<div class="container">
+		<div class="row">
+			<!-- IF PARENT IS REMOVED, CHANGE OFFSET TO 1 -->
+			<div class="col-md-5 col-md-offset-7">
+				<div class="designation-slider">
+					<h2>Your Gift In Action</h2>
+					<div class="designation-slide-container" data-content-slider data-content-slider-anim="slide-horz">
+						<span class="fa fa-angle-left" data-control-prev></span>
+						<style>
+						    [data-slider-content-slide] p {white-space:pre-line;}
+						</style>
+						<div data-slider-content>
+															<div data-slider-content-slide class="slide current" data-desig="101">
+									<p>
+										<span class="title">The Muhlenberg Fund</span>
+										Every gift to The Muhlenberg Fund is critical in creating the Muhlenberg experience. The College is committed to helping students from any walk of life accomplish their potentials. 
+
+Your philanthropic support of The Muhlenberg Fund helps Muhlenberg open doors to another generation of students.										<br><a data-select-desig="101">Give to The Muhlenberg Fund</a>
+									</p>
+								</div>
+															<div data-slider-content-slide class="slide " data-desig="102">
+									<p>
+										<span class="title">Financial Aid</span>
+										More than 80 percent of Muhlenberg students receive some type of financial aid. The College’s goal is to help as many students as possible afford the Muhlenberg educational experience.
+
+Your philanthropic support of financial aid programs helps Muhlenberg open doors for another generation of students.										<br><a data-select-desig="102">Give to Financial Aid</a>
+									</p>
+								</div>
+															<div data-slider-content-slide class="slide " data-desig="103">
+									<p>
+										<span class="title">The Wescoe School</span>
+										Can you put a price on personal and professional growth? The Wescoe School understands the challenges and demands of adult learners. 
+
+Your philanthropic support of the Wescoe School helps Muhlenberg open doors for another generation of students.										<br><a data-select-desig="103">Give to The Wescoe School</a>
+									</p>
+								</div>
+															<div data-slider-content-slide class="slide " data-desig="100">
+									<p>
+										<span class="title">Other Designation(s)</span>
+										There are few textbook solutions to the real-world challenges our students will face after they leave Muhlenberg. The liberal arts education the College provides prepares students for a well-rounded life. 
+
+Your philanthropic support helps Muhlenberg open doors for another generation of students.										<br><a data-select-desig="100">Give to Other Designation(s)</a>
+									</p>
+								</div>
+													</div>
+						<span class="fa fa-angle-right" data-control-next></span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+            </div>
+        </div>
+    </div>
+    <div id="section-2">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-5 col-md-offset-7 col-lg-6 col-lg-offset-6">
+				<div class="scrolling-div">
+					<h3>Thank You To Our Donors</h3>
+					<ul data-marque class="marquee" data-duration="15000" data-gap="10"></ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+    <!-- New Landscape section -->
+<div id="section-3" class="red" >
+	<div class="gradient-overlay" data-background-image></div>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-10 col-sm-offset-1">
+									<h2>Your gift helps Muhlenberg College open doors for students. It provides a precious commodity: opportunity.</h2>
+																	<p><p>&nbsp;</p>
+<p>&nbsp;</p></p>
+											</div>
+		</div>
+	</div>
+</div>
+<script>
+	$(function() {
+		var background_image = 'assets/images/uploads/Spring2.JPG.jpg';
+		var current_gradient = $('[data-background-image]').css('background-image');
+		$('[data-background-image]').css('background-image', current_gradient + ", url(" + background_image + ")");
+	});
+</script>
+
+    <div id="section-4">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4 text-center">
+				<h2>
+					Why Give To Muhlenberg
+				</h2>
+				<p>
+					Perhaps Muhlenberg's greatest legacy is our ability to bring out the absolute best in our students. Read why, in their own words.
+				</p>
+				<a data-scroll-to="form" data-scroll-to-dur="500" href=""><h3>Make a Gift</h3></a>
+			</div>
+			<div class="col-md-8" data-content-slider data-content-slider-anim="slide-horz">
+				<div class="quote-slide-container">
+				<span class="fa fa-angle-left" data-control-prev></span>
+				<div data-slider-content="" style="min-height: 303px; position: relative;">
+											<div data-slider-content-slide class="slide">
+							<div class="quote-image" style="background-image:url(assets/images/uploads/testimonials/Chemistry_Immersion-90_COMPR.jpg.jpg); background-size:cover; background-position:center center;"></div>
+							<div class="quote">
+								<img src="../../../../assets/images/openquote.png" width="39" alt="">
+								Discipline and the commitment to study and time management is something Muhlenberg instills in its students...Muhlenberg prepared me for the perseverance that is necessary in the attainment of a career in medicine.								<div class="quote-attribute">Dr. Trina Poretta '92</div>
+							</div>
+						</div>
+											<div data-slider-content-slide class="slide">
+							<div class="quote-image" style="background-image:url(assets/images/uploads/testimonials/Innovation_Challenge-13_COMP.jpg.jpg); background-size:cover; background-position:center center;"></div>
+							<div class="quote">
+								<img src="../../../../assets/images/openquote.png" width="39" alt="">
+								Coming to a school like Muhlenberg, I knew I would be able to take on more of a leadership role immediately...Muhlenberg helped make me more innovative.								<div class="quote-attribute">Jake Gordon '18</div>
+							</div>
+						</div>
+											<div data-slider-content-slide class="slide">
+							<div class="quote-image" style="background-image:url(assets/images/uploads/testimonials/Campus-33_COMPR.jpg.jpg); background-size:cover; background-position:center center;"></div>
+							<div class="quote">
+								<img src="../../../../assets/images/openquote.png" width="39" alt="">
+								Muhlenberg has encouraged me to press on, move forward and dream big.								<div class="quote-attribute">Peninah Ingabire '19</div>
+							</div>
+						</div>
+											<div data-slider-content-slide class="slide">
+							<div class="quote-image" style="background-image:url(assets/images/uploads/testimonials/2016_Fall-3_COMPR.jpg.jpg); background-size:cover; background-position:center center;"></div>
+							<div class="quote">
+								<img src="../../../../assets/images/openquote.png" width="39" alt="">
+								Being the recipient of a named scholarship at Muhlenberg...I knew I wanted to give back.								<div class="quote-attribute">Heather C. Lenz Adams '07</div>
+							</div>
+						</div>
+									</div>
+				<span class="fa fa-angle-right" data-control-next></span>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~ MUHLENBERG FOOTER
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<footer>
+    <div class="container">
+      <div class="footer-logo">
+        <a href="http://muhlenberg.edu"><img src="/assets/images/footer-logo.png" alt="Muhlenberg College"></a>
+      </div>
+
+      <div class="footer-contact">
+        <p>2400 Chew St., Allentown, PA 18104-5586 | 484-664-3100<br/>
+          &copy; Muhlenberg College <script type="text/javascript">var d = new Date();
+           document.write( d.getFullYear());</script><br>
+          <a href="http://www.muhlenberg.edu/" target="_blank">http://www.muhlenberg.edu/</a>
+        </p>
+      </div>
+    </div>
+  </footer>
+
+
+<div class="overlay" data-form-overlay hidden></div>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://cdn.jsdelivr.net/jquery.marquee/1.4.0/jquery.marquee.min.js" type="text/javascript"></script>
+<script src="/assets/js/site.js"></script>
+<script src="/assets/js/plugins/content-sliders.js"></script>
+<script type="text/javascript" src="https://js.authorize.net/v1/Accept.js" charset="utf-8"></script>
+<script>
+// Globally scoped in order to control the slider from the form.
+var designation_slider;
+$(window).load(function() {
+    designation_slider = new ContentSliders({
+        slider : $('.designation-slide-container[data-content-slider]'),
+        fixed_height : true,
+        prevent_reset : false,
+    });
+    var testimonial_slider = new ContentSliders({
+        slider : $('#section-4 [data-content-slider]'),
+        prevent_reset : false,
+    });
+});
+</script>
+<script src="/assets/js/form.js"></script>
+<script src="/assets/js/plugins/form-validation.js"></script>
+		<script type="text/javascript" src="/assets/js/kdg-ui.js" ></script>
+<script type="text/javascript" src="/assets/js/bootstrap/bootstrap.min.js" ></script>
+<script type="text/javascript" src="/assets/js/sharing.js" ></script>
+<script>
+		var App={
+			BaseURL:""
+		};
+	</script>
+		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+	</body>
+</html>

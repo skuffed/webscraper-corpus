@@ -1,0 +1,1189 @@
+URL: www.muhlenberg.edu/admissions/types-of-visits/
+Relative links: 86
+Absolute links: 11
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>Explore Your Visit Options | Muhlenberg College</title>
+	
+  
+  
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+
+  
+  <!-- G+ & Facebook -->
+	<meta property="og:title" content="Explore Your Visit Options">
+  
+	<meta property="og:type" content="website">
+	
+  <meta property="og:image" content="https://www.muhlenberg.edu/media/contentassets/images/pageheaders/students-hammock-1220x523.jpg" />
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:card" content="summary_large_image" />
+  
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	
+  
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+  
+</head>
+
+<body class="preload fs-grid page_layout_default  page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper">
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Contact</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/admissions/">Admissions</a></li><li class="linkitem"><a href="/admissions/types-of-visits/">Explore Your Visit Options</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Explore Your Visit Options</h1>
+							<p class="page_intro">Don't just visit: connect with our amazing community. There are a number of options.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<!-- Page Header -->
+		<div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/contentassets/images/pageheaders/students-hammock-1220x523.jpg","500px":"/media/contentassets/images/pageheaders/students-hammock-740x555.jpg","740px":"/media/contentassets/images/pageheaders/students-hammock-980x420.jpg","980px":"/media/contentassets/images/pageheaders/students-hammock-1220x523.jpg","1220px":"/media/contentassets/images/pageheaders/students-hammock-1440x617.jpg"}}'></div>
+			<div class="page_header_inner gradient_5">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/admissions/">Admissions</a></li><li class="linkitem"><a href="/admissions/types-of-visits/">Explore Your Visit Options</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">Explore Your Visit Options</h1>
+							<p class="page_intro">Don't just visit: connect with our amazing community. There are a number of options.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END: Page Header -->
+		<!-- Page Content -->
+		<div class="page_content">
+			<div class="page_content_inner clearfix js-equalize" data-equalize-options='{"target": ".equalize_child", "minWidth": "980px"}'>
+				<!-- Sub Nav -->
+				<div class="page_aside">
+					<nav class="sub_nav" aria-label="Who We Are" itemscope itemtype="http://schema.org/SiteNavigationElement">
+						<button class="js-swap js-sub-nav-handle sub_nav_handle" data-swap-options='{"maxWidth": "980px"}' data-swap-target=".sub_nav_list" data-swap-title="Explore Your Visit Options">
+							<span class="sub_nav_handle_label">Explore Your Visit Options</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_open"><svg class="icon icon_caret_down">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+								</svg>
+							</span>
+							<span class="sub_nav_handle_icon sub_nav_handle_icon_close"><svg class="icon icon_close">
+									<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+								</svg>
+							</span>
+						</button>
+            <div class="sub_nav_inner">
+              
+              <div class="sub_nav_inner_inner equalize_child">
+                
+						    <ul class="js-sub-nav-list sub_nav_list"><li class="sub_nav_item"><a href="https://webapps.muhlenberg.edu:442/Calendar/default.aspx?type=&view=Grid&category=37-0&range=currentmonth">Admissions Calendar</a></li><li class="sub_nav_item"><a href="/transfer/">Apply as a Transfer</a></li><li class="sub_nav_item"><a href="/admissions/applyingasaninternationalstudent/">Apply as an International Student</a></li><li class="sub_nav_item"><a href="/admissions/applyingearlydecision/">Apply Early Decision</a></li><li class="sub_nav_item"><a href="/admissions/areainterviews/">Area Interviews</a></li><li class="sub_nav_item"><a href="/admissions/campusdayvisitprogram/">Campus Visit Program</a></li><li class="sub_nav_item"><a href="/admissions/common-questions/">Common Questions</a></li><li class="sub_nav_item"><a href="/main/wescoe/">Continuing Education Admissions</a></li><li class="sub_nav_item"><a href="/admissions/costsandopportunities/">Costs &amp; Opportunities</a></li><li class="sub_nav_item"><a href="/earlydecision/">Early Decision Checklist</a></li><li class="sub_nav_item"><span class="currentbranch0"><a href="/admissions/types-of-visits/">Explore Your Visit Options</a></span></li><li class="sub_nav_item"><a href="/financialaid/">Financial Aid</a></li><li class="sub_nav_item"><a href="/apply/">How we review applications</a></li><li class="sub_nav_item"><a href="/incoming/">Incoming Students</a></li><li class="sub_nav_item"><a href="/admissions/admissions-counselor/">Meet Your Counselor</a></li><li class="sub_nav_item"><a href="/regulardecision/">Regular Decision Checklist</a></li><li class="sub_nav_item"><a href="/inquire/">Request Information</a></li><li class="sub_nav_item"><a href="/admissions/success-after-muhlenberg/">Success After Muhlenberg</a></li><li class="sub_nav_item"><a href="/talentgrants/">Talent Grants</a></li><li class="sub_nav_item"><a href="/admissions/therealdealonfinancialaid/">The Real Deal on Financial Aid</a></li><li class="sub_nav_item"><a href="/admissions/transferchecklist/">Transfer Checklist</a></li></ul>
+                
+                
+              </div>
+            </div>
+					</nav>
+				</div>
+				<!-- END: Sub Nav -->
+				<main class="page_main_content equalize_child" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                 <li class="linkitem"><a href="/">Home</a></li>
+								           <li class="linkitem"><a href="/admissions/">Admissions</a></li><li class="linkitem"><a href="/admissions/types-of-visits/">Explore Your Visit Options</a>        </li>
+                 
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+		<!-- Topic Block -->
+		    <div class="fs-row">
+			    <div class="fs-cell fs-lg-8">
+				    <div class="topic_block">
+					    <div class="topics"><article class="topic">
+											<div class="topic_inner">
+												<div class="topic_media">
+													<figure class="topic_figure">
+														<img class="topic_image" src="/media/contentassets/images/topicrow/EuniceUmubyeyi_Tour-740x555.jpg" alt="Image for Take a Tour" data-caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non facilisis nunc, vitae efficitur magna.">
+													</figure>
+												</div>
+												<div class="topic_wrapper">
+													<header class="topic_header">
+														<h3 class="topic_title">Take a Tour</h3>
+													</header>
+													<div class="topic_body">
+														<div class="topic_description">
+															<p>Our students lead campus tours all year round. We look forward to welcoming you to campus!</p>
+														</div>
+													</div>
+													<footer class="topic_links">
+														<a class="topic_link" href="https://admissions.muhlenberg.edu/portal/MuhlenbergVisits">
+															<span class="topic_link_label">schedule a tour</span>
+															<span class="topic_link_icon" aria-hidden="true">
+																<svg class="icon icon_caret_right">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+																</svg>
+															</span>
+														</a>
+                                                      <!--
+                                                        
+                                                      -->
+													</footer>
+												</div>
+											</div>
+										</article><article class="topic">
+											<div class="topic_inner">
+												<div class="topic_media">
+													<figure class="topic_figure">
+														<img class="topic_image" src="/media/contentassets/images/topicrow/infosession_ellenHerschel-740x555.jpg" alt="Image for Join an Info Session" data-caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non facilisis nunc, vitae efficitur magna.">
+													</figure>
+												</div>
+												<div class="topic_wrapper">
+													<header class="topic_header">
+														<h3 class="topic_title">Join an Info Session</h3>
+													</header>
+													<div class="topic_body">
+														<div class="topic_description">
+															<p>While you&rsquo;re here for a tour, check out our group sessions. These offer an introduction to Muhlenberg and our admissions process by a member of the admission staff. You can get questions answered and meet other prospective students. It's a great way to take a first look before you interview.</p>
+														</div>
+													</div>
+													<footer class="topic_links">
+														<a class="topic_link" href="https://admissions.muhlenberg.edu/portal/MuhlenbergVisits">
+															<span class="topic_link_label">schedule a session</span>
+															<span class="topic_link_icon" aria-hidden="true">
+																<svg class="icon icon_caret_right">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+																</svg>
+															</span>
+														</a>
+                                                      <!--
+                                                        
+                                                      -->
+													</footer>
+												</div>
+											</div>
+										</article>						</div>
+                    </div>
+                </div>
+             </div><!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+<div class="typography">
+<div class="fs-row">
+<div class="fs-cell fs-lg-8">
+
+
+  <hr>
+<figure class="block_left">
+<img class="_image" src="/media/contentassets/images/admissions/counselors/melissafalk-students.jpg" alt="Melissa Falk meeting with students in Wood Dining Commons" data-caption="display: Melissa Falk with Students;">
+</figure>
+
+<h3>Meet with an admissions counselor</h3>
+<p>We highly recommend that students schedule a personal interview with a member of our admission staff. These meetings give us a chance to better understand your talents and plans. We require a personal interview for transfer applicants and for candidates for our <a href="/academicpartnerships/">academic partnerships</a>, including&nbsp;the&nbsp;<span></span><a href="/admissions/optometry/">SUNY College of Optometry Program</a>&nbsp;and the&nbsp;<span><a href="/admissions/dentistry/">3-4 U Penn Bio Dental Program</a></span>.<span></span></p>
+<ul>
+<li>
+<p><em>Interviewing on campus</em>: You'll talk with an admissions counselor for 30-45 minutes. Juniors can interview beginning in the middle of March of their junior year. Seniors can interview through February 1 of their senior year. To schedule an interview, please&nbsp;<a href="https://admissions.muhlenberg.edu/portal/MuhlenbergVisits" target="_blank">click here</a><span>&nbsp;</span>or call 484-664-3200.</p>
+</li>
+<li>
+<p><em>Interviewing off campus</em>: For students who canât come to campus, we hold interviews over Skype, over the phone, and in cities nationwide, among them Boston, Chicago, Los Angeles, San Diego, San Francisco, Seattle and in the New York and Washington, D.C., areas. See our<span>&nbsp;</span><a href="/admissions/areainterviews/">schedule for regional interviews</a>.</p>
+</li>
+</ul>
+<hr></div>
+
+</div>
+</div>
+		<!-- Topic Block -->
+		    <div class="fs-row">
+			    <div class="fs-cell fs-lg-8">
+				    <div class="topic_block">
+					    <div class="topics"><article class="topic">
+											<div class="topic_inner">
+												<div class="topic_media">
+													<figure class="topic_figure">
+														<img class="topic_image" src="/media/contentassets/images/topicrow/JoeElliott-7126-740x555.jpg" alt="Image for Dive into a Day Visit" data-caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non facilisis nunc, vitae efficitur magna.">
+													</figure>
+												</div>
+												<div class="topic_wrapper">
+													<header class="topic_header">
+														<h3 class="topic_title">Dive into a Day Visit</h3>
+													</header>
+													<div class="topic_body">
+														<div class="topic_description">
+															<p>On a day visit, you'll attend a class (or two) and have lunch with a student host. It&rsquo;s a great way to see what we mean when we say that Muhlenberg is a passionate learning community. Day visits are scheduled for high school seniors and juniors at least two weeks in advance and are subject to host availability. </p>
+														</div>
+													</div>
+													<footer class="topic_links">
+														<a class="topic_link" href="/admissions/campusdayvisitprogram/">
+															<span class="topic_link_label">campus visit program</span>
+															<span class="topic_link_icon" aria-hidden="true">
+																<svg class="icon icon_caret_right">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+																</svg>
+															</span>
+														</a>
+                                                      <!--
+                                                        
+                                                      -->
+													</footer>
+												</div>
+											</div>
+										</article><article class="topic">
+											<div class="topic_inner">
+												<div class="topic_media">
+													<figure class="topic_figure">
+														<img class="topic_image" src="/media/contentassets/images/topicrow/Spring_Campus_Haas_Victor-740x555.jpg" alt="Image for Directions" data-caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non facilisis nunc, vitae efficitur magna.">
+													</figure>
+												</div>
+												<div class="topic_wrapper">
+													<header class="topic_header">
+														<h3 class="topic_title">Directions</h3>
+													</header>
+													<div class="topic_body">
+														<div class="topic_description">
+															<p>We are conveniently located less than 90 miles west of New York City and 50 miles north of Philadelphia, in the beautiful and vibrant Lehigh Valley.</p>
+														</div>
+													</div>
+													<footer class="topic_links">
+														<a class="topic_link" href="/directions/">
+															<span class="topic_link_label">find us</span>
+															<span class="topic_link_icon" aria-hidden="true">
+																<svg class="icon icon_caret_right">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+																</svg>
+															</span>
+														</a>
+                                                      <!--
+                                                        
+                                                      -->
+													</footer>
+												</div>
+											</div>
+										</article>						</div>
+                    </div>
+                </div>
+             </div>					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>
+			<!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+				<!-- Contact -->
+				<div class="contact_block">
+					<div class="contact_block_inner">
+						<div class="fs-row">
+							<div class="fs-cell">
+								<div class="contact_block_wrapper">
+									<div class="contact" itemscope itemtype="https://schema.org/Person">
+										<div class="contact_wrapper">
+											<div class="contact_header">
+												<div class="contact_types">
+													<span class="contact_heading_label">CONTACT INFORMATION</span>
+													<h2 class="contact_name" itemprop="name">
+														<span class="contact_name_label">Office of Admissions</span>
+													</h2>
+													
+												</div>
+												<div class="contact_types_header">
+													<a class="contact_type contact_type_link contact_type_email" href="mailto:admissions@muhlenberg.edu">
+														<span class="contact_type_label">
+															<span class="contact_type_label_icon"><svg class="icon icon_email">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+																</svg>
+															</span>
+															<span class="contact_type_label_text">Email</span>
+														</span>
+														<span class="contact_type_description" itemprop="email">admissions@muhlenberg.edu</span>
+													</a>
+													<a class="contact_type contact_type_link contact_type_phone" href="tel:484-664-3200">
+														<span class="contact_type_label">
+															<span class="contact_type_label_icon"><svg class="icon icon_phone">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+																</svg>
+															</span>
+															<span class="contact_type_label_text">Telephone</span>
+														</span>
+														<span class="contact_type_description" itemprop="telephone">484-664-3200</span>
+													</a>
+												</div>
+											</div>
+											<div class="contact_body">
+												<div class="contact_types">
+													<div class="contact_type contact_type_address">
+														<span class="contact_type_label">
+															<span class="contact_type_label_text">Address</span>
+														</span>
+														<span class="contact_type_address_label"><strong>Muhlenberg College</strong></span>
+														<span class="contact_type_address_label">Office of Admissions</span>
+														
+														<span class="contact_type_address_label" itemprop="address">2400 Chew Street</span>
+														<span class="contact_type_address_label" itemprop="address">Allentown, PA 18104</span>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- END: Contact -->	
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							<a class="t4Edit-page" href="https://t4.muhlenberg.edu/terminalfour/page/directEdit#edit/11/en/71822">&copy;</a>
+													</span>
+						<span class="footer_credit_label">2019 Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keywordâ¦">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							<li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/leadership/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Leadership &amp; Administration</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College Offices</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+                                                                                                                                  
+                                                                                                                                   
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							<li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/admissions-counselor/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Meet Your Counselor</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingearlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early and Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/main/wescoe/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Continuing Education Students</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/incoming/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Accepted Students</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+                                                                                                                                  
+                                                                                                                                   
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							<li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/main/wescoe/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Continuing Education Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/centers/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Centers and Institutes</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/newsevents/calendar/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Calendar</span>
+</a>
+</li>                                                                                                                                  
+                                                                                                                                   
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							<li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+                                                                                                                                  
+                                                                                                                                   
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							<li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+                                                                                                                                  
+                                                                                                                                   
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Contact</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							
+                          
+                            <a class='utility_nav_link' target='_blank' href='https://www.muhlenbergconnect.com/s/1570/start.aspx?gid=2&amp;pgid=61'>
+								<span class='utility_nav_link_label'>Alumni</span>
+							</a>
+                          
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://webapps.muhlenberg.edu:442/Calendar '>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+</body>
+
+</html>

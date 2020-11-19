@@ -1,0 +1,1648 @@
+URL: www.muhlenberg.edu/news/
+Relative links: 70
+Absolute links: 8
+<!DOCTYPE html>
+<html class="no-js" lang="en" itemscope="" itemtype="http://schema.org/WebPage">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	<title>News &amp; Events | Muhlenberg College</title>
+	<meta name="description" content="">
+	<link rel="apple-touch-icon" sizes="180x180" href="/media/muhlenbergedu/siteassets/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/media/muhlenbergedu/siteassets/images/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/media/muhlenbergedu/siteassets/images/favicons/site.webmanifest">
+	<link rel="mask-icon" href="/media/muhlenbergedu/siteassets/images/favicons/safari-pinned-tab.svg" color="#A41E34">
+	<link rel="shortcut icon" href="/media/muhlenbergedu/siteassets/images/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#A41E34">
+	<meta name="msapplication-TileImage" content="/media/muhlenbergedu/siteassets/images/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="/media/muhlenbergedu/siteassets/images/favicons/browserconfig.xml">
+  
+  
+	<!-- G+ & Facebook -->
+	<meta property="og:title" content="News &amp; Events">
+	<meta property="og:type" content="website">
+	
+	<meta property="og:image:width" content="1220">
+	<meta property="og:image:height" content="686">
+	
+	<meta property="og:site_name" content="Muhlenberg College">
+  <meta name="twitter:site" content="@Muhlenberg">
+  <meta name="twitter:creator" content="@Muhlenberg">
+  <meta property="fb:app_id" content="146198561999">
+	<script src="//code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/media/muhlenbergedu/siteassets/css/site.css">
+	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400,700|Merriweather:300,700" rel="stylesheet">
+  <!--Analytics-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDV75R');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 702417457 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-702417457"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-702417457');
+</script>
+  
+</head>
+
+<body class="preload fs-grid page_layout_full  break-break-break-break-break-break-break-break-page_theme_header_slim">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDV75R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	<!-- Skip-to-Content Link -->
+	<a class="skip_link" id="skip_to_content" href="#page_main_content">Skip to Main Content</a>
+	<!-- Page Wrapper -->
+	<div class="page_wrapper" id="pageWrapper" >
+		        <!-- Header -->
+		<header class="header" id="header" itemscope itemtype="http://schema.org/WPHeader" role="banner">
+          <!-- OMNILERT WIDGET -->
+        <!-- START *PROD* OMNILERT WIDGET CODE 
+
+-->
+<style>
+.SmartBoard_Table {
+/*max-width:1100px; */
+}
+.SmartBoard_Subject {
+  padding-top:16px;
+  font-weight:bold;
+   padding-left:15px;
+text-transform:uppercase;
+  font-size:1.0em;
+/*visibility:hidden;*/
+}
+.SmartBoard_DateTime::before {
+  content:  "  .......  [Updated:  ";
+/*font-weight:bold; */
+
+}
+  .SmartBoard_DateTime::after {
+    content:  "]";
+/*font-weight:bold;*/
+
+}
+.SmartBoard_DateTime {
+/*visibility:hidden; */
+float:right;
+  padding-top:16px;
+}
+#pageWrapper{ 
+/*padding-top:150px; */
+}
+
+.SmartBoard_Message {
+  text-align:justify;
+  padding-top:16px;
+  padding-left:15px;
+  line-height:20px;
+  font-size:1.0em;
+  
+text-align:justified;
+}
+</style>
+
+<div id="message" class="one-col mosaic-page col-xs-12" style='padding-bottom:10px;margin-left:0px;border:  thin solid black;background-color:#FFFD00;color:black;visibility:hidden'>
+<script type="text/javascript" src="https://widgets.omnilert.net/75f20adeb2eb2dccad310013495c6596-541"></script>
+  
+<p style='text-align:right;padding-right:15px'>
+<input type='button' style='font-size:0.8em;color:#C42830' value='Read More'  onclick='javascript:location.href="https://docs.google.com/document/d/1Vktq_pjbtAzQbu274ELN3-E5jROaqWqQX4ya1uXyP0s/edit?usp=sharing";'>
+</p>
+  
+</div>
+<script type="text/javascript">
+//document.getElementsByClassName('SmartBoard_Message')[0] ="test";
+if ( document.getElementsByClassName('SmartBoard_Message')[0] == undefined) {
+    document.getElementById('message').style.height="0px";
+   // document.getElementById('message').style.visibility="hidden";
+}
+
+if ( document.getElementsByClassName('SmartBoard_Message')[0] != undefined) {
+    //document.getElementById('message').style.height="0px";
+    document.getElementById('message').style.visibility="visible";
+    var padTop=$('#message').height() + "px";
+    document.getElementById('pageWrapper').style.paddingTop= padTop;
+
+}
+</script>
+<!-- END OMNILERT WIDGET CODE -->
+   
+          
+          
+			<div class="header_ribbon">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="header_ribbon_inner">
+							<div class="logo logo_header" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<span class="logo_link_icon"><svg class="icon icon_logo">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+										</svg>
+									</span>
+								</a>
+							</div>
+							<div class="header_group">
+								<nav class="secondary_nav secondary_nav_lg">
+									<ul class="secondary_nav_list">
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_map">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Visit</span>
+											</a>
+                                          <!--
+                                            
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link pencil" href="/admissions/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Apply</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											<a class="secondary_nav_link email" href="/inquire/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_email">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Contact</span>
+											</a>
+                                          <!--
+                                          
+                                          -->
+										</li>
+										<li class="secondary_nav_item">
+											
+                                          
+                                           <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+												<span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+														<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+													</svg>
+												</span>
+												<span class="secondary_nav_link_label">Give</span>
+											</a>
+                                          
+										</li>
+									</ul>
+								</nav>
+								<a class="js-swap js-menu-handle menu_handle menu_handle_primary" href="#menu" data-swap-target=".menu" data-swap-linked="menu">
+									<span class="menu_handle_icon menu_handle_icon_primary" aria-hidden="true"><svg class="icon icon_menu_alt">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#menu_alt"></use>
+										</svg>
+									</span>
+									<span class="menu_handle_label menu_handle_label_primary">Menu</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- END: Header -->
+		<!-- Page -->
+    <!--
+    <div class="page_header">
+			<div class="js-background page_header_background" "" data-background-options='{"source":{"0px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","500px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","740px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","980px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg","1220px":"/media/muhlenbergedu/contentassets/buildimages/fullwidth/redbackground.jpg"}}'></div>
+			<div class="page_header_inner ">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-8">
+                      <div class="breadcrumb_mobile" aria-hidden="true">
+						<div class="fs-row">
+						  <div class="fs-cell fs-lg-8">
+						    <nav aria-label="Breadcrumb" class="breadcrumb_nav">
+                              <ul class="breadcrumb">
+                                <li class="linkitem"><a href="/">Home</a></li>
+							            <li class="linkitem"><a href="/news/">News &amp; Events</a>        </li>
+                              </ul>
+                            </nav>
+                          </div>
+                        </div>
+                      </div>
+						<div class="page_header_content">
+							<h1 class="page_title">News &amp; Events</h1>
+							<p class="page_intro"></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+    -->
+		<div class="news_feature">
+			<div class="news_feature_body">
+				<div class="js-carousel news_feature_items row_pagination news_features_pagination" itemscope itemtype="http://schema.org/ImageGallery" data-carousel-options='{
+			"contained": false
+		}'><div class="news_feature_item news_feature_item_no_caption news_feature_item_image">
+						<figure class="news_feature_item_figure" role="group" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+							<span class="news_feature_item_media">
+								<picture class="news_feature_item_picture">
+									<source media="(min-width: 1200px)" srcset="/media/contentassets/images/newscenter/wescoe/LVHN_AdaRiveraNathanBoateng-feature1.jpg">
+									<source media="(min-width: 500px)" srcset="/media/contentassets/images/newscenter/wescoe/LVHN_AdaRiveraNathanBoateng-feature2.jpg">
+									<source media="(min-width: 0px)" srcset="/media/contentassets/images/newscenter/wescoe/LVHN_AdaRiveraNathanBoateng-feature1.jpg">
+									<img class="news_feature_item_image" src="/media/contentassets/images/newscenter/wescoe/LVHN_AdaRiveraNathanBoateng-feature1.jpg" alt="Image for Moving Healthcare Forward">
+								</picture>
+							</span>
+							<div class="js-hover-caption news_feature_wrapper">
+								<div class="news_feature_header hover_header">
+									<div class="news_feature_label">Continuing Education</div>
+									<h3 class="news_feature_title">Moving Healthcare Forward</h3>
+									<div class="news_feature_date">October 15, 2019</div>
+									<div class="news_feature_description hover_description">
+										<p class="hover_caption">Ada Rivera &rsquo;09 and Nate Boateng &rsquo;14 are transforming how teams operate at Lehigh Valley Health Network.</p>
+										
+                                      
+                                        <a class="news_feature_link" target="_blank" href="/news/2019/movinghealthcareforward.html">
+											<span class="news_feature_link_label">Read Their Story</span>
+											<span class="news_feature_link_icon" aria-hidden="true">
+												<svg class="icon icon_caret_right">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+												</svg>
+											</span>
+										</a>
+                                      
+									</div>
+								</div>
+							</div>
+						</figure>
+					</div><div class="news_feature_item news_feature_item_no_caption news_feature_item_image">
+						<figure class="news_feature_item_figure" role="group" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+							<span class="news_feature_item_media">
+								<picture class="news_feature_item_picture">
+									<source media="(min-width: 1200px)" srcset="/media/contentassets/images/newscenter/landingpageslider/GabrielleNeuman-featured1.jpg">
+									<source media="(min-width: 500px)" srcset="/media/contentassets/images/newscenter/landingpageslider/GabrielleNeuman-featured2.jpg">
+									<source media="(min-width: 0px)" srcset="/media/contentassets/images/newscenter/landingpageslider/GabrielleNeuman-featured1.jpg">
+									<img class="news_feature_item_image" src="/media/contentassets/images/newscenter/landingpageslider/GabrielleNeuman-featured1.jpg" alt="Image for Leveraging Her Position">
+								</picture>
+							</span>
+							<div class="js-hover-caption news_feature_wrapper">
+								<div class="news_feature_header hover_header">
+									<div class="news_feature_label">Powerful Outcomes</div>
+									<h3 class="news_feature_title">Leveraging Her Position</h3>
+									<div class="news_feature_date">August 13, 2019</div>
+									<div class="news_feature_description hover_description">
+										<p class="hover_caption">As a summer analyst at Wells Fargo Securities, Gabrielle Neuman &rsquo;20 made a point to network with employees.</p>
+										
+                                      
+                                        <a class="news_feature_link" target="_blank" href="/news/2019/leveragingherposition.html">
+											<span class="news_feature_link_label">Read Neuman's Story</span>
+											<span class="news_feature_link_icon" aria-hidden="true">
+												<svg class="icon icon_caret_right">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+												</svg>
+											</span>
+										</a>
+                                      
+									</div>
+								</div>
+							</div>
+						</figure>
+					</div><div class="news_feature_item news_feature_item_no_caption news_feature_item_image">
+						<figure class="news_feature_item_figure" role="group" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+							<span class="news_feature_item_media">
+								<picture class="news_feature_item_picture">
+									<source media="(min-width: 1200px)" srcset="/media/contentassets/images/newscenter/landingpageslider/SinkSwim-featured1.jpg">
+									<source media="(min-width: 500px)" srcset="/media/contentassets/images/newscenter/landingpageslider/SinkSwim-featured2.jpg">
+									<source media="(min-width: 0px)" srcset="/media/contentassets/images/newscenter/landingpageslider/SinkSwim-featured1.jpg">
+									<img class="news_feature_item_image" src="/media/contentassets/images/newscenter/landingpageslider/SinkSwim-featured1.jpg" alt="Image for Sink or Swim">
+								</picture>
+							</span>
+							<div class="js-hover-caption news_feature_wrapper">
+								<div class="news_feature_header hover_header">
+									<div class="news_feature_label">The Muhlenberg Network</div>
+									<h3 class="news_feature_title">Sink or Swim</h3>
+									<div class="news_feature_date">August 7, 2019</div>
+									<div class="news_feature_description hover_description">
+										<p class="hover_caption">An annual gathering of Muhlenberg alums provides a space for performers to try out new material and escape their comfort zone.</p>
+										
+                                      
+                                        <a class="news_feature_link" target="_blank" href="/news/2019/sink-or-swim/">
+											<span class="news_feature_link_label">Learn More</span>
+											<span class="news_feature_link_icon" aria-hidden="true">
+												<svg class="icon icon_caret_right">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+												</svg>
+											</span>
+										</a>
+                                      
+									</div>
+								</div>
+							</div>
+						</figure>
+					</div><div class="news_feature_item news_feature_item_no_caption news_feature_item_image">
+						<figure class="news_feature_item_figure" role="group" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+							<span class="news_feature_item_media">
+								<picture class="news_feature_item_picture">
+									<source media="(min-width: 1200px)" srcset="/media/contentassets/images/newscenter/alumni/LaurainneOjo-Ohikuare-Slider-1.jpg">
+									<source media="(min-width: 500px)" srcset="/media/contentassets/images/newscenter/alumni/LaurainneOjo-Ohikuare-Slider-1.jpg">
+									<source media="(min-width: 0px)" srcset="/media/contentassets/images/newscenter/alumni/LaurainneOjo-Ohikuare-Slider-2.jpg">
+									<img class="news_feature_item_image" src="/media/contentassets/images/newscenter/alumni/LaurainneOjo-Ohikuare-Slider-1.jpg" alt="Image for Writing the Sports History Books">
+								</picture>
+							</span>
+							<div class="js-hover-caption news_feature_wrapper">
+								<div class="news_feature_header hover_header">
+									<div class="news_feature_label">Powerful Outcomes</div>
+									<h3 class="news_feature_title">Writing the Sports History Books</h3>
+									<div class="news_feature_date">April 4, 2019</div>
+									<div class="news_feature_description hover_description">
+										<p class="hover_caption">Preserving the University of Maryland's athletic archives combines this alum's passions for sports, research and primary sources.</p>
+										
+                                      
+                                        <a class="news_feature_link" target="_blank" href="/news/2019/writingthesportshistorybooks.html">
+											<span class="news_feature_link_label">Read Ojo-Ohikuare's Story</span>
+											<span class="news_feature_link_icon" aria-hidden="true">
+												<svg class="icon icon_caret_right">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+												</svg>
+											</span>
+										</a>
+                                      
+									</div>
+								</div>
+							</div>
+						</figure>
+					</div><div class="news_feature_item news_feature_item_no_caption news_feature_item_image">
+						<figure class="news_feature_item_figure" role="group" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+							<span class="news_feature_item_media">
+								<picture class="news_feature_item_picture">
+									<source media="(min-width: 1200px)" srcset="/media/contentassets/images/newscenter/alumni/IMG_8737.jpg">
+									<source media="(min-width: 500px)" srcset="/media/contentassets/images/newscenter/alumni/IMG_8737.jpg">
+									<source media="(min-width: 0px)" srcset="/media/contentassets/images/newscenter/alumni/IMG_8737-2.jpg">
+									<img class="news_feature_item_image" src="/media/contentassets/images/newscenter/alumni/IMG_8737.jpg" alt="Image for Beyond Basic Research">
+								</picture>
+							</span>
+							<div class="js-hover-caption news_feature_wrapper">
+								<div class="news_feature_header hover_header">
+									<div class="news_feature_label">Powerful Outcomes</div>
+									<h3 class="news_feature_title">Beyond Basic Research</h3>
+									<div class="news_feature_date">April 4, 2019</div>
+									<div class="news_feature_description hover_description">
+										<p class="hover_caption">His experience as a scientist and as an entrepreneur allows Peter Alff &rsquo;02 to help bring newly developed biotechnologies to the public.</p>
+										
+                                      
+                                        <a class="news_feature_link" target="_blank" href="/news/2019/beyondbasicresearch.html">
+											<span class="news_feature_link_label">Read Alff's Story</span>
+											<span class="news_feature_link_icon" aria-hidden="true">
+												<svg class="icon icon_caret_right">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+												</svg>
+											</span>
+										</a>
+                                      
+									</div>
+								</div>
+							</div>
+						</figure>
+					</div><div class="news_feature_item news_feature_item_no_caption news_feature_item_image">
+						<figure class="news_feature_item_figure" role="group" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+							<span class="news_feature_item_media">
+								<picture class="news_feature_item_picture">
+									<source media="(min-width: 1200px)" srcset="/media/contentassets/images/newscenter/admissions/MelissaKlein-1.jpg">
+									<source media="(min-width: 500px)" srcset="/media/contentassets/images/newscenter/admissions/MelissaKlein-1.jpg">
+									<source media="(min-width: 0px)" srcset="/media/contentassets/images/newscenter/admissions/MelissaKlein-2.jpg">
+									<img class="news_feature_item_image" src="/media/contentassets/images/newscenter/admissions/MelissaKlein-1.jpg" alt="Image for Behind the Scenes at the NFL">
+								</picture>
+							</span>
+							<div class="js-hover-caption news_feature_wrapper">
+								<div class="news_feature_header hover_header">
+									<div class="news_feature_label">Immersive Experiences</div>
+									<h3 class="news_feature_title">Behind the Scenes at the NFL</h3>
+									<div class="news_feature_date">March 20, 2019</div>
+									<div class="news_feature_description hover_description">
+										<p class="hover_caption">During an internship with the league&rsquo;s Player Health and Safety Department, Melissa Klein &rsquo;19 saw the breadth of the work that happens to promote safety at all levels of the sport.</p>
+										
+                                      
+                                        <a class="news_feature_link" target="_blank" href="/news/2019/behindthescenesatthenfl.html">
+											<span class="news_feature_link_label">Read Klein's Story</span>
+											<span class="news_feature_link_icon" aria-hidden="true">
+												<svg class="icon icon_caret_right">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+												</svg>
+											</span>
+										</a>
+                                      
+									</div>
+								</div>
+							</div>
+						</figure>
+					</div><div class="news_feature_item news_feature_item_no_caption news_feature_item_image">
+						<figure class="news_feature_item_figure" role="group" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+							<span class="news_feature_item_media">
+								<picture class="news_feature_item_picture">
+									<source media="(min-width: 1200px)" srcset="/media/contentassets/images/newscenter/academics/ErikaSutherland-FeaturedSlideshow-1.jpg">
+									<source media="(min-width: 500px)" srcset="/media/contentassets/images/newscenter/academics/ErikaSutherland-FeaturedSlideshow-1.jpg">
+									<source media="(min-width: 0px)" srcset="/media/contentassets/images/newscenter/academics/ErikaSutherland-FeaturedSlideshow-2.jpg">
+									<img class="news_feature_item_image" src="/media/contentassets/images/newscenter/academics/ErikaSutherland-FeaturedSlideshow-1.jpg" alt="Image for Applied Knowledge">
+								</picture>
+							</span>
+							<div class="js-hover-caption news_feature_wrapper">
+								<div class="news_feature_header hover_header">
+									<div class="news_feature_label">Community-Engaged Learning</div>
+									<h3 class="news_feature_title">Applied Knowledge</h3>
+									<div class="news_feature_date">March 20, 2019</div>
+									<div class="news_feature_description hover_description">
+										<p class="hover_caption">Associate Professor of Spanish Erika M. Sutherland teaches students interpretation skills that they use as they work with community partners.</p>
+										
+                                      
+                                        <a class="news_feature_link" target="_blank" href="/news/2019/appliedknowledge.html">
+											<span class="news_feature_link_label">Read Sutherland's Story</span>
+											<span class="news_feature_link_icon" aria-hidden="true">
+												<svg class="icon icon_caret_right">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+												</svg>
+											</span>
+										</a>
+                                      
+									</div>
+								</div>
+							</div>
+						</figure>
+					</div><div class="news_feature_item news_feature_item_no_caption news_feature_item_image">
+						<figure class="news_feature_item_figure" role="group" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+							<span class="news_feature_item_media">
+								<picture class="news_feature_item_picture">
+									<source media="(min-width: 1200px)" srcset="/media/contentassets/images/newscenter/alumni/alexander-1.jpg">
+									<source media="(min-width: 500px)" srcset="/media/contentassets/images/newscenter/alumni/alexander-1.jpg">
+									<source media="(min-width: 0px)" srcset="/media/contentassets/images/newscenter/alumni/alexander-2.jpg">
+									<img class="news_feature_item_image" src="/media/contentassets/images/newscenter/alumni/alexander-1.jpg" alt="Image for The Sound of Success">
+								</picture>
+							</span>
+							<div class="js-hover-caption news_feature_wrapper">
+								<div class="news_feature_header hover_header">
+									<div class="news_feature_label">Powerful Outcomes</div>
+									<h3 class="news_feature_title">The Sound of Success</h3>
+									<div class="news_feature_date">March 20, 2019</div>
+									<div class="news_feature_description hover_description">
+										<p class="hover_caption">Mike Alexander '05, who made Billboard&rsquo;s 40 Under 40 list last year, entered the music business thanks to help from a fellow Mule.</p>
+										
+                                      
+                                        <a class="news_feature_link" target="_blank" href="/news/2019/thesoundofsuccess.html">
+											<span class="news_feature_link_label">Read Alexander's Story</span>
+											<span class="news_feature_link_icon" aria-hidden="true">
+												<svg class="icon icon_caret_right">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+												</svg>
+											</span>
+										</a>
+                                      
+									</div>
+								</div>
+							</div>
+						</figure>
+					</div>        </div>
+	</div>
+</div>
+<!-- END: Media news_feature -->
+
+    <!-- Page Content -->
+		<div class="page_content">
+      <div class="page_content_inner clearfix">
+				<main class="page_main_content" id="page_main_content" itemprop="mainContentOfPage">
+          <div class="breadcrumb_desktop">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-full">
+								<nav aria-label="Breadcrumb" class="breadcrumb_nav">
+									<ul class="breadcrumb">
+                    <li class="linkitem"><a href="/">Home</a></li>
+										        <li class="linkitem"><a href="/news/">News &amp; Events</a>        </li>
+									</ul>
+								</nav>
+							</div>
+						</div>
+					</div>
+					<!-- WYSIWYG - wrap all WYSIWYG text areas in `.typography` -->
+					<div class="typography">
+						<div class="fs-row">
+							<div class="fs-cell fs-lg-8">
+                </div>
+						</div>
+					</div>
+					<!-- END: WYSIWYG -->
+					<!-- In Content Callouts -->
+					<div class="in_content_callouts">
+					</div>
+					<!-- END: In Content Callouts -->
+				</main>
+			</div>	
+      <!-- Full Width Callouts -->
+			<div class="full_width_callouts">
+				
+<!-- navigation object : News Story Archive --><section class="news_listing">
+					<div class="news_listing_inner">
+						<div class="fs-row">
+							<div class="fs-cell">
+								<div class="news_listing_wrapper">
+									<header class="news_listing_header">
+										<h2 class="news_listing_title">NEWS AT MUHLENBERG</h2>
+									</header>
+									<div class="news_listing_body">
+										<ul class="news_items" aria-label="NEWS AT MUHLENBERG"><!-- News item start-->
+
+<li class="news_item">
+  <article class="news_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+	<div class="news_item_wrapper">
+	  <div class="news_item_meta">
+		<div class="news_item_date">
+			<time class="news_item_date_time" datetime="November 30, 2019" itemprop="datePublished">November 30, 2019</time>
+		</div>
+	 </div>
+     
+ 
+  
+		<header class="news_item_header">
+		  <h3 class="news_item_title" itemprop="headline">
+			<a class="news_item_title_link" href="https://muhlenbergsports.com/news/2019/11/30/football-rolls-into-quarterfinals.aspx">
+			<span class="news_item_title_label">Football Rolls into Quarterfinals</span>
+			 </a>
+		    </h3>
+		  </header>
+		  <div class="news_item_body">
+			<div class="news_item_description" itemprop="description">
+				<p>The Muhlenberg football team flexed its muscles on defense again, shutting out Brockport 42-0 in the second round of the NCAA Tournament. The fourth-ranked Mules (12-0) advance to the quarterfinals to play at Salisbury in the quarterfinals.</p>
+			</div>
+	     </div>
+	 </div>
+ </article>
+</li>
+
+<!-- news item end --><!-- News item start-->
+
+<li class="news_item">
+  <article class="news_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+	<div class="news_item_wrapper">
+	  <div class="news_item_meta">
+		<div class="news_item_date">
+			<time class="news_item_date_time" datetime="November 27, 2019" itemprop="datePublished">November 27, 2019</time>
+		</div>
+	 </div>
+     
+     <!-- image in news listing -->
+<div class="news_item_media" aria-hidden="true"><figure class="news_item_figure"><img src="/media/contentassets/images/newscenter/academics/Remembrance.jpg" alt="Holocaust Memorial - Youth & Prejudice 2019" style="     " /></figure></div>
+  <!-- end image in news listing -->
+  
+		<header class="news_item_header">
+		  <h3 class="news_item_title" itemprop="headline">
+			<a class="news_item_title_link" href="/news/2019/2019youthandprejudice.html">
+			<span class="news_item_title_label">Annual Holocaust Program Teaches Middle School Students What âNever Forgetâ Really Means</span>
+			 </a>
+		    </h3>
+		  </header>
+		  <div class="news_item_body">
+			<div class="news_item_description" itemprop="description">
+				<p>For 26 years, Muhlenberg College has hosted âYouth and Prejudice: Reducing Hatred; Lessons of the Holocaustâ for middle school students in the Lehigh Valley, a program designed to connect the atrocities of Nazi Germany to modern-day actions of hate. </p>
+			</div>
+	     </div>
+	 </div>
+ </article>
+</li>
+
+<!-- news item end --><!-- News item start-->
+
+<li class="news_item">
+  <article class="news_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+	<div class="news_item_wrapper">
+	  <div class="news_item_meta">
+		<div class="news_item_date">
+			<time class="news_item_date_time" datetime="November 26, 2019" itemprop="datePublished">November 26, 2019</time>
+		</div>
+	 </div>
+     
+     <!-- image in news listing -->
+<div class="news_item_media" aria-hidden="true"><figure class="news_item_figure"><img src="/media/contentassets/images/newscenter/Susan Wild Challah for Hunger.jpg" alt="" style="     " /></figure></div>
+  <!-- end image in news listing -->
+  
+		<header class="news_item_header">
+		  <h3 class="news_item_title" itemprop="headline">
+			<a class="news_item_title_link" href="/news/2019/bakingforthebetter.html">
+			<span class="news_item_title_label">Baking for the Better</span>
+			 </a>
+		    </h3>
+		  </header>
+		  <div class="news_item_body">
+			<div class="news_item_description" itemprop="description">
+				<p>At an event organized by Challah for Hungerâs co-presidents, Congresswoman Susan Wild and students discussed the stigma surrounding food insecurity on college campuses and how to make a difference.
+
+</p>
+			</div>
+	     </div>
+	 </div>
+ </article>
+</li>
+
+<!-- news item end --><!-- News item start-->
+
+<li class="news_item">
+  <article class="news_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+	<div class="news_item_wrapper">
+	  <div class="news_item_meta">
+		<div class="news_item_date">
+			<time class="news_item_date_time" datetime="November 26, 2019" itemprop="datePublished">November 26, 2019</time>
+		</div>
+	 </div>
+     
+     <!-- image in news listing -->
+<div class="news_item_media" aria-hidden="true"><figure class="news_item_figure"><img src="/media/contentassets/images/newscenter/magazine/NoahDach-1.jpg" alt="Noah Dach - 1" style="     " /></figure></div>
+  <!-- end image in news listing -->
+  
+		<header class="news_item_header">
+		  <h3 class="news_item_title" itemprop="headline">
+			<a class="news_item_title_link" href="/news/2019/creatorsnoahdach16.html">
+			<span class="news_item_title_label">Creators: Noah Dach '16</span>
+			 </a>
+		    </h3>
+		  </header>
+		  <div class="news_item_body">
+			<div class="news_item_description" itemprop="description">
+				<p>Noah Dach is taking the circus to new heights.</p>
+			</div>
+	     </div>
+	 </div>
+ </article>
+</li>
+
+<!-- news item end --><!-- News item start-->
+
+<li class="news_item">
+  <article class="news_item_article" itemscope="itemscope" itemtype="http://schema.org/NewsArticle">
+	<div class="news_item_wrapper">
+	  <div class="news_item_meta">
+		<div class="news_item_date">
+			<time class="news_item_date_time" datetime="November 25, 2019" itemprop="datePublished">November 25, 2019</time>
+		</div>
+	 </div>
+     
+     <!-- image in news listing -->
+<div class="news_item_media" aria-hidden="true"><figure class="news_item_figure"><img src="/media/contentassets/images/newscenter/academics/iStock-494587494.jpg" alt="" style="     " /></figure></div>
+  <!-- end image in news listing -->
+  
+		<header class="news_item_header">
+		  <h3 class="news_item_title" itemprop="headline">
+			<a class="news_item_title_link" href="/news/2019/thepowerofthepast.html">
+			<span class="news_item_title_label">The Power of the Past</span>
+			 </a>
+		    </h3>
+		  </header>
+		  <div class="news_item_body">
+			<div class="news_item_description" itemprop="description">
+				<p>My ancestors came through Ellis Island to escape persecution, and I was just able to visit for the first time.</p>
+			</div>
+	     </div>
+	 </div>
+ </article>
+</li>
+
+<!-- news item end -->										</ul>
+									</div>
+									<footer class="news_listing_footer">
+										<a class="news_item_link" href="https://www.muhlenberg.edu/news/2019/" aria-label="All News" itemprop="url" tabindex="-1">
+											<span class="news_item_link_label">All News</span>
+											<span class="news_item_link_icon"><svg class="icon icon_caret_right">
+													<use xlink:href="<t4 type="media" id="400928" formatter="path/*" />#caret_right"></use>
+												</svg>
+											</span>
+										</a>
+									</footer>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+									<div class="cards_block theme_red">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="cards_inner">
+								<header class="cards_header">
+									<span class="cards_label">MUHLENBERGâS REACH</span>
+                                    <h2 class="cards_title">In the Media</h2>
+									<p class="cards_caption">Muhlenberg College faculty, students and staff share their knowledge and experience with the world.</p>
+								</header>
+								<div class="js-carousel cards row_pagination cards_pagination" data-carousel-options='{
+					"contained": false,
+					"show": {
+						"660px": 2,
+						"740px": 1,
+						"1220px": 2
+					}
+				}'>									<article class="card layout_image layout_no_image">
+										<div class="card_inner">
+                                          <div class="card_media">
+											
+                                            </div>
+											<div class="card_wrapper">
+												<header class="card_header">
+													<h3 class="card_title">The New York Times</h3>
+												</header>
+												<div class="card_body">
+													<div class="card_description">
+														<p>Muhlenberg students, staff and faculty were featured in an article about enrolling more top community college transfers and the strengths they bring to campus.</p>
+													</div>
+												</div>
+												<footer class="card_links">
+													
+                                                  
+                                                    <a class="card_link" target="_blank" href="/news/2019/newyorktimesmuhlenbergstransfersuccess.html">
+														<span class="card_link_label">Read More</span>
+														<span class="card_link_icon" aria-hidden="true">
+															<svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</div>
+									</article>
+                                    									<article class="card layout_image layout_no_image">
+										<div class="card_inner">
+                                          <div class="card_media">
+											
+                                            </div>
+											<div class="card_wrapper">
+												<header class="card_header">
+													<h3 class="card_title">The New York Times</h3>
+												</header>
+												<div class="card_body">
+													<div class="card_description">
+														<p>Kathleen Bachynski, assistant professor of public health, was interviewed for an op-ed, 'Football Is Here to Stay,' about concussions and youth football.</p>
+													</div>
+												</div>
+												<footer class="card_links">
+													
+                                                  
+                                                    <a class="card_link" target="_blank" href=" https://www.nytimes.com/2019/09/07/opinion/sunday/nfl-football.html">
+														<span class="card_link_label">Read More</span>
+														<span class="card_link_icon" aria-hidden="true">
+															<svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</div>
+									</article>
+                                    									<article class="card layout_image layout_no_image">
+										<div class="card_inner">
+                                          <div class="card_media">
+											
+                                            </div>
+											<div class="card_wrapper">
+												<header class="card_header">
+													<h3 class="card_title">PBS39</h3>
+												</header>
+												<div class="card_body">
+													<div class="card_description">
+														<p>The segment features the College&rsquo;s new sustainability studies major with its interdisciplinary focus on environment, economics and sociology.</p>
+													</div>
+												</div>
+												<footer class="card_links">
+													
+                                                  
+                                                    <a class="card_link" target="_blank" href="https://www.wlvt.org/blogs/lehigh/muhlenberg-students-explore-new-sustainability-studies-degree/">
+														<span class="card_link_label">Read and Watch</span>
+														<span class="card_link_icon" aria-hidden="true">
+															<svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</div>
+									</article>
+                                    									<article class="card layout_image layout_no_image">
+										<div class="card_inner">
+                                          <div class="card_media">
+											
+                                            </div>
+											<div class="card_wrapper">
+												<header class="card_header">
+													<h3 class="card_title">NPR's All Things Considered</h3>
+												</header>
+												<div class="card_body">
+													<div class="card_description">
+														<p>The fan fiction site Archive Of Our Own, co-founded by English professor Francesca Coppa, won a coveted Hugo Award, one of the top awards for science-fiction.</p>
+													</div>
+												</div>
+												<footer class="card_links">
+													
+                                                  
+                                                    <a class="card_link" target="_blank" href="https://www.npr.org/2019/08/16/751861297/archive-of-our-own-fanfiction-website-is-up-for-a-hugo-award">
+														<span class="card_link_label">Read More</span>
+														<span class="card_link_icon" aria-hidden="true">
+															<svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</div>
+									</article>
+                                    									<article class="card layout_image layout_no_image">
+										<div class="card_inner">
+                                          <div class="card_media">
+											
+                                            </div>
+											<div class="card_wrapper">
+												<header class="card_header">
+													<h3 class="card_title">The Guardian</h3>
+												</header>
+												<div class="card_body">
+													<div class="card_description">
+														<p>Mahsheed Mahjor &lsquo;17, Muhlenberg&rsquo;s 2017 Commencement student speaker, was featured for her work in founding Afghanistan's youngest reading club.</p>
+													</div>
+												</div>
+												<footer class="card_links">
+													
+                                                  
+                                                    <a class="card_link" target="_blank" href="https://www.theguardian.com/global-development/2019/may/07/when-i-get-tired-of-it-all-i-escape-into-poetry-book-clubs-bloom-in-afghanistan">
+														<span class="card_link_label">Read More</span>
+														<span class="card_link_icon" aria-hidden="true">
+															<svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</div>
+									</article>
+                                    									<article class="card layout_image layout_no_image">
+										<div class="card_inner">
+                                          <div class="card_media">
+											
+                                            </div>
+											<div class="card_wrapper">
+												<header class="card_header">
+													<h3 class="card_title">PBS Nature</h3>
+												</header>
+												<div class="card_body">
+													<div class="card_description">
+														<p>Hundreds of millions of birds die in the U.S. every year from window collisions. There are effective solutions, says Professor and Ornithologist Daniel Klem. </p>
+													</div>
+												</div>
+												<footer class="card_links">
+													
+                                                  
+                                                    <a class="card_link" target="_blank" href="https://www.pbs.org/wnet/nature/blog/bird-brained-when-birds-and-buildings-collide/">
+														<span class="card_link_label">Read More</span>
+														<span class="card_link_icon" aria-hidden="true">
+															<svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  
+												</footer>
+											</div>
+										</div>
+									</article>
+                                    									<article class="card layout_image layout_no_image">
+										<div class="card_inner">
+                                          <div class="card_media">
+											
+                                            </div>
+											<div class="card_wrapper">
+												<header class="card_header">
+													<h3 class="card_title">More Media</h3>
+												</header>
+												<div class="card_body">
+													<div class="card_description">
+														<p>View a full list of Muhlenberg media coverage.</p>
+													</div>
+												</div>
+												<footer class="card_links">
+													<a class="card_link" href="/offices/communications/inthemedia/index.php">
+														<span class="card_link_label">Read More</span>
+														<span class="card_link_icon" aria-hidden="true">
+															<svg class="icon icon_caret_right">
+																<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_right"></use>
+															</svg>
+														</span>
+													</a>
+                                                  <!--
+                                                    
+                                                  -->
+												</footer>
+											</div>
+										</div>
+									</article>
+                                    								</div>
+							</div>
+						</div>
+					</div>
+				</div><!-- Contact -->
+				<div class="contact_block">
+					<div class="contact_block_inner">
+						<div class="fs-row">
+							<div class="fs-cell">
+								<div class="contact_block_wrapper">
+									<div class="contact" itemscope itemtype="https://schema.org/Person">
+										<div class="contact_wrapper">
+											<div class="contact_header">
+												<div class="contact_types">
+													<span class="contact_heading_label">Contact Us</span>
+													<h2 class="contact_name" itemprop="name">
+														<span class="contact_name_label">Office of Communications</span>
+													</h2>
+													
+												</div>
+												<div class="contact_types_header">
+													<a class="contact_type contact_type_link contact_type_email" href="mailto:communications@muhlenberg.edu">
+														<span class="contact_type_label">
+															<span class="contact_type_label_icon"><svg class="icon icon_email">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+																</svg>
+															</span>
+															<span class="contact_type_label_text">Email</span>
+														</span>
+														<span class="contact_type_description" itemprop="email">communications@muhlenberg.edu</span>
+													</a>
+													<a class="contact_type contact_type_link contact_type_phone" href="tel:484-664-3230">
+														<span class="contact_type_label">
+															<span class="contact_type_label_icon"><svg class="icon icon_phone">
+																	<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+																</svg>
+															</span>
+															<span class="contact_type_label_text">Telephone</span>
+														</span>
+														<span class="contact_type_description" itemprop="telephone">484-664-3230</span>
+													</a>
+												</div>
+											</div>
+											<div class="contact_body">
+												<div class="contact_types">
+													<div class="contact_type contact_type_address">
+														<span class="contact_type_label">
+															<span class="contact_type_label_text">Address</span>
+														</span>
+														<span class="contact_type_address_label"><strong>Muhlenberg College</strong></span>
+														<span class="contact_type_address_label">484-664-3477 (fax)</span>
+														
+														<span class="contact_type_address_label" itemprop="address">2400 Chew Street</span>
+														<span class="contact_type_address_label" itemprop="address">Allentown, PA 18104</span>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- END: Contact -->			
+			</div>
+			<!-- END: Full Width Callouts -->
+		</div>
+		<!-- END: Page Content -->
+	</div>
+	<!-- END: Page -->
+	<!-- Footer -->
+	<!-- END: Page -->
+	<!-- Footer -->
+	<footer class="footer" id="footer" itemscope itemtype="http://schema.org/WPFooter">
+		<div class="footer_ribbon">
+			<div class="fs-row">
+				<div class="fs-cell">
+					<div class="footer_ribbon_inner">
+						<div class="footer_group footer_group_hat">
+							<div class="logo logo_footer logo_icon" itemscope itemtype="http://schema.org/Organization">
+								<a class="logo_link" itemprop="url" href="https://www.muhlenberg.edu/">
+									<span class="logo_link_label">Muhlenberg College</span>
+									<img src="/media/muhlenbergedu/siteassets/images/logo_letter_red.png" class="logo_link_icon" alt="Muhlenberg College Logo" />
+								</a>
+							</div>
+							<div class="footer_address" itemscope itemtype="http://schema.org/PostalAddress">
+								<a class="footer_address_link footer_address_location" href="#">
+									<span class="footer_address_icon"><svg class="icon icon_marker">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#marker"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">
+										<span class="footer_address_name" itemprop="name">Muhlenberg College</span>
+										<span class="footer_address_street" itemprop="streetAddress">2400 Chew St.<br></span>
+										<span class="footer_address_city" itemprop="addressLocality">Allentown, </span>
+										<span class="footer_address_state" itemprop="addressRegion">PA</span>
+										<span class="footer_address_zip" itemprop="postalCode">18104</span>
+									</span>
+								</a>
+								<a class="footer_address_link footer_address_phone" itemprop="telephone" href="tel:484-664-3100">
+									<span class="footer_address_icon"><svg class="icon icon_phone">
+											<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#phone"></use>
+										</svg>
+									</span>
+									<span class="footer_address_label">484-664-3100</span>
+								</a>
+							</div>
+						</div>
+						<div class="footer_group footer_group_sole">
+							<nav class="footer_nav">
+								<ul class="footer_nav_list">
+									<li class="footer_nav_item">
+                                        <a class="footer_nav_link" href="/campus-map/">
+											<span class="footer_nav_link_label">Maps &amp; Directions</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										<a class="footer_nav_link" href="/offices/oit/webresources/accessibility/">
+											<span class="footer_nav_link_label">Accessibility</span>
+										</a>
+                                      <!--
+										
+                                      -->
+									</li>
+									<li class="footer_nav_item">
+										
+                                      
+										<a class="footer_nav_link" target="_blank" href="http://trexler.muhlenberg.edu/">
+											<span class="footer_nav_link_label">Library</span>
+										</a>
+                                      
+									</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/equityandtitleix/'>
+											<span class='footer_nav_link_label'>Title IX</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+									<li class="footer_nav_item">
+    <a class='footer_nav_link' href='/eventservices/'>
+											<span class='footer_nav_link_label'>Conference &amp; Event Services</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/tactical/azfind.htm'>
+											<span class='footer_nav_link_label'>A-Z Index</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+                                  
+                                  <li class="footer_nav_item">
+    <a class='footer_nav_link' href='/offices/hr/jobs.html'>
+											<span class='footer_nav_link_label'>Employment</span>
+										</a>
+                                      <!--
+										
+                                      -->
+
+</li>
+								</ul>
+							</nav>
+							<div class="social_nav" itemscope itemtype="http://schema.org/Organization">
+								<link itemprop="url" href="//muhlenberg.dev.fastspot.com/site">
+								<div class="social_nav_header">
+									<h2 class="social_nav_title">Social</h2>
+								</div>
+								<div class="social_nav_list">
+									<div class="social_nav_item facebook">
+										<a class="social_nav_link" href="https://www.facebook.com/MuhlenbergCollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_facebook">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#facebook"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Facebook</span>
+										</a>
+									</div>
+									<div class="social_nav_item instagram">
+										<a class="social_nav_link" href="https://www.instagram.com/muhlenbergcollege/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_instagram">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#instagram"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Instagram</span>
+										</a>
+									</div>
+									<div class="social_nav_item twitter">
+										<a class="social_nav_link" href="https://twitter.com/Muhlenberg" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_twitter">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#twitter"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">Twitter</span>
+										</a>
+									</div>
+									<div class="social_nav_item youtube">
+										<a class="social_nav_link" href="https://www.youtube.com/user/MuhlenbergCollege" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_youtube">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#youtube"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">YouTube</span>
+										</a>
+									</div>
+									<div class="social_nav_item linkedin">
+										<a class="social_nav_link" href="https://ie.linkedin.com/school/muhlenberg-college/" target="_blank" itemprop="sameAs">
+											<span class="social_nav_icon"><svg class="icon icon_linkedin">
+													<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#linkedin"></use>
+												</svg>
+											</span>
+											<span class="social_nav_label">LinkedIn</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<p class="footer_credit">
+						<span class="footer_credit_icon">
+							<a class="t4Edit-page" href="https://t4.muhlenberg.edu/terminalfour/page/directEdit#edit/11/en/72026">&copy;</a>
+													</span>
+						<span class="footer_credit_label">2019 Muhlenberg College</span>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- END: Footer -->
+	<!-- END: page_wrapper -->
+	<div class="js-menu menu" id="menu">
+		<div class="menu_group menu_group_hat">
+			<div class="logo logo_menu" itemscope itemtype="http://schema.org/Organization">
+				<a class="logo_link" itemprop="url" href="/">
+					<span class="logo_link_label">Muhlenburg College</span>
+					<span class="logo_link_icon"><svg class="icon icon_logo">
+							<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#logo"></use>
+						</svg>
+					</span>
+				</a>
+			</div>
+            <div class="site_search site_search_sm" id="site_search_sm" itemscope itemtype="http://schema.org/WebSite" role="search">
+				<meta itemprop="url" content="http://muhlenberg.dev.fastspot.com/site">
+				<form class="site_search_form" action="/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+					<meta itemprop="target" content="http://muhlenberg.dev.fastspot.com/site/static/templates/page-search.html?q={search_term_string_sm}">
+					<label class="site_search_label" for="search_term_string_sm">Search</label>
+					<input aria-live="polite" class="site_search_input" itemprop="query-input" type="search" id="search_term_string_sm" name="q" placeholder="Enter Keywordâ¦">
+					<button class="site_search_button" type="submit" aria-label="Search">
+						<span class="site_search_button_icon"><svg class="icon icon_search">
+								<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#search"></use>
+							</svg>
+						</span>
+					</button>
+				</form>
+			</div>
+			<nav class="js-main-nav js-main-nav-sm main_nav main_nav_sm" aria-label="Site" itemscope itemtype="http://schema.org/SiteNavigationElement">
+				<ul class="main_nav_list">
+					<li class="js-main-nav-item-401011 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/aboutus/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Who We Are</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401011" data-swap-group="main_nav" aria-label="Who We Are Submenu" title="Who We Are Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							<li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/leadership/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Leadership &amp; Administration</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/diversityatmuhlenberg/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Diversity and Inclusion</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/institutionalinitiatives/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Institutional Initiatives</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/campus-map/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Campus Map</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>College Offices</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/aboutus/collegehistory/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>College History</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/directory/index.php' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Directory Search</span>
+</a>
+</li>
+
+
+                                                                                                                                  
+                                                                                                                                   
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401012 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/admissions/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Admissions</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401012" data-swap-group="main_nav" aria-label="Admissions Submenu" title="Admissions Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							<li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/types-of-visits/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Explore Your Visit Options</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/admissions-counselor/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Meet Your Counselor</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingearlydecision/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Early and Regular Decision</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/transfer/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Transfer Students</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/applyingasaninternationalstudent/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>International Students</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/main/wescoe/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Continuing Education Students</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/transferstudents/cost_of_education.html' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Tuition and Fees</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/incoming/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Accepted Students</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/financialaid/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Financial Aid</span>
+</a>
+</li>
+                                                                                                                                  
+                                                                                                                                   
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401013 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/academics/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Academics</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401013" data-swap-group="main_nav" aria-label="Academics Submenu" title="Academics Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							<li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/main/wescoe/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Continuing Education Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/majorsandprograms.html' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Majors, Minors &amp; Certifications</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academics/preprof/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Preprofessional Programs</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/academicpartnerships/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Academic Partnerships</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/admissions/honors-overview.html/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Honors Programs</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/global-education/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Global Education</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/faculty/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Our Faculty</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/centers/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Centers and Institutes</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/academics/research/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Research &amp; Scholarship</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/newsevents/calendar/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Academic Calendar</span>
+</a>
+</li>                                                                                                                                  
+                                                                                                                                   
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401014 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/student-life/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Student Life</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401014" data-swap-group="main_nav" aria-label="Student Life Submenu" title="Student Life Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							<li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/housing/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Housing</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://dining.muhlenberg.edu/?' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Dining</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/gettinginvolved/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Getting Involved</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='http://muhlenbergsports.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Athletics</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/student-life/studentservices/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Student Services</span>
+								</a>
+							</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/offices/healthcenter/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Health &amp; Wellness</span>
+</a>
+</li>
+<li class='main_nav_child_item'>
+<a class='main_nav_child_link' href='/student-life/religiouslife/' itemprop='url'>
+<span class='main_nav_child_link_label' itemprop='name'>Religious &amp; Spiritual Life</span>
+</a>
+</li>
+
+
+                                                                                                                                  
+                                                                                                                                   
+                                                                                                                                   
+						</ul>
+					</li><li class="js-main-nav-item-401015 main_nav_item main_nav_has_children">
+						<div class="main_nav_item_wrapper">
+							<a class="main_nav_link" href="/powerfuloutcomes/" itemprop="url" aria-haspopup="true">
+								<span class="main_nav_link_label" itemprop="name">Powerful Outcomes</span>
+							</a>
+							<button class="js-swap js-main-nav-toggle main_nav_toggle" data-swap-target=".js-main-nav-item-401015" data-swap-group="main_nav" aria-label="Powerful Outcomes Submenu" title="Powerful Outcomes Submenu">
+								<span class="main_nav_toggle_icon"><svg class="icon icon_caret_down">
+										<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#caret_down"></use>
+									</svg>
+								</span>
+							</button>
+						</div>
+						<ul class="js-main-nav-children main_nav_children" aria-label="submenu">
+							<li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/aboutus/careercenter/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Career Center</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='/offices/deanofacademiclife/awards/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>Fellowships &amp; Postgraduate Awards</span>
+								</a>
+							</li>
+                            <li class='main_nav_child_item'>
+								<a class='main_nav_child_link' href='https://themuhlenbergnetwork.com/' itemprop='url'>
+									<span class='main_nav_child_link_label' itemprop='name'>The Muhlenberg Network</span>
+								</a>
+							</li>
+                            
+                            
+
+
+
+
+                                                                                                                                  
+                                                                                                                                   
+                                                                                                                                   
+						</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+		<div class="menu_group menu_group_sole">
+			<nav class="secondary_nav secondary_nav_sm">
+				<ul class="secondary_nav_list">
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link map" href="/admissions/types-of-visits/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_map">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#map"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Visit</span>
+                      </a>
+                    <!--
+                      
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link pencil" href="/admissions/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_pencil">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#pencil"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Apply</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      <a class="secondary_nav_link email" href="/inquire/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_email">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#email"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Contact</span>
+                      </a>
+                    <!--
+                    
+                    -->
+                  </li>
+                  <li class="secondary_nav_item">
+                      
+                    
+                     <a class="secondary_nav_link heart" target="_blank" href="https://give.muhlenberg.edu/">
+                          <span class="secondary_nav_link_icon"><svg class="icon icon_heart">
+                                  <use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#heart"></use>
+                              </svg>
+                          </span>
+                          <span class="secondary_nav_link_label">Give</span>
+                      </a>
+                    
+                  </li>
+              </ul>
+			</nav>
+			<div class="menu_mini_group">
+				<nav class="utility_nav utility_nav_sm">
+					<div class="utility_nav_header">
+						<h2 class="utility_nav_title">Info For:</h2>
+					</div>
+					<ul class="utility_nav_list">
+						<li class="utility_nav_item">
+							<a class="utility_nav_link" href="/gateways/current-students/index.php">
+								<span class="utility_nav_link_label">Current Students</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							
+                          
+                            <a class='utility_nav_link' target='_blank' href='https://www.muhlenbergconnect.com/s/1570/start.aspx?gid=2&amp;pgid=61'>
+								<span class='utility_nav_link_label'>Alumni</span>
+							</a>
+                          
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='/gateways/faculty-staff/index.php'>
+								<span class='utility_nav_link_label'>Faculty &amp; Staff</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+						<li class="utility_nav_item">
+							<a class='utility_nav_link' href='https://muhlenberg.campusesp.com/users/sign_in'>
+								<span class='utility_nav_link_label'>Parents</span>
+							</a>
+                          <!--
+                            
+                          -->
+						</li>
+					</ul>
+				</nav>
+				<nav class="quick_nav quick_nav_sm">
+					<ul class="quick_nav_list">
+						<li class="quick_nav_item">
+							<a class="quick_nav_link" target="_blank" href="/news/">
+								<span class="quick_nav_link_label">News</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://webapps.muhlenberg.edu:442/Calendar '>
+								<span class='quick_nav_link_label'>Events</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							
+                    		
+                            <a class='quick_nav_link' target='_blank' href='https://muhlenbergsports.com/'>
+								<span class='quick_nav_link_label'>Athletics</span>
+							</a>
+                            
+						</li>
+						<li class="quick_nav_item">
+							<a class='quick_nav_link' href='/artsatmuhlenberg/'>
+								<span class='quick_nav_link_label'>Arts</span>
+							</a>
+                    		<!--
+                            
+                            -->
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+		<button class="js-swap js-menu-close menu_close" data-swap-target=".menu" data-swap-linked="menu" aria-label="Close Menu">
+			<span class="menu_close_icon"><svg class="icon icon_close">
+					<use xlink:href="/media/muhlenbergedu/siteassets/images/icons.svg#close"></use>
+				</svg>
+			</span>
+		</button>
+	</div>
+	<script src="/media/muhlenbergedu/siteassets/javascript/site.js"></script>
+	<!-- Ping -->
+<script async="async" src="https://admissions.muhlenberg.edu/ping">/**/</script>
+
+
+</body>
+
+</html>
